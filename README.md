@@ -5,6 +5,14 @@ Updated twice daily.
 
 ---
 
+## Government Warnings About OpenClaw
+
+- [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
+- [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
+- [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
+
+---
+
 <!-- HEADLINES_START -->
 
 
@@ -53,10 +61,9 @@ Updated twice daily.
 - [CybersecurityNews - OpenClaw 2026.2.12 Released With Fix for 40+ Security Issues - February 13, 2026](https://cybersecuritynews.com/openclaw-2026-2-12-released/)
 
 ### 2026-02-12
-- [Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026](https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/)
 - [Bitdefender - 135K OpenClaw AI Agents Exposed to Internet - February 12, 2026](https://www.bitdefender.com/en-us/blog/hotforsecurity/135k-openclaw-ai-agents-exposed-online)
 - [Security Boulevard - 42,900 OpenClaw Exposed Control Panels and Why You Should Care - February 12, 2026](https://securityboulevard.com/2026/02/42900-openclaw-exposed-control-panels-and-why-you-should-care/)
-- autoriteitpersoonsgegevens.nl - AP warns of major security risks with AI agents like OpenClaw - February 12, 2026
+- [Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026](https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/)
 - [trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026](https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/)
 - [Github.com - Show HN: Aquaman keeping your OpenClaw secrets safe - February 12, 2026](https://github.com/tech4242/aquaman)
 - [Github.com - Show HN: Carapace – A security-hardened Rust alternative to OpenClaw - February 12, 2026](https://github.com/puremachinery/carapace)
@@ -77,18 +84,17 @@ Updated twice daily.
 - [SC Media - OpenClaw, VirusTotal announce partnership to strengthen security on ClawHub - February 10, 2026](https://www.scworld.com/brief/openclaw-virustotal-announce-partnership-to-strengthen-security-on-clawhub)
 
 ### 2026-02-09
-- [Tenable.com - I pretended to be an AI agent on Moltbook so you don't have to - February 9, 2026](https://www.tenable.com/blog/undercover-on-moltbook)
+- [Infosecurity Magazine - Researchers Find 40,000+ Exposed OpenClaw Instances - February 9, 2026](https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/)
+- [trendingtopics.eu - Security Nightmare: How OpenClaw Is Fighting Malware in Its AI Agent Marketplace - February 9, 2026](https://www.trendingtopics.eu/security-nightmare-how-openclaw-is-fighting-malware-in-its-ai-agent-marketplace/)
 - [Cisa.gov - Vulnerability Summary for the Week of February 2, 2026 - February 9, 2026](https://www.cisa.gov/news-events/bulletins/sb26-040)
+- [Tenable.com - I pretended to be an AI agent on Moltbook so you don't have to - February 9, 2026](https://www.tenable.com/blog/undercover-on-moltbook)
 - [Github.com - Show HN: Running OpenClaw on Kubernetes - February 9, 2026](https://github.com/serhanekicii/openclaw-helm)
 - [C-sharpcorner.com - OpenClaw Security Risks and Concerns - February 9, 2026](https://www.c-sharpcorner.com/article/openclaw-security-risks-and-concerns/)
 - [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
-- Forbes - OpenClaw Showed The Future Of AI Security And It's Going To Be Rough - February 9, 2026
-- [Infosecurity Magazine - Researchers Find 40,000+ Exposed OpenClaw Instances - February 9, 2026](https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/)
-- [trendingtopics.eu - Security Nightmare: How OpenClaw Is Fighting Malware in Its AI Agent Marketplace - February 9, 2026](https://www.trendingtopics.eu/security-nightmare-how-openclaw-is-fighting-malware-in-its-ai-agent-marketplace/)
+- [Forbes - OpenClaw Showed The Future Of AI Security And It's Going To Be Rough - February 9, 2026](https://www.forbes.com/sites/markkraynak/2026/02/09/openclaw-showed-the-future-of-ai-security-and-its-going-to-be-rough/)
 - [The Register - OpenClaw instances open to the internet present ripe targets - February 9, 2026](https://www.theregister.com/2026/02/09/openclaw_instances_exposed_vibe_code/)
 - [Techzine Global - Over 40,000 OpenClaw agents vulnerable - February 9, 2026](https://www.techzine.eu/news/security/138633/over-40000-openclaw-agents-vulnerable/)
 - [CSO Online - OpenClaw integrates VirusTotal malware scanning as security firms flag enterprise risks - February 9, 2026](https://www.csoonline.com/article/4129393/openclaw-integrates-virustotal-malware-scanning-as-security-firms-flag-enterprise-risks.html)
-- [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 
 ### 2026-02-08
 - [The Hacker News - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - February 8, 2026](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
@@ -99,7 +105,6 @@ Updated twice daily.
 - [Forbes - What Is OpenClaw, Formerly Moltbot? Everything You Need To Know - February 6, 2026](https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/)
 
 ### 2026-02-05
-- [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
 - [The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026](https://thenewstack.io/openclaw-moltbot-security-concerns/)
 - [Bitdefender - Technical Advisory: OpenClaw Exploitation in Enterprise Networks - February 5, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-enterprise-networks)
 - [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
