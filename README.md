@@ -8,14 +8,14 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-02-18
-- Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026
-- Security Boulevard - Securing OpenClaw Against ClawHavoc - February 18, 2026
+- Attack of the Fanboy - Meta bans OpenClaw over security fears, but insiders say the real risk is far worse - February 18, 2026
 - Cybersecurity Insiders - Socket Uncovers AI Agent is Reputation Farming to Promote Paid OpenClaw Services - February 18, 2026
 - VPNOverview.com - Is OpenClaw AI safe? Security risks and how to use it safely - February 18, 2026
 - CybersecurityNews - OpenClaw AI Framework v2026.2.17 Released with Anthropic Model Support and Security Fixes - February 18, 2026
 - CybersecurityNews - ClawHavoc Poisoned OpenClaw's ClawHub with 1,184 Malicious Skills, Enabling Data Theft and Backdoor Access - February 18, 2026
 - gbhackers.com - OpenClaw AI Log Poisoning Flaw Enables Malicious Content Injection - February 18, 2026
-- Attack of the Fanboy - Meta bans OpenClaw over security fears, but insiders say the real risk is far worse - February 18, 2026
+- Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026
+- Security Boulevard - Securing OpenClaw Against ClawHavoc - February 18, 2026
 
 ### 2026-02-17
 - WIRED - Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears - February 17, 2026
@@ -31,7 +31,6 @@ Updated twice daily.
 - CybersecurityNews - Threat Actors Attacking OpenClaw Configurations to Steal Login Credentials - February 17, 2026
 
 ### 2026-02-16
-- [Github.com - Show HN: SecureClaw – Open-Source Security Layer for OpenClaw Agents - February 16, 2026](https://github.com/adversa-ai/secureclaw)
 - The Hacker News - Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens - February 16, 2026
 - BleepingComputer - Infostealer malware found stealing OpenClaw secrets for first time - February 16, 2026
 - Kaspersky - Key OpenClaw risks, Clawdbot, Moltbot - February 16, 2026
@@ -42,6 +41,7 @@ Updated twice daily.
 - Security Boulevard - ClawBands GitHub Project Looks to Put Human Controls on OpenClaw AI Agents - February 16, 2026
 - StartupHub.ai - OpenClaw v2 Enhances Agent Interactions - February 16, 2026
 - CybersecurityNews - OpenClaw Founder Peter Steinberger Officially Joins OpenAI - February 16, 2026
+- [Github.com - Show HN: SecureClaw – Open-Source Security Layer for OpenClaw Agents - February 16, 2026](https://github.com/adversa-ai/secureclaw)
 
 ### 2026-02-15
 - The New Stack - OpenClaw is being called a security Dumpster fire but there is a way to stay safe - February 15, 2026
@@ -53,13 +53,13 @@ Updated twice daily.
 - CybersecurityNews - OpenClaw 2026.2.12 Released With Fix for 40+ Security Issues - February 13, 2026
 
 ### 2026-02-12
-- [Github.com - Show HN: Aquaman keeping your OpenClaw secrets safe - February 12, 2026](https://github.com/tech4242/aquaman)
-- [Github.com - Show HN: Carapace – A security-hardened Rust alternative to OpenClaw - February 12, 2026](https://github.com/puremachinery/carapace)
 - Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026
 - Bitdefender - 135K OpenClaw AI Agents Exposed to Internet - February 12, 2026
 - Security Boulevard - 42,900 OpenClaw Exposed Control Panels and Why You Should Care - February 12, 2026
 - autoriteitpersoonsgegevens.nl - AP warns of major security risks with AI agents like OpenClaw - February 12, 2026
 - trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026
+- [Github.com - Show HN: Aquaman keeping your OpenClaw secrets safe - February 12, 2026](https://github.com/tech4242/aquaman)
+- [Github.com - Show HN: Carapace – A security-hardened Rust alternative to OpenClaw - February 12, 2026](https://github.com/puremachinery/carapace)
 
 ### 2026-02-11
 - [C-sharpcorner.com - Operating Cost of OpenClaw: What It Is and How to Predict Monthly Running Costs - February 11, 2026](https://www.c-sharpcorner.com/article/operating-cost-of-openclaw-what-it-is-and-how-to-predict-monthly-running-costs/)
