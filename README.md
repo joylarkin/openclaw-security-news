@@ -35,6 +35,9 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 
 <!-- HEADLINES_START -->
 
+### 2026-02-20
+- [The Hacker News - Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - February 2026](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
+
 ### 2026-02-19
 - [Slashdot.org - OpenClaw security fears lead Meta, other AI firms to restrict its use - February 19, 2026](https://slashdot.org/firehose.pl?op=view&amp;id=180827080)
 - [CSO - Six flaws found hiding in OpenClaw’s plumbing - February 19, 2026](https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html)
@@ -54,6 +57,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [Paubox - First infostealer malware caught stealing OpenClaw AI agent credentials - February 18, 2026](https://www.paubox.com/blog/first-infostealer-malware-caught-stealing-openclaw-ai-agent-credentials)
 
 ### 2026-02-17
+- [Cline - Unauthorized npm publish of Cline CLI cline@2.3.0 with modified postinstall script to install openclaw - February 17, 2026](https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7)
 - [WIRED - Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears - February 17, 2026](https://www.wired.com/story/meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears/)
 - [Infosecurity Magazine - Infostealer Targets OpenClaw to Loot Victim's Digital Life - February 17, 2026](https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/)
 - [Techzine Global - Infostealer steals identity of AI agent OpenClaw - February 17, 2026](https://www.techzine.eu/news/security/138835/infostealer-steals-identity-of-ai-agent-openclaw/)
