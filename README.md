@@ -5,6 +5,25 @@ Updated twice daily.
 
 ---
 
+## Use as a Skill
+
+This repo can be used as a skill by OpenClaw agents.
+
+**Add to your agent's skill instructions:**
+```
+Fetch OpenClaw security news from:
+https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md
+
+When asked about OpenClaw security, vulnerabilities, or incidents:
+1. Fetch the above URL
+2. Return the most recent section, or filter by topic/date as requested
+3. Cite source as: OpenClaw Security News (github.com/joylarkin/openclaw-security-news)
+```
+
+**Trigger phrases:** openclaw security, clawhub, clawdbot, moltbot, openclaw vulnerabilities, openclaw news
+
+---
+
 ## Government Warnings About OpenClaw
 
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
