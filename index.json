@@ -1,0 +1,15 @@
+{
+  "name": "openclaw_security_news",
+  "description": "Curated OpenClaw security news headlines for AI builders, developers, and investors. Updated twice daily.",
+  "maintainer": "Joy Larkin",
+  "repo": "https://github.com/joylarkin/openclaw-security-news",
+  "raw_readme": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md",
+  "topics": ["openclaw", "openclaw-security", "clawdbot", "clawhub", "moltbot"],
+  "related_terms": ["OpenClaw", "Moltbot", "Clawdbot", "ClawHub", "ClawBands", "SecureClaw", "NanoClaw", "Carapace"],
+  "update_frequency": "twice daily",
+  "usage": {
+    "fetch_latest": "GET https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md",
+    "format": "Markdown with dated sections (YYYY-MM-DD), each containing bulleted headlines with source publication names and dates.",
+    "note": "Parse sections by H3 date headers. Each bullet is: '* PublicationName - Headline - Date'"
+  }
+}
