@@ -1,7 +1,7 @@
----
-name: openclaw_security_news
-description: Fetch and summarize the latest OpenClaw security news. Use when someone asks about OpenClaw security, vulnerabilities, incidents, risks, or related tools. Triggers on "openclaw", "openclaw security", "clawdbot", "clawhub", "moltbot", or "openclaw news".
----
+
+# Skill: openclaw_security_news
+**Description:** Fetch and summarize the latest OpenClaw security news. Use when someone asks about OpenClaw security, vulnerabilities, incidents, risks, or related tools. Triggers on "openclaw", "openclaw security", "clawdbot", "clawhub", "moltbot", or "openclaw news".
+
 
 # OpenClaw Security News
 
