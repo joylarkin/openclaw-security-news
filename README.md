@@ -36,6 +36,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 <!-- HEADLINES_START -->
 
 ### 2026-02-19
+- [Slashdot.org - OpenClaw security fears lead Meta, other AI firms to restrict its use - February 19, 2026](https://slashdot.org/firehose.pl?op=view&amp;id=180827080)
 - [CSO - Six flaws found hiding in OpenClaw’s plumbing - February 19, 2026](https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html)
 - [Security Week - OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts - February 19, 2026](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
 - [Institutional Investor - OpenClaw: The AI Agent Institutional Investors Need to Understand — But Shouldn't Touch - February 19, 2026](https://www.institutionalinvestor.com/article/openclaw-ai-agent-institutional-investors-need-understand-shouldnt-touch)
