@@ -36,13 +36,11 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 <!-- HEADLINES_START -->
 
 ### 2026-02-20
-- [Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 20, 2026](https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use)
-- [PCWorld - OpenClaw AI is going viral. Don’t install it - February 20, 2026](https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html)
+- [PCWorld - OpenClaw AI is going viral. Don't install it - February 20, 2026](https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html)
 - [The Hacker News - Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - February 20, 2026](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 - [eSecurity Planet - Over 41% of Popular OpenClaw Skills Found to Contain Security Vulnerabilities - February 20, 2026](https://www.esecurityplanet.com/threats/over-41-of-popular-openclaw-skills-found-to-contain-security-vulnerabilities/)
 
 ### 2026-02-19
-- [Slashdot.org - OpenClaw security fears lead Meta, other AI firms to restrict its use - February 19, 2026](https://slashdot.org/firehose.pl?op=view&amp;id=180827080)
 - [Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 19, 2026](https://slashdot.org/submission/17344948/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use)
 - [Microsoft Threat Intelligence - Confirming a small but noticeable uptick in installations of OpenClaw initiated by Cline CLI supply chain compromise - February 19, 2026](https://x.com/MsftSecIntel/status/2024575596941263040)
 - [CSO - Six flaws found hiding in OpenClaw’s plumbing - February 19, 2026](https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html)
