@@ -41,15 +41,16 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [eSecurity Planet - Over 41% of Popular OpenClaw Skills Found to Contain Security Vulnerabilities - February 20, 2026](https://www.esecurityplanet.com/threats/over-41-of-popular-openclaw-skills-found-to-contain-security-vulnerabilities/)
 
 ### 2026-02-19
+- [Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 19, 2026](https://slashdot.org/submission/17344948/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use)
 - [Microsoft Threat Intelligence - Confirming a small but noticeable uptick in installations of OpenClaw initiated by Cline CLI supply chain compromise - February 19, 2026](https://x.com/MsftSecIntel/status/2024575596941263040)
 - [Institutional Investor - OpenClaw: The AI Agent Institutional Investors Need to Understand — But Shouldn't Touch - February 19, 2026](https://www.institutionalinvestor.com/article/openclaw-ai-agent-institutional-investors-need-understand-shouldnt-touch)
 - [CSO - Six flaws found hiding in OpenClaw’s plumbing - February 19, 2026](https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html)
 - [Security Week - OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts - February 19, 2026](https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/)
-- [Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 19, 2026](https://slashdot.org/submission/17344948/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use)
 
 ### 2026-02-18
 - [Attack of the Fanboy - Meta bans OpenClaw over security fears, but insiders say the real risk is far worse - February 18, 2026](https://attackofthefanboy.com/tech/meta-bans-openclaw-over-security-fears-but-insiders-say-the-real-risk-is-far-worse/)
 - [Cybersecurity Insiders - Socket Uncovers AI Agent is Reputation Farming to Promote Paid OpenClaw Services - February 18, 2026](https://www.cybersecurity-insiders.com/socket-uncovers-ai-agent-is-reputation-farming-to-promote-paid-openclaw-services/)
+- [CybersecurityNews - OpenClaw AI Framework v2026.2.17 Released with Anthropic Model Support and Security Fixes - February 18, 2026](https://cybersecuritynews.com/openclaw-ai-framework-v2026-2-17/)
 - [CybersecurityNews - ClawHavoc Poisoned OpenClaw's ClawHub with 1,184 Malicious Skills, Enabling Data Theft and Backdoor Access - February 18, 2026](https://cybersecuritynews.com/clawhavoc-poisoned-openclaws-clawhub/)
 - [gbhackers.com - OpenClaw AI Log Poisoning Flaw Enables Malicious Content Injection - February 18, 2026](https://gbhackers.com/openclaw-ai-log-poisoning-flaw/)
 - [Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026](https://www.helpnetsecurity.com/2026/02/18/secureclaw-open-source-security-plugin-skill-openclaw/)
