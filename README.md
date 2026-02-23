@@ -49,7 +49,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 
 ---
 
-## OpenClaw Headlines
+## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
 
