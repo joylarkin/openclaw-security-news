@@ -36,6 +36,15 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
 
+---
+
+## OpenClaw Security Vendor Advisories
+- [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
+- [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/product-insights/guide-openclaw-and-securing-it-zscaler)
+- [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
+- [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+- [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
+- [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare)
 
 ---
 
@@ -43,7 +52,12 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 
 <!-- HEADLINES_START -->
 
+### 2026-02-23
+- [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
+- [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
+
 ### 2026-02-22
+- [Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026](https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman)
 - [CU Today - Security Experts Warn OpenClaw Could Bypass Traditional CU Cyber Defenses - February 22, 2026](https://www.cutoday.info/Fresh-Today/Security-Experts-Warn-OpenClaw-Could-Bypass-Traditional-CU-Cyber-Defenses)
 
 ### 2026-02-20
@@ -138,7 +152,6 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [Tenable.com - I pretended to be an AI agent on Moltbook so you don't have to - February 9, 2026](https://www.tenable.com/blog/undercover-on-moltbook)
 - [Github.com - Show HN: Running OpenClaw on Kubernetes - February 9, 2026](https://github.com/serhanekicii/openclaw-helm)
 - [C-sharpcorner.com - OpenClaw Security Risks and Concerns - February 9, 2026](https://www.c-sharpcorner.com/article/openclaw-security-risks-and-concerns/)
-- [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
 - [Forbes - OpenClaw Showed The Future Of AI Security And It's Going To Be Rough - February 9, 2026](https://www.forbes.com/sites/markkraynak/2026/02/09/openclaw-showed-the-future-of-ai-security-and-its-going-to-be-rough/)
 - [CSO Online - OpenClaw integrates VirusTotal malware scanning as security firms flag enterprise risks - February 9, 2026](https://www.csoonline.com/article/4129393/openclaw-integrates-virustotal-malware-scanning-as-security-firms-flag-enterprise-risks.html)
 - [Adnan Khan's Blog - Clinejection: Compromising Cline's Production Releases just by Prompting an Issue Triager (OpenClaw found as malware c2) - February 9, 2026](https://adnanthekhan.com/posts/clinejection/)
@@ -194,17 +207,11 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [Forbes - Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams - January 30, 2026](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/)
 
 ### 2026-01-29
-- [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
 
-### 2026-01-28
-- [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare)
 
 <!-- HEADLINES_END -->
 
 ---
 
-## OpenClaw Security Vendor Advisories
 
-- [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/product-insights/guide-openclaw-and-securing-it-zscaler)
-- [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
