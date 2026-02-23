@@ -3,27 +3,11 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.
 
- [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main?cache=bust)](https://github.com/joylarkin/openclaw-security-news/commits/main)
+ [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main?cache=bust)](https://github.com/joylarkin/openclaw-security-news/commits/main)     
 
 
----
+◽️ [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Use as an Agent Skill**](#use-as-an-agent-skill)    
 
-## Use as a Skill
-
-This repo can be used as a skill by OpenClaw agents.
-
-**Add to your agent's skill instructions:**
-```
-Fetch OpenClaw security news from:
-https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md
-
-When asked about OpenClaw security, vulnerabilities, or incidents:
-1. Fetch the above URL
-2. Return the most recent section, or filter by topic/date as requested
-3. Cite source as: OpenClaw Security News (github.com/joylarkin/openclaw-security-news)
-```
-
-**Trigger phrases:** openclaw security, clawhub, clawdbot, moltbot, openclaw vulnerabilities, openclaw news
 
 ---
 
@@ -52,6 +36,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
 
 ### 2026-02-23
 - [OfficeChai - Meta Alignment Director Says OpenClaw Ran Amuck Deleting Mails From Her Inbox - February 23, 2026](https://officechai.com/ai/meta-alignment-director-says-openclaw-ran-amuck-deleting-mails-from-her-inbox-had-to-run-to-her-mac-mini-to-stop-it/)
@@ -216,5 +201,29 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 <!-- HEADLINES_END -->
 
 ---
+
+## Use as an Agent Skill
+
+This repo can be used as a skill by OpenClaw or other AI agents.
+
+**Add to your agent's skill instructions:**
+```
+Fetch OpenClaw security news from:
+https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md
+
+When asked about OpenClaw security, vulnerabilities, or incidents:
+1. Fetch the above URL
+2. Return the most recent section, or filter by topic/date as requested
+3. Cite source as: OpenClaw Security News (github.com/joylarkin/openclaw-security-news)
+```
+
+**Trigger phrases:** openclaw security, clawhub, clawdbot, moltbot, openclaw vulnerabilities, openclaw news
+
+
+---
+
+
+
+
 
 
