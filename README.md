@@ -29,7 +29,8 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 ## Government Warnings About OpenClaw
 
 - [CVE.org - Search for OpenClaw CVEs](https://www.cve.org/CVERecord/SearchResults?query=openclaw)
-- [CERT BUND Germany - Search for OpenClaw](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
+- [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
+- [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/organisation)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [CISA.gov - Vulnerability Summary for the Week of February 2, 2026 - February 9, 2026](https://www.cisa.gov/news-events/bulletins/sb26-040)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
