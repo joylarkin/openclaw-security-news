@@ -23,6 +23,8 @@ Updated twice daily.
 ## OpenClaw Security Vendor Advisories
 - [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 - [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
+- [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
+- [Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026](https://www.sophos.com/en-us/blog/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security)
 - [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/product-insights/guide-openclaw-and-securing-it-zscaler)
 - [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
 - [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
@@ -100,8 +102,6 @@ Updated twice daily.
 - [The New Stack - OpenClaw is being called a security Dumpster fire but there is a way to stay safe - February 15, 2026](https://thenewstack.io/deno-sandbox-security-secrets/)
 
 ### 2026-02-13
-- [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
-- [Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026](https://www.sophos.com/en-us/blog/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security)
 - [VentureBeat - How to test OpenClaw without giving an autonomous agent shell access to your corporate laptop - February 13, 2026](https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your)
 - [CybersecurityNews - OpenClaw 2026.2.12 Released With Fix for 40+ Security Issues - February 13, 2026](https://cybersecuritynews.com/openclaw-2026-2-12-released/)
 - [SentinelOne - CVE-2026-25593: OpenClaw AI Assistant RCE Vulnerability - February 13, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-25593/)
