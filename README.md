@@ -3,7 +3,7 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.
 
- [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main)](https://github.com/joylarkin/openclaw-security-news/commits/main)   
+ [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main?cache=bust)](https://github.com/joylarkin/openclaw-security-news/commits/main)
 
 
 ---
