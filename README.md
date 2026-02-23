@@ -53,6 +53,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 <!-- HEADLINES_START -->
 
 ### 2026-02-23
+- [OfficeChai - Meta Alignment Director Says OpenClaw Ran Amuck Deleting Mails From Her Inbox - February 23, 2026](https://officechai.com/ai/meta-alignment-director-says-openclaw-ran-amuck-deleting-mails-from-her-inbox-had-to-run-to-her-mac-mini-to-stop-it/)
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 
