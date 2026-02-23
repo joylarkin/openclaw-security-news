@@ -3,6 +3,8 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.
 
+
+
 ---
 
 ## Use as a Skill
@@ -27,13 +29,16 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 ## Government Warnings About OpenClaw
 
 - [CVE.org - Search for OpenClaw CVEs](https://www.cve.org/CVERecord/SearchResults?query=openclaw)
-- [CERT BUND - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen - February 15, 2026](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424)
+- [CERT BUND Germany - Search for OpenClaw](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [CISA.gov - Vulnerability Summary for the Week of February 2, 2026 - February 9, 2026](https://www.cisa.gov/news-events/bulletins/sb26-040)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
 
+
 ---
+
+## OpenClaw Headlines
 
 <!-- HEADLINES_START -->
 
@@ -195,3 +200,10 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 - [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare)
 
 <!-- HEADLINES_END -->
+
+---
+
+## OpenClaw Security Vendor Advisories
+
+- [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/product-insights/guide-openclaw-and-securing-it-zscaler)
+- [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
