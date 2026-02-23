@@ -69,7 +69,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 ### 2026-02-17
 - [WIRED - Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears - February 17, 2026](https://www.wired.com/story/meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears/)
 - [Cline - Unauthorized npm publish of Cline CLI cline@2.3.0 with modified postinstall script to install openclaw - February 17, 2026](https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7)
-- Heise Online - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026](https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html)
+- [Heise Online - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026](https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html)
 - [Infosecurity Magazine - Infostealer Targets OpenClaw to Loot Victim's Digital Life - February 17, 2026](https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/)
 - [Techzine Global - Infostealer steals identity of AI agent OpenClaw - February 17, 2026](https://www.techzine.eu/news/security/138835/infostealer-steals-identity-of-ai-agent-openclaw/)
 - [TechRadar - OpenClaw AI agents targeted by infostealer malware for the first time - February 17, 2026](https://www.techradar.com/pro/security/openclaw-ai-agents-targeted-by-infostealer-malware-for-the-first-time)
