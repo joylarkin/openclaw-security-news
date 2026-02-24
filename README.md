@@ -4,7 +4,7 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.   
 
-◽️ [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Use as an Agent Skill**](#use-as-an-agent-skill)    
+◽️ [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**Use as an Agent Skill**](#use-as-an-agent-skill)    
 
 ---
 
@@ -17,32 +17,6 @@ Updated twice daily.
 - [CISA.gov - Vulnerability Summary for the Week of February 2, 2026 - February 9, 2026](https://www.cisa.gov/news-events/bulletins/sb26-040)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
-
----
-
-## OpenClaw Security Vendor Advisories
-* [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
-* [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
-* [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
-* [Conscia - The OpenClaw security crisis - February 18, 2026](https://conscia.com/blog/the-openclaw-security-crisis/)
-* [SecurityScorecard - What Are the Real Security Risks of Agentic AI and OpenClaw? - February 17, 2026](https://securityscorecard.com/blog/what-are-the-real-security-risks-of-agentic-ai-and-openclaw/)
-* [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
-* [Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026](https://news.sophos.com/en-us/2026/02/13/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security/)
-* [SentinelOne - CVE-2026-25593: OpenClaw AI Assistant RCE Vulnerability - February 13, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-25593/)
-* [Bitdefender - 135K OpenClaw AI Agents Exposed to Internet - February 12, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/135k-openclaw-ai-agents-exposed-to-internet)
-* [Snyk - How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware - February 10, 2026](https://snyk.io/blog/clawhub-malicious-google-skill-openclaw-malware/)
-* [Kaspersky - New OpenClaw AI agent found unsafe for use - February 10, 2026](https://www.kaspersky.com/blog/openclaw-ai-agent-unsafe/)
-* [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/security-research/guide-openclaw-and-securing-it-zscaler)
-* [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
-* [SecurityScorecard - Beyond the Hype: Moltbot's Real Risk Is Exposed Infrastructure, Not AI Superintelligence - February 9, 2026](https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/)
-* [Snyk - 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII - February 5, 2026](https://snyk.io/blog/openclaw-skills-credential-leaks-research/)
-* [Bitdefender - Technical Advisory: OpenClaw Exploitation in Enterprise Networks - February 5, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-in-enterprise-networks)
-* [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
-* [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
-* [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
-* [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/)
-* [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
-* [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare)   
 
 ---
 
@@ -218,6 +192,32 @@ Updated twice daily.
 - [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare)
 
 <!-- HEADLINES_END -->
+
+---
+
+## OpenClaw Security Vendor Advisories
+* [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
+* [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
+* [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
+* [Conscia - The OpenClaw security crisis - February 18, 2026](https://conscia.com/blog/the-openclaw-security-crisis/)
+* [SecurityScorecard - What Are the Real Security Risks of Agentic AI and OpenClaw? - February 17, 2026](https://securityscorecard.com/blog/what-are-the-real-security-risks-of-agentic-ai-and-openclaw/)
+* [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
+* [Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026](https://news.sophos.com/en-us/2026/02/13/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security/)
+* [SentinelOne - CVE-2026-25593: OpenClaw AI Assistant RCE Vulnerability - February 13, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-25593/)
+* [Bitdefender - 135K OpenClaw AI Agents Exposed to Internet - February 12, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/135k-openclaw-ai-agents-exposed-to-internet)
+* [Snyk - How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware - February 10, 2026](https://snyk.io/blog/clawhub-malicious-google-skill-openclaw-malware/)
+* [Kaspersky - New OpenClaw AI agent found unsafe for use - February 10, 2026](https://www.kaspersky.com/blog/openclaw-ai-agent-unsafe/)
+* [Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026](https://www.zscaler.com/blogs/security-research/guide-openclaw-and-securing-it-zscaler)
+* [Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026](https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances)
+* [SecurityScorecard - Beyond the Hype: Moltbot's Real Risk Is Exposed Infrastructure, Not AI Superintelligence - February 9, 2026](https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/)
+* [Snyk - 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII - February 5, 2026](https://snyk.io/blog/openclaw-skills-credential-leaks-research/)
+* [Bitdefender - Technical Advisory: OpenClaw Exploitation in Enterprise Networks - February 5, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-in-enterprise-networks)
+* [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
+* [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+* [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
+* [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/)
+* [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
+* [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare)   
 
 ---
 
