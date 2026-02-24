@@ -24,6 +24,7 @@ Updated twice daily.
 - [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 - [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 - [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
+- [Conscia - The OpenClaw security crisis - February 18, 2026](https://conscia.com/blog/the-openclaw-security-crisis/)
 - [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
 - [Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026](https://www.sophos.com/en-us/blog/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security)
 - [SentinelOne - CVE-2026-25593: OpenClaw AI Assistant RCE Vulnerability - February 13, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-25593/)
@@ -77,7 +78,6 @@ Updated twice daily.
 - [Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026](https://www.helpnetsecurity.com/2026/02/18/secureclaw-open-source-security-plugin-skill-openclaw/)
 - [Security Boulevard - Securing OpenClaw Against ClawHavoc - February 18, 2026](https://securityboulevard.com/2026/02/securing-openclaw-againstclawhavoc/)
 - [Endor Labs - How AI SAST Traced Data Flows to Uncover Six OpenClaw Vulnerabilities - February 18, 2026](https://www.endorlabs.com/learn/how-ai-sast-traced-data-flows-to-uncover-six-openclaw-vulnerabilities)
-- [Conscia - The OpenClaw security crisis - February 18, 2026](https://conscia.com/blog/the-openclaw-security-crisis/)
 - [Paubox - First infostealer malware caught stealing OpenClaw AI agent credentials - February 18, 2026](https://www.paubox.com/blog/first-infostealer-malware-caught-stealing-openclaw-ai-agent-credentials)
 
 ### 2026-02-17
