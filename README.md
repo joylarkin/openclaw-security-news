@@ -72,7 +72,7 @@ Updated twice daily.
 - [gbhackers.com - OpenClaw AI Log Poisoning Flaw Enables Malicious Content Injection - February 18, 2026](https://gbhackers.com/openclaw-ai-log-poisoning-flaw/)
 - [Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026](https://www.helpnetsecurity.com/2026/02/18/secureclaw-open-source-security-plugin-skill-openclaw/)
 - [Security Boulevard - Securing OpenClaw Against ClawHavoc - February 18, 2026](https://securityboulevard.com/2026/02/securing-openclaw-againstclawhavoc/)
-- [Endor Labs - How AI SAST Traced Data Flows to Uncover Six OpenClaw Vulnerabilities - February 18,2026](https://www.endorlabs.com/learn/how-ai-sast-traced-data-flows-to-uncover-six-openclaw-vulnerabilities)
+- [Endor Labs - How AI SAST Traced Data Flows to Uncover Six OpenClaw Vulnerabilities - February 18, 2026](https://www.endorlabs.com/learn/how-ai-sast-traced-data-flows-to-uncover-six-openclaw-vulnerabilities)
 - [Conscia - The OpenClaw security crisis - February 18, 2026](https://conscia.com/blog/the-openclaw-security-crisis/)
 - [Paubox - First infostealer malware caught stealing OpenClaw AI agent credentials - February 18, 2026](https://www.paubox.com/blog/first-infostealer-malware-caught-stealing-openclaw-ai-agent-credentials)
 
