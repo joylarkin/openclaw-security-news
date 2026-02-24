@@ -50,6 +50,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-02-24
+- [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
+
 ### 2026-02-23
 - [TechCrunch - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - February 23, 2026](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)
 - [TechRadar - OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility - February 23, 2026](https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility)
