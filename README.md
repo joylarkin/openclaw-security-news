@@ -50,7 +50,7 @@ Updated twice daily.
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 - [Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026](https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/)
-- [Malwarebytes - OpenClaw: What is it and can you use it safely?](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely) - February 23, 2026
+- [Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely) 
 
 ### 2026-02-22
 - [Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026](https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman)
@@ -58,7 +58,7 @@ Updated twice daily.
 
 ### 2026-02-20
 - [PCWorld - OpenClaw AI is going viral. Don't install it - February 20, 2026](https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html)
-- [WebProNews - OpenClaw's Security Crisis: How a Promising AI Framework Became Too Dangerous for Its Own Creators to Share Freely](https://www.webpronews.com/openclaws-security-crisis-how-a-promising-ai-framework-became-too-dangerous-for-its-own-creators-to-share-freely/) - February 20, 2026
+- [WebProNews - OpenClaw's Security Crisis: How a Promising AI Framework Became Too Dangerous for Its Own Creators to Share Freely - February 20, 2026](https://www.webpronews.com/openclaws-security-crisis-how-a-promising-ai-framework-became-too-dangerous-for-its-own-creators-to-share-freely/) 
 - [The Hacker News - Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - February 20, 2026](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 - [eSecurity Planet - Over 41% of Popular OpenClaw Skills Found to Contain Security Vulnerabilities - February 20, 2026](https://www.esecurityplanet.com/threats/over-41-of-popular-openclaw-skills-found-to-contain-security-vulnerabilities/)
 
