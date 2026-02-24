@@ -21,6 +21,7 @@ Updated twice daily.
 ---
 
 ## OpenClaw Security Vendor Advisories
+- [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 - [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 - [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
 - [Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026](https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous)
@@ -39,7 +40,8 @@ Updated twice daily.
 
 
 ### 2026-02-23
-- [OfficeChai - Meta Alignment Director Says OpenClaw Ran Amuck Deleting Mails From Her Inbox - February 23, 2026](https://officechai.com/ai/meta-alignment-director-says-openclaw-ran-amuck-deleting-mails-from-her-inbox-had-to-run-to-her-mac-mini-to-stop-it/)
+- [TechCrunch - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - February 23, 2026](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)
+- [TechRadar - OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility - February 23, 2026](https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility)
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 - [Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026](https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/)
