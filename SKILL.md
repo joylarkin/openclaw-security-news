@@ -9,20 +9,30 @@ Retrieve and present the latest OpenClaw security headlines from the curated new
 
 ## Source
 
-**Primary:** https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md  
-**Repo:** https://github.com/joylarkin/openclaw-security-news  
+**Discovery:** https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/index.json
+**Repo:** https://github.com/joylarkin/openclaw-security-news
 **Maintained by:** Joy Larkin — updated twice daily
+
+The `index.json` file lists all available data sources with their current URLs and formats. Fetch it first if you need to locate or verify source URLs.
 
 ## Workflow
 
 ### Step 1: Fetch the data
 
-Use `web_fetch` to retrieve:
+Choose the format that best fits the task:
+
+**For browsing or summarizing headlines (recommended for most queries):**
 ```
 https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/README.md
 ```
 
-If the raw URL is unavailable, fall back to:
+**For structured queries (filtering by date, source, or topic):**
+```
+https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/openclaw-security-news.csv
+```
+CSV columns: `date`, `source`, `headline`, `url` — date format: `Month DD, YYYY`
+
+If both raw URLs are unavailable, fall back to:
 ```
 https://github.com/joylarkin/openclaw-security-news
 ```

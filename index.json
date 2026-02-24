@@ -15,7 +15,7 @@
     "csv": {
       "url": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/openclaw-security-news.csv",
       "columns": ["date", "source", "headline", "url"],
-      "date_format": "MM/DD/YYYY",
+      "date_format": "Month DD, YYYY (e.g. February 15, 2026)",
       "best_for": "machines, databases, structured querying"
     },
     "skill": {
