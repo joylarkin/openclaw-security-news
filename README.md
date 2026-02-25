@@ -28,12 +28,13 @@ Updated twice daily.
 - [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
 
 ### 2026-02-23
+- [Trendmicro.com - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 - [TechCrunch - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - February 23, 2026](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)
 - [TechRadar - OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility - February 23, 2026](https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility)
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 - [Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026](https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/)
-- [Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely) 
+- [Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
 
 ### 2026-02-22
 - [Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026](https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman)
