@@ -26,6 +26,7 @@ Updated twice daily.
 
 ### 2026-02-25
 - [IAPS - Kimi Claw: Risks from Chinese-Hosted 'Always On' AI Agents - February 25, 2026](https://www.iaps.ai/research/kimi-claw-risks)
+- [Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
 - [Mint - OpenClaw: Did OpenAI just acquire a powerful new tool—or a security nightmare? - February 25, 2026](https://www.livemint.com/opinion/online-views/openclaw-openai-security-nightmare-artificial-intelligence-sam-altman-technology-ai-11771934381262.html)
 
 ### 2026-02-24
