@@ -9,12 +9,11 @@ Updated twice daily.
 ---
 
 ## Government Warnings About OpenClaw
-
-- [CVE.org - Search for OpenClaw CVEs](https://www.cve.org/CVERecord/SearchResults?query=openclaw)
+- [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&resultType=records)
+- [CISA.gov - Search for OpenClaw Advisories](https://www.cisa.gov/search?g=openclaw#gsc.tab=0&gsc.q=openclaw&gsc.page=1)
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/organisation)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
-- [CISA.gov - Vulnerability Summary for the Week of February 2, 2026 - February 9, 2026](https://www.cisa.gov/news-events/bulletins/sb26-040)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
 
