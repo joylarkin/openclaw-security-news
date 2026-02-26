@@ -24,6 +24,11 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-02-26
+- [Security Boulevard - OpenClaw Security Risk: OAuth and SaaS Identity - February 26, 2026](https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/)
+- [The Decoder - An OpenClaw AI agent asked to delete a confidential email nuked its own mail client and called it fixed - February 26, 2026](https://the-decoder.com/an-openclaw-ai-agent-asked-to-delete-a-confidential-email-nuked-its-own-mail-client-and-called-it-fixed/)
+- [ZDNet - AI agents are fast, loose, and out of control, MIT study finds - February 26, 2026](https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/)
+
 ### 2026-02-25
 - [Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
 - [IAPS - Kimi Claw: Risks from Chinese-Hosted 'Always On' AI Agents - February 25, 2026](https://www.iaps.ai/research/kimi-claw-risks)
@@ -33,7 +38,6 @@ Updated twice daily.
 - [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
 - [Fast Company - 'This should terrify you': Meta Superintelligence safety director lost control of her AI agent—it deleted her emails - February 24, 2026](https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails)
 - [Axios - The Bot Population Bomb: OpenClaw is only the Beginning - February 24, 2026](https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown)
-- [Vercel.app - Show HN: Security Checklist for OpenClaw Deployments - February 24, 2026](https://get-to-know-openclaw-security-model.vercel.app/security-checklist.html)
 - [Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw)
 
 ### 2026-02-23
