@@ -27,6 +27,7 @@ Updated twice daily.
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/)
 - [HackRead - ClawJacked Vulnerability in OpenClaw Lets Websites Hijack AI Agents - February 27, 2026](https://hackread.com/openclaw-vulnerability-openclaw-hijack-ai-agents/)
 - [SecurityBrief - OpenClaw AI assistant surge sparks major security fears - February 27, 2026](https://securitybrief.com.au/story/openclaw-ai-assistant-surge-sparks-major-security-fears)
+- [Kdnuggets.com - 5 Things You Need to Know Before Using OpenClaw - February 27, 2026](https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw)
 
 ### 2026-02-26
 - [Security Boulevard - OpenClaw Security Risk: OAuth and SaaS Identity - February 26, 2026](https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/)
