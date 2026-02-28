@@ -144,5 +144,6 @@
 "","CERT BUND Germany","Search for OpenClaw Advisories","https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid"
 "","Centre for Cybersecurity Belgium","Search for OpenClaw Advisories","https://ccb.belgium.be/organisation"
 "","CVE.org","Search for OpenClaw CVEs","https://www.cve.org/CVERecord/SearchResults?query=openclaw"
-"","","SOURCE","https://github.com/joylarkin/openclaw-security-news"
+"2026","SOURCE","OpenClaw Security News","https://github.com/joylarkin/openclaw-security-news"
+
 
