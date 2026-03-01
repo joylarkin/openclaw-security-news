@@ -120,8 +120,6 @@ Updated twice daily.
 - [Security Boulevard - 42,900 OpenClaw Exposed Control Panels and Why You Should Care - February 12, 2026](https://securityboulevard.com/2026/02/42900-openclaw-exposed-control-panels-and-why-you-should-care/)
 - [Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026](https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/)
 - [trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026](https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/)
-- [Github.com - Show HN: Aquaman keeping your OpenClaw secrets safe - February 12, 2026](https://github.com/tech4242/aquaman)
-- [Github.com - Show HN: Carapace – A security-hardened Rust alternative to OpenClaw - February 12, 2026](https://github.com/puremachinery/carapace)
 
 ### 2026-02-11
 - [Pypi.org - openclaw-security 0.1.0 - February 11, 2026](https://pypi.org/project/openclaw-security/0.1.0/)
