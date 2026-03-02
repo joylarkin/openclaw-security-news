@@ -131,7 +131,6 @@ Updated twice daily.
 - [Techzine Global - Over 40,000 OpenClaw agents vulnerable - February 9, 2026](https://www.techzine.eu/news/security/138633/over-40000-openclaw-agents-vulnerable/)
 - [C-sharpcorner.com - OpenClaw Security Risks and Concerns - February 9, 2026](https://www.c-sharpcorner.com/article/openclaw-security-risks-and-concerns/)
 - [Forbes - OpenClaw Showed The Future Of AI Security And It's Going To Be Rough - February 9, 2026](https://www.forbes.com/sites/markkraynak/2026/02/09/openclaw-showed-the-future-of-ai-security-and-its-going-to-be-rough/)
-- [CSO Online - OpenClaw integrates VirusTotal malware scanning as security firms flag enterprise risks - February 9, 2026](https://www.csoonline.com/article/4129393/openclaw-integrates-virustotal-malware-scanning-as-security-firms-flag-enterprise-risks.html)
 
 ### 2026-02-08
 - [The Hacker News - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - February 8, 2026](https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html)
