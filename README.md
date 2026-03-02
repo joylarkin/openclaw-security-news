@@ -26,6 +26,9 @@ Updated twice daily.
 ### 2026-03-01
 - [StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 
+### 2026-02-28
+- [Researchbuzz.me - 2024 Solar Eclipse, South Korea Google Maps, Apple, More: Saturday Afternoon ResearchBuzz, February 28, 2026 - February 28, 2026](https://researchbuzz.me/2026/02/28/2024-solar-eclipse-south-korea-google-maps-apple-more-saturday-afternoon-researchbuzz-february-28-2026/)
+
 ### 2026-02-27
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/)
 - [HackRead - ClawJacked Vulnerability in OpenClaw Lets Websites Hijack AI Agents - February 27, 2026](https://hackread.com/openclaw-vulnerability-openclaw-hijack-ai-agents/)
@@ -33,10 +36,10 @@ Updated twice daily.
 - [Kdnuggets.com - 5 Things You Need to Know Before Using OpenClaw - February 27, 2026](https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw)
 
 ### 2026-02-26
+- [Redmond Channel Insider - Using OpenClaw: Things to Consider as an MSP - February 26, 2026](https://rcpmag.com/blogs/the-evolving-msp/2026/02/using-openclaw-things-to-consider-as-an-msp.aspx)
 - [Security Boulevard - OpenClaw Security Risk: OAuth and SaaS Identity - February 26, 2026](https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/)
 - [The Decoder - An OpenClaw AI agent asked to delete a confidential email nuked its own mail client and called it fixed - February 26, 2026](https://the-decoder.com/an-openclaw-ai-agent-asked-to-delete-a-confidential-email-nuked-its-own-mail-client-and-called-it-fixed/)
 - [ZDNet - AI agents are fast, loose, and out of control, MIT study finds - February 26, 2026](https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/)
-- [Redmond Channel Insider - Using OpenClaw: Things to Consider as an MSP - February 26, 2026](https://rcpmag.com/blogs/the-evolving-msp/2026/02/using-openclaw-things-to-consider-as-an-msp.aspx)
 
 ### 2026-02-25
 - [Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
@@ -50,15 +53,15 @@ Updated twice daily.
 - [Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw)
 
 ### 2026-02-23
+- [Cybernews - Microsoft: ‘OpenClaw unsuited to run on standard personal or enterprise workstation’ - February 23, 2026](https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/)
+- [PCWorld - What’s behind the OpenClaw ban wave - February 23, 2026](https://www.pcworld.com/article/3068842/whats-behind-the-openclaw-ban-wave.html)
+- [InnovationAus - OpenClaw and the security risks of AI frenzy - February 23, 2026](https://www.innovationaus.com/openclaw-and-the-security-risks-of-ai-frenzy/)
 - [TechCrunch - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - February 23, 2026](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/)
 - [TechRadar - OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility - February 23, 2026](https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility)
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
-- [Cybernews - Microsoft: ‘OpenClaw unsuited to run on standard personal or enterprise workstation’ - February 23, 2026](https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/)
-- [PCWorld - What’s behind the OpenClaw ban wave - February 23, 2026](https://www.pcworld.com/article/3068842/whats-behind-the-openclaw-ban-wave.html)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 - [Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026](https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/)
 - [Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
-- [InnovationAus - OpenClaw and the security risks of AI frenzy - February 23, 2026](https://www.innovationaus.com/openclaw-and-the-security-risks-of-ai-frenzy/)
 
 ### 2026-02-22
 - [Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026](https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman)
@@ -171,6 +174,8 @@ Updated twice daily.
 ### 2026-02-01
 - [Tom's Hardware - Malicious OpenClaw 'skill' targets crypto users on ClawHub — 14 malicious skills were uploaded to ClawHub last month - February 1, 2026](https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role)
 
+### 2026-01-31
+
 ### 2026-01-30
 - [Dark Reading - OpenClaw AI Runs Wild in Business Environments - January 30, 2026](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [VentureBeat - OpenClaw proves agentic AI works. It also proves your security model doesn't. 180,000 developers just made that your problem. - January 30, 2026](https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide)
@@ -178,6 +183,8 @@ Updated twice daily.
 
 ### 2026-01-29
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
+
+### 2026-01-28
 
 <!-- HEADLINES_END -->
 
