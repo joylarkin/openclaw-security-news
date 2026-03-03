@@ -25,7 +25,6 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-02
-- [Github.com - Show HN: OpenClaw Carapace – Security Scanner for OpenClaw - March 2, 2026](https://github.com/CoChatAI/openclaw-carapace)
 - [Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026](https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/)
 
 ### 2026-03-01
