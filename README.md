@@ -241,7 +241,7 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 3. Cite source as: OpenClaw Security News (github.com/joylarkin/openclaw-security-news)
 ```
 
-**Trigger phrases:** openclaw security, clawhub, clawdbot, moltbot, openclaw vulnerabilities, openclaw news
+**Trigger phrases:** OpenClaw, Moltbot, Clawdbot, ClawHub, OpenClaw security, OpenClaw vulnerabilities, OpenClaw risks, OpenClaw hacks, OpenClaw news
 
 
 ---
