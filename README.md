@@ -24,12 +24,15 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-02
+- [Github.com - Show HN: OpenClaw Carapace – Security Scanner for OpenClaw - March 2, 2026](https://github.com/CoChatAI/openclaw-carapace)
+- [Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026](https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/)
+
 ### 2026-03-01
 - [StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 
 ### 2026-02-28
 - [Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026](https://www.youtube.com/shorts/rPyaV1CqIKk)
-- [Researchbuzz.me - 2024 Solar Eclipse, South Korea Google Maps, Apple, More: Saturday Afternoon ResearchBuzz, February 28, 2026 - February 28, 2026](https://researchbuzz.me/2026/02/28/2024-solar-eclipse-south-korea-google-maps-apple-more-saturday-afternoon-researchbuzz-february-28-2026/)
 
 ### 2026-02-27
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/)
