@@ -28,6 +28,7 @@ Updated twice daily.
 
 ### 2026-02-28
 - [Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026](https://www.youtube.com/shorts/rPyaV1CqIKk)
+- [Researchbuzz.me - 2024 Solar Eclipse, South Korea Google Maps, Apple, More: Saturday Afternoon ResearchBuzz, February 28, 2026 - February 28, 2026](https://researchbuzz.me/2026/02/28/2024-solar-eclipse-south-korea-google-maps-apple-more-saturday-afternoon-researchbuzz-february-28-2026/)
 
 ### 2026-02-27
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/)
