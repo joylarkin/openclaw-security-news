@@ -24,6 +24,10 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-03 
+- [36kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353)
+- [The New Stack - OpenClaw rocks to GitHub’s most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/)
+
 ### 2026-03-02
 - [Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026](https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/)
 
