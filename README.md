@@ -24,7 +24,7 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
-#### 2026-03-04
+### 2026-03-04
 - [Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026](https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/)
 
 ### 2026-03-03
