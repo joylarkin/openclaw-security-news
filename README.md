@@ -24,11 +24,15 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-05
+- [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
+
 ### 2026-03-04
 - [Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026](https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/)
 - [The Register - Malware-laced OpenClaw installers get Bing AI search boost - March 4, 2026](https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/)
 
 ### 2026-03-03
+- [The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/)
 - [36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353)
 
 ### 2026-03-02
@@ -38,6 +42,7 @@ Updated twice daily.
 - [StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 
 ### 2026-02-28
+- [Researchbuzz.me - 2024 Solar Eclipse, South Korea Google Maps, Apple, More: Saturday Afternoon ResearchBuzz, February 28, 2026 - February 28, 2026](https://researchbuzz.me/2026/02/28/2024-solar-eclipse-south-korea-google-maps-apple-more-saturday-afternoon-researchbuzz-february-28-2026/)
 - [Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026](https://www.youtube.com/shorts/rPyaV1CqIKk)
 
 ### 2026-02-27
