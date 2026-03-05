@@ -26,10 +26,13 @@ Updated twice daily.
 
 ### 2026-03-05
 - [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
+- [Forbes - Five Things You Should Not Do With OpenClaw - March 5, 2026](https://www.forbes.com/sites/johnwerner/2026/03/05/five-things-you-should-not-do-with-openclaw/)
 
 ### 2026-03-04
+- [Huntress - “Malware, from the Outside!”: How a Threat Actor Used Fake OpenClaw Installers to Infect Systems with GhostSocks and Information Stealers - March 4, 2026](https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer)
 - [Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026](https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/)
 - [The Register - Malware-laced OpenClaw installers get Bing AI search boost - March 4, 2026](https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/)
+- [CPO Magazine - Security Research Finds OpenClaw AI Agent “Trivially Vulnerable” to Hijacking - March 4, 2026](https://www.cpomagazine.com/cyber-security/security-research-finds-openclaw-ai-agent-trivially-vulnerable-to-hijacking/)
 
 ### 2026-03-03
 - [The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/)
