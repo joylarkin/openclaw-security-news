@@ -24,16 +24,18 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-05 
+- [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
+
 ### 2026-03-04
 - [Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026](https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/)
+- [The Register - Malware-laced OpenClaw installers get Bing AI search boost - March 4, 2026](https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/)
 
 ### 2026-03-03
 - [36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353)
-- [Github.com - nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig - March 3, 2026](https://github.com/nullclaw/nullclaw)
 
 ### 2026-03-02
 - [Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026](https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/)
-- [pymnts.com - OpenClaw Patch Prevents Malicious Websites From Hijacking AI Agents - March 2, 2026](https://www.pymnts.com/cybersecurity/2026/openclaw-patch-prevents-malicious-websites-from-hijacking-ai-agents/)
 
 ### 2026-03-01
 - [StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
@@ -203,6 +205,7 @@ Updated twice daily.
 ---
 
 ## OpenClaw Security Vendor Advisories
+* [grith.ai - A GitHub Issue Title Compromised 4,000 Developer Machines - March 5, 2026](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 * [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 * [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
