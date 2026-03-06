@@ -25,7 +25,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-05
-- [Heimdal Security- OpenClaw Incidents Show Why AI Adoption Pressure Puts Companies at Risk - March 5, 2026](https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/)
+- [Heimdal Security - OpenClaw Incidents Show Why AI Adoption Pressure Puts Companies at Risk - March 5, 2026](https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/)
 - [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
 - [Forbes - Five Things You Should Not Do With OpenClaw - March 5, 2026](https://www.forbes.com/sites/johnwerner/2026/03/05/five-things-you-should-not-do-with-openclaw/)
 
