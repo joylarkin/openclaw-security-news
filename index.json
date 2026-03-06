@@ -22,6 +22,12 @@
       "url": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/SKILL.md",
       "format": "Markdown — instructions for AI agents using this repo as a skill",
       "best_for": "AI agents needing guidance on how to fetch and present headlines"
+    },
+    "never_add": {
+      "url": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/never_add.csv",
+      "columns": ["url"],
+      "format": "CSV — one URL per line of articles that must never be added to README or CSV",
+      "best_for": "automation: check every candidate URL against this list before adding; skip any match"
     }
   }
 }
