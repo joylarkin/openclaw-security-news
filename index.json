@@ -22,6 +22,21 @@
       "url": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/SKILL.md",
       "format": "Markdown — instructions for AI agents using this repo as a skill",
       "best_for": "AI agents needing guidance on how to fetch and present headlines"
+    },
+    "never_add": {
+      "url": "https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/never_add.csv",
+      "columns": ["url"],
+      "format": "CSV — one URL per line of articles that must never be added to README or CSV",
+      "best_for": "automation: check every candidate URL against this list before adding; skip any match"
     }
+  },
+  "automation_protocol": {
+    "description": "Rules the update-headlines job MUST follow every run",
+    "steps": [
+      "1. DETECT DELETIONS: diff the current README against the previous commit. Any URL removed by the maintainer (not by a prior bot commit) must be appended to never_add.csv in the same commit — the maintainer must never have to touch never_add.csv manually.",
+      "2. LOAD BLOCKLIST: read never_add.csv in full before inserting any article.",
+      "3. CHECK BEFORE INSERT: for every candidate URL, reject it silently if it appears anywhere in never_add.csv (exact match). Do not add it to README or CSV.",
+      "4. COMMIT TOGETHER: if never_add.csv was updated, include it in the same commit as the README changes."
+    ]
   }
 }
