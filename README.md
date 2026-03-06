@@ -39,16 +39,19 @@ Updated twice daily.
 ### 2026-03-03
 - [The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/)
 - [36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353)
+- [Github.com - nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig - March 3, 2026](https://github.com/nullclaw/nullclaw)
 
 ### 2026-03-02
 - [Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026](https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/)
 - [pymnts.com - OpenClaw Patch Prevents Malicious Websites From Hijacking AI Agents - March 2, 2026](https://www.pymnts.com/cybersecurity/2026/openclaw-patch-prevents-malicious-websites-from-hijacking-ai-agents/)
+- [Github.com - Show HN: OpenClaw Carapace – Security Scanner for OpenClaw - March 2, 2026](https://github.com/CoChatAI/openclaw-carapace)
 
 ### 2026-03-01
 - [StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 
 ### 2026-02-28
 - [Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026](https://www.youtube.com/shorts/rPyaV1CqIKk)
+- [Researchbuzz.me - 2024 Solar Eclipse, South Korea Google Maps, Apple, More: Saturday Afternoon ResearchBuzz, February 28, 2026 - February 28, 2026](https://researchbuzz.me/2026/02/28/2024-solar-eclipse-south-korea-google-maps-apple-more-saturday-afternoon-researchbuzz-february-28-2026/)
 
 ### 2026-02-27
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/)
@@ -172,10 +175,10 @@ Updated twice daily.
 - [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
 
 ### 2026-02-04
+- [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/)
 - [The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
 - [Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026](https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress)
 - [SECURITY.COM - The Rise of OpenClaw - February 4, 2026](https://www.security.com/expert-perspectives/rise-openclaw)
-- [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/)
 - [the-decoder.com - OpenClaw's OpenDoor problem is so bad that installing malware yourself might save time - February 4, 2026](https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/)
 
 ### 2026-02-03
