@@ -58,6 +58,7 @@ Updated twice daily.
 - [Kdnuggets.com - 5 Things You Need to Know Before Using OpenClaw - February 27, 2026](https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw)
 
 ### 2026-02-26
+- [Agents of Chaos - February 26, 2026](https://agentsofchaos.baulab.info)
 - [Redmond Channel Insider - Using OpenClaw: Things to Consider as an MSP - February 26, 2026](https://rcpmag.com/blogs/the-evolving-msp/2026/02/using-openclaw-things-to-consider-as-an-msp.aspx)
 - [Security Boulevard - OpenClaw Security Risk: OAuth and SaaS Identity - February 26, 2026](https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/)
 - [The Decoder - An OpenClaw AI agent asked to delete a confidential email nuked its own mail client and called it fixed - February 26, 2026](https://the-decoder.com/an-openclaw-ai-agent-asked-to-delete-a-confidential-email-nuked-its-own-mail-client-and-called-it-fixed/)
