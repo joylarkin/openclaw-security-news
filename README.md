@@ -18,7 +18,7 @@ Updated twice daily.
 - [CISA.gov - Search for OpenClaw Advisories](https://www.cisa.gov/search?g=openclaw#gsc.tab=0&gsc.q=openclaw&gsc.page=1)
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/organisation)
-- [Global Times - Chinese authorities warn against misuse of OpenClaw amid rising security risks of unauthorized information leaks; expert urges users to strictly manage access - March 3, 2026](https://www.globaltimes.cn/page/202603/1356182.shtml)
+- [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
@@ -28,6 +28,15 @@ Updated twice daily.
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
+
+### 2026-03-08
+- [Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026](https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497)
+
+### 2026-03-07
+
+### 2026-03-06
+- [Lawfare - China’s Agentic AI Controversy - March 6, 2026](https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy)
 
 ### 2026-03-05
 - [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
@@ -46,6 +55,8 @@ Updated twice daily.
 ### 2026-03-03
 - [The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/)
 - [36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353)
+- [MasterCard - Before the music stops: OpenClaw and the growing need for AI security standards - March 3, 2026](https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html)
+- [Global Times - Chinese authorities warn against misuse of OpenClaw amid rising security risks of unauthorized information leaks; expert urges users to strictly manage access - March 3, 2026](https://www.globaltimes.cn/page/202603/1356182.shtml)
 
 ### 2026-03-02
 - [SOCRadar - OpenClaw’s ClawJacked Vulnerability Explained, What Organizations Need to Know - March 2, 2026](https://socradar.io/blog/openclaws-clawjacked-vulnerability/)
@@ -224,6 +235,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
+* [TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 3, 2026](https://www.trendmicro.com/en_us/research/26/c/cisos-in-a-pinch-security-analysis-of-openclaw.html)
 * [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 * [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 * [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
