@@ -5,8 +5,26 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 08:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:10:08 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026</title>
+      <link>https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497</link>
+      <guid isPermaLink="true">https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026</title>
+      <link>https://www.globaltimes.cn/page/202603/1356590.shtml</link>
+      <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356590.shtml</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawfare - China’s Agentic AI Controversy - March 6, 2026</title>
+      <link>https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy</link>
+      <guid isPermaLink="true">https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026</title>
       <link>https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github</link>
@@ -86,9 +104,21 @@
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>MasterCard - Before the music stops: OpenClaw and the growing need for AI security standards - March 3, 2026</title>
+      <link>https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html</link>
+      <guid isPermaLink="true">https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Global Times - Chinese authorities warn against misuse of OpenClaw amid rising security risks of unauthorized information leaks; expert urges users to strictly manage access - March 3, 2026</title>
       <link>https://www.globaltimes.cn/page/202603/1356182.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356182.shtml</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 3, 2026</title>
+      <link>https://www.trendmicro.com/en_us/research/26/c/cisos-in-a-pinch-security-analysis-of-openclaw.html</link>
+      <guid isPermaLink="true">https://www.trendmicro.com/en_us/research/26/c/cisos-in-a-pinch-security-analysis-of-openclaw.html</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
