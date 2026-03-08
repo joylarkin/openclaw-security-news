@@ -30,7 +30,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-05
-* [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
+- [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
 - [Heimdal Security - OpenClaw Incidents Show Why AI Adoption Pressure Puts Companies at Risk - March 5, 2026](https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/)
 - [grith.ai - A GitHub Issue Title Compromised 4,000 Developer Machines - March 5, 2026](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 - [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
