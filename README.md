@@ -34,12 +34,11 @@ Updated twice daily.
 - [South China Morning Post - Chinese local governments offer OpenClaw project subsidies as security questions linger - March 9, 2026](https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger)
 - [Bitget - SlowMist CISO: Security Risk Found in USB Version of OpenClaw - March 9,2026](https://www.bitget.com/amp/news/detail/12560605248121)
 - [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
+- [Github.com - Show HN: Security toolkit for OpenClaw – scanner, hardened configs, guides - March 9, 2026](https://github.com/munnam77/awesome-openclaw-security)
 
 ### 2026-03-08
 - [Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026](https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497)
 - [Krebs on Security - How AI Assistants are Moving the Security Goalposts - March 9,2026](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
-
-### 2026-03-07
 
 ### 2026-03-06
 - [Lawfare - China’s Agentic AI Controversy - March 6, 2026](https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy)
