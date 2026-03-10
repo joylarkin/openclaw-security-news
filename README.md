@@ -19,7 +19,6 @@ Updated twice daily.
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search)
 - [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml)
-- [Belgium - Warning: Multiple critical vulnerabilities in OpenClaw's Nextcloud Talk plugin, Patch Immediately! - March 6, 2026](https://ccb.belgium.be/advisories/warning-multiple-critical-vulnerabilities-openclaws-nextcloud-talk-plugin-patch)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
 - [Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808)
@@ -43,6 +42,7 @@ Updated twice daily.
 
 ### 2026-03-06
 - [Lawfare - China’s Agentic AI Controversy - March 6, 2026](https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy)
+- [Belgium - Warning: Multiple critical vulnerabilities in OpenClaw's Nextcloud Talk plugin, Patch Immediately! - March 6, 2026](https://ccb.belgium.be/advisories/warning-multiple-critical-vulnerabilities-openclaws-nextcloud-talk-plugin-patch)
 
 ### 2026-03-05
 - [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
