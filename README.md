@@ -18,6 +18,7 @@ Updated twice daily.
 - [CISA.gov - Search for OpenClaw Advisories](https://www.cisa.gov/search?g=openclaw#gsc.tab=0&gsc.q=openclaw&gsc.page=1)
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search)
+- [Deutsche Telekom Security GmbH - Advisory 2026-0625 - OpenClaw: Multiple Vulnerabilities - March 9, 2026](https://www.dcert.de/advisories/2026-0625)
 - [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw)
 - [Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026](https://dig.watch/updates/openclaw-faces-rising-security-pushback)
