@@ -39,6 +39,7 @@ Updated twice daily.
 - [Bitget - SlowMist CISO: Security Risk Found in USB Version of OpenClaw - March 9,2026](https://www.bitget.com/amp/news/detail/12560605248121)
 - [The Hacker News - Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials - March 9, 2026](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 - [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
+- [Github.com - Show HN: Security toolkit for OpenClaw – scanner, hardened configs, guides - March 9, 2026](https://github.com/munnam77/awesome-openclaw-security)
 
 ### 2026-03-08
 - [Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026](https://research.jfrog.com/post/ghostclaw-unmasked/)
