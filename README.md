@@ -31,7 +31,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-10
-- [___4o____/ Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026](https://x.com/___4o____/status/2031313346692264174)
+- [@___4o____ / Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026](https://x.com/___4o____/status/2031313346692264174)
 - [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy)  
 - [PA News - The first victims of OpenClaw have emerged! 4 security basics you must know before installation - March 10, 2026](https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d)
 - [Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026](https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/)
