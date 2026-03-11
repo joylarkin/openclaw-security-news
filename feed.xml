@@ -5,8 +5,14 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 01:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:30:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>___4o____/ Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026</title>
+      <link>https://x.com/___4o____/status/2031313346692264174</link>
+      <guid isPermaLink="true">https://x.com/___4o____/status/2031313346692264174</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy</link>
