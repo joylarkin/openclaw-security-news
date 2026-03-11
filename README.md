@@ -30,16 +30,16 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
-### 2026-30-10
-- [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy)
-- [Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026](https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/amp/)
+### 2026-03-10
+- [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy)  
+- [PA News - The first victims of OpenClaw have emerged! 4 security basics you must know before installation - March 10, 2026](https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d)
+- [Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026](https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/)
 
 ### 2026-03-09
 - [South China Morning Post - Chinese local governments offer OpenClaw project subsidies as security questions linger - March 9, 2026](https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger)
 - [Bitget - SlowMist CISO: Security Risk Found in USB Version of OpenClaw - March 9,2026](https://www.bitget.com/amp/news/detail/12560605248121)
 - [The Hacker News - Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials - March 9, 2026](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 - [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
-- [Github.com - Show HN: Security toolkit for OpenClaw – scanner, hardened configs, guides - March 9, 2026](https://github.com/munnam77/awesome-openclaw-security)
 
 ### 2026-03-08
 - [Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026](https://research.jfrog.com/post/ghostclaw-unmasked/)
