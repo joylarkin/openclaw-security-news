@@ -38,10 +38,12 @@ Updated twice daily.
 ### 2026-03-12
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
 - [The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026](https://www.thestandard.com.hk/news/article/326486/)
+- [Caixin Global - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026](https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html)
 
 ### 2026-03-11
 - [Twitter - Risk Warning Regarding the Security Use of OpenClaw - Source: China CNCERT - March 11, 2026](https://x.com/AngelicaOung/status/2031757405915091121)
 - [Bloomberg - What Is OpenClaw? AI Marvel or Cybersecurity Nightmare? - March 11, 2026](https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china)
+- [RADII - Why is China Suddenly Uninstalling Openclaw, the Free, Open-Source AI Agent? - March 11,2026](https://radii.co/article/china-uninstalls-openclaw-ai-reckoning)
 
 ### 2026-03-10
 - [Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026](https://x.com/___4o____/status/2031313346692264174)
