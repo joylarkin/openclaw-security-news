@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 08:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:28:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026</title>
@@ -20,6 +20,12 @@
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Caixin Global - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026</title>
+      <link>https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</link>
+      <guid isPermaLink="true">https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Twitter - Risk Warning Regarding the Security Use of OpenClaw - Source: China CNCERT - March 11, 2026</title>
       <link>https://x.com/AngelicaOung/status/2031757405915091121</link>
       <guid isPermaLink="true">https://x.com/AngelicaOung/status/2031757405915091121</guid>
@@ -29,6 +35,12 @@
       <title>Bloomberg - What Is OpenClaw? AI Marvel or Cybersecurity Nightmare? - March 11, 2026</title>
       <link>https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RADII - Why is China Suddenly Uninstalling Openclaw, the Free, Open-Source AI Agent? - March 11,2026</title>
+      <link>https://radii.co/article/china-uninstalls-openclaw-ai-reckoning</link>
+      <guid isPermaLink="true">https://radii.co/article/china-uninstalls-openclaw-ai-reckoning</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
