@@ -61,6 +61,7 @@ Updated twice daily.
 
 ### 2026-03-08
 - [Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026](https://research.jfrog.com/post/ghostclaw-unmasked/)
+- [Xinhua - AI "cultivating lobster" became popular, official tips → - March 8, 2026](https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce)
 - [Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026](https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497)
 - [Krebs on Security - How AI Assistants are Moving the Security Goalposts - March 9,2026](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/)
 
