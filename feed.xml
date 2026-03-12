@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 18:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 20:29:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026</title>
@@ -119,6 +119,12 @@
       <title>Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026</title>
       <link>https://research.jfrog.com/post/ghostclaw-unmasked/</link>
       <guid isPermaLink="true">https://research.jfrog.com/post/ghostclaw-unmasked/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xinhua - AI &quot;cultivating lobster&quot; became popular, official tips → - March 8, 2026</title>
+      <link>https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce</link>
+      <guid isPermaLink="true">https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
