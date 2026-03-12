@@ -5,12 +5,18 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 05:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:18:44 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026</title>
       <link>https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/</link>
       <guid isPermaLink="true">https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026</title>
+      <link>https://www.thestandard.com.hk/news/article/326486/</link>
+      <guid isPermaLink="true">https://www.thestandard.com.hk/news/article/326486/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
