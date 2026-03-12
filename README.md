@@ -37,6 +37,7 @@ Updated twice daily.
 
 ### 2026-03-12
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
+- [The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026](https://www.thestandard.com.hk/news/article/326486/)
 
 ### 2026-03-11
 - [Twitter - Risk Warning Regarding the Security Use of OpenClaw - Source: China CNCERT - March 11, 2026](https://x.com/AngelicaOung/status/2031757405915091121)
