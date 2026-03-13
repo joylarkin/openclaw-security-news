@@ -35,6 +35,11 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-13
+- [South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026](https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks)
+- [Global Times - China issues risk alert on viral AI agent OpenClaw, urging users to limit privileges - March 13, 2026](https://www.globaltimes.cn/page/202603/1356933.shtml)
+- [Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026](https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment)
+
 ### 2026-03-12
 - [ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026](https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/)
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
