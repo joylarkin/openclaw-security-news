@@ -5,8 +5,14 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 04:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:01:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026</title>
+      <link>https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/</link>
+      <guid isPermaLink="true">https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026</title>
       <link>https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/</link>
@@ -23,6 +29,12 @@
       <title>Caixin Global - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026</title>
       <link>https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</link>
       <guid isPermaLink="true">https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>South China Morning Post - Amid OpenClaw frenzy, China’s central bank adds to cybersecurity warnings - March 12, 2026</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3346352/amid-openclaw-frenzy-chinas-central-bank-adds-cybersecurity-warnings</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3346352/amid-openclaw-frenzy-chinas-central-bank-adds-cybersecurity-warnings</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
