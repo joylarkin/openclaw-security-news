@@ -263,9 +263,11 @@ Updated twice daily.
 - [Forbes - Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams - January 30, 2026](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/)
 
 ### 2026-01-29
+- [Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026](https://www.gartner.com/en/documents/7381830)
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
 
-### 2026-01-28
+### 2026-01-26
+- [Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026](https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/)
 
 <!-- HEADLINES_END -->
 
