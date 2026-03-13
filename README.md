@@ -52,7 +52,6 @@ Updated twice daily.
 - [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy)  
 - [PA News - The first victims of OpenClaw have emerged! 4 security basics you must know before installation - March 10, 2026](https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d)
 - [Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026](https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/)
-- [Github.com - Show HN: G0 – The control layer for AI agents scan, test, monitor, comply - March 10, 2026](https://github.com/guard0-ai/g0)
 
 ### 2026-03-09
 - [South China Morning Post - Chinese local governments offer OpenClaw project subsidies as security questions linger - March 9, 2026](https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger)
