@@ -175,3 +175,5 @@
 "","Centre for Cybersecurity Belgium","Search for OpenClaw Advisories","https://ccb.belgium.be/organisation"
 "","CVE.org","Search for OpenClaw CVEs","https://www.cve.org/CVERecord/SearchResults?query=openclaw"
 "2026","SOURCE","OpenClaw Security News","https://github.com/joylarkin/openclaw-security-news"
+"2026","SOURCE","OpenClaw Security News Feed","https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml"
+
