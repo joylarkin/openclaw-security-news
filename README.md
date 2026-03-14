@@ -202,7 +202,6 @@ Updated twice daily.
 - [CybersecurityNews - OpenClaw 2026.2.12 Released With Fix for 40+ Security Issues - February 13, 2026](https://cybersecuritynews.com/openclaw-2026-2-12-released/)
 
 ### 2026-02-12
-- [CSO - What CISOs need to know about the OpenClaw security nightmare - February 12, 2026](https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html)
 - [Security Boulevard - 42,900 OpenClaw Exposed Control Panels and Why You Should Care - February 12, 2026](https://securityboulevard.com/2026/02/42900-openclaw-exposed-control-panels-and-why-you-should-care/)
 - [Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026](https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/)
 - [trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026](https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/)
@@ -218,8 +217,8 @@ Updated twice daily.
 - [SD Times - Security professionals express concern over OpenClaw - February 10, 2026](https://sdtimes.com/ai/security-professionals-express-concern-over-openclaw/)
 
 ### 2026-02-09
-- [Adnan Khan's Blog - Clinejection: Compromising Cline's Production Releases just by Prompting an Issue Triager (OpenClaw found as malware c2) - February 9, 2026](https://adnanthekhan.com/posts/clinejection/)
 - [SiliconANGLE - Tens of thousands of OpenClaw systems exposed by misconfigurations and known exploits - February 9, 2026](https://siliconangle.com/2026/02/09/tens-thousands-openclaw-systems-exposed-due-misconfiguration-known-exploits/)
+- [Adnan Khan's Blog - Clinejection: Compromising Cline's Production Releases just by Prompting an Issue Triager (OpenClaw found as malware c2) - February 9, 2026](https://adnanthekhan.com/posts/clinejection/)
 - [Infosecurity Magazine - Researchers Find 40,000+ Exposed OpenClaw Instances - February 9, 2026](https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/)
 - [trendingtopics.eu - Security Nightmare: How OpenClaw Is Fighting Malware in Its AI Agent Marketplace - February 9, 2026](https://www.trendingtopics.eu/security-nightmare-how-openclaw-is-fighting-malware-in-its-ai-agent-marketplace/)
 - [The Register - OpenClaw instances open to the internet present ripe targets - February 9, 2026](https://www.theregister.com/2026/02/09/openclaw_instances_exposed_vibe_code/)
@@ -235,26 +234,26 @@ Updated twice daily.
 - [Forbes - What Is OpenClaw, Formerly Moltbot? Everything You Need To Know - February 6, 2026](https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/)
 
 ### 2026-02-05
-- [The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026](https://thenewstack.io/openclaw-moltbot-security-concerns/)
-- [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
 - [BankInfoSecurity - https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686 - February 5, 2026](https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686)
 - [Yahoo/Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.yahoo.com/news/articles/china-warns-security-risks-linked-094254423.html)
+- [The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026](https://thenewstack.io/openclaw-moltbot-security-concerns/)
+- [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
 
 ### 2026-02-04
 - [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/)
+- [Security Boulevard - The ‘Absolute Nightmare’ in Your DMs: OpenClaw Marries Extreme Utility with ‘Unacceptable’ Risk - February 4, 2026](https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/)
 - [The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
 - [Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026](https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress)
-- [Security Boulevard - The ‘Absolute Nightmare’ in Your DMs: OpenClaw Marries Extreme Utility with ‘Unacceptable’ Risk - February 4, 2026](https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/)
 - [SECURITY.COM - The Rise of OpenClaw - February 4, 2026](https://www.security.com/expert-perspectives/rise-openclaw)
 - [the-decoder.com - OpenClaw's OpenDoor problem is so bad that installing malware yourself might save time - February 4, 2026](https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/)
 
 ### 2026-02-03
+- [ComputerWorld - By whatever name — Moltbot, Clawd, OpenClaw — this uber AI assistant is a security nightmare - February 3, 2026](https://www.computerworld.com/article/4125939/by-whatever-name-moltbolt-clawd-openclaw-this-uber-ai-assistant-is-a-security-nightmare.html)
 - [SecurityWeek - Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant - February 3, 2026](https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/)
 - [The Register - DIY AI bot farm OpenClaw is a security dumpster fire - February 3, 2026](https://www.theregister.com/2026/02/03/openclaw_security_problems/)
 - [Business Insider - Why OpenClaw and Moltbook have security researchers worried - February 3, 2026](https://www.businessinsider.com/openclaw-moltbook-cybersecurity-risks-researchers-ai-2026-2)
 - [Axios - Moltbook shows rapid demand for AI agents. The security world isn't ready. - February 3, 2026](https://www.axios.com/2026/02/03/moltbook-openclaw-security-threats)
 - [CNET - New AI Assistant OpenClaw Acts Like Your Digital Servant, but Experts Warn of Security Risks - February 3, 2026](https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/)
-- [ComputerWorld - By whatever name — Moltbot, Clawd, OpenClaw — this uber AI assistant is a security nightmare - February 3, 2026](https://www.computerworld.com/article/4125939/by-whatever-name-moltbolt-clawd-openclaw-this-uber-ai-assistant-is-a-security-nightmare.html)
 
 ### 2026-02-02
 - [Diginomica - Enterprise hits and misses - OpenClaw's security holes keep CISOs up past bedtime - February 2, 2026](https://diginomica.com/enterprise-hits-and-misses-ai-fears-meet-saas-software-earnings-and-openclaws-security-holes-keep)
@@ -266,8 +265,8 @@ Updated twice daily.
 - [PCMag - OpenClaw Is the Hot New AI Agent, But Is It Safe to Use? - February 2, 2026](https://www.pcmag.com/news/openclaw-is-the-hot-new-ai-agent-but-is-it-safe-to-use)
 
 ### 2026-02-01
-- [Tom's Hardware - Malicious OpenClaw 'skill' targets crypto users on ClawHub — 14 malicious skills were uploaded to ClawHub last month - February 1, 2026](https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role)
 - [The Decoder - OpenClaw (formerly Clawdbot) and Moltbook let attackers walk through the front door - February 1, 2026](https://the-decoder.com/openclaw-formerly-clawdbot-and-moltbook-let-attackers-walk-through-the-front-door/)
+- [Tom's Hardware - Malicious OpenClaw 'skill' targets crypto users on ClawHub — 14 malicious skills were uploaded to ClawHub last month - February 1, 2026](https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role)
 
 ### 2026-01-31
 
@@ -278,8 +277,8 @@ Updated twice daily.
 
 ### 2026-01-29
 - [Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026](https://www.gartner.com/en/documents/7381830)
-- [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
 - [Inc - OpenClaw Can Run Your Whole Computer—and That’s Exactly Why Security Experts Are Panicking - January 29, 2026](https://www.inc.com/ben-sherry/the-tech-world-loves-this-powerful-ai-agent-but-its-also-a-security-nightmare/91294337)
+- [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
 
 ### 2026-01-28
 
