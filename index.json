@@ -31,8 +31,8 @@
   },
   "observability": {
     "description": "Live dashboards for monitoring OpenClaw exposure and threat intelligence",
-      "format": "Markdown — dated sections (YYYY-MM-DD), bulleted headlines with source and date",
-      "best_for": "humans, AI agents browsing openclaw observability resources"   
+    "format": "Markdown — dated sections (YYYY-MM-DD), bulleted headlines with source and date",
+    "best_for": "humans, AI agents browsing openclaw observability resources"
   },
   "automation_protocol": {
     "description": "Rules the update-headlines job MUST follow every run",
