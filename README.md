@@ -28,6 +28,7 @@ Updated twice daily.
 
 ## OpenClaw Security
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
+- [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
 
 ---
 
@@ -41,6 +42,7 @@ Updated twice daily.
 - [Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026](https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment)
 
 ### 2026-03-12
+- [Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026](https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it)
 - [ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026](https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/)
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
 - [The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026](https://www.thestandard.com.hk/news/article/326486/)
