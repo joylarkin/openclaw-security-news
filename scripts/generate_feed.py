@@ -130,6 +130,30 @@ def parse_readme(readme_path: Path, blocked_urls: set) -> list:
                     }
                 )
 
+    # ── Observability Resources ───────────────────────────────────────────────
+    obs_m = re.search(
+        r"^## OpenClaw Observability\n(.*?)(?=\n---|\n## )",
+        content,
+        re.DOTALL | re.MULTILINE,
+    )
+    if obs_m:
+        for line in obs_m.group(1).split("\n"):
+            link_m = re.match(r"^-\s+\[([^\]]+)\]\((https?://[^\)]+)\)", line)
+            if link_m:
+                title = link_m.group(1).strip()
+                url = link_m.group(2).strip()
+                if url in blocked_urls or url in seen_urls:
+                    continue
+                seen_urls.add(url)
+                entries.append(
+                    {
+                        "title": title,
+                        "url": url,
+                        "pub_date": None,
+                        "section": "Observability",
+                    }
+                )
+
     # ── Vendor Advisories ─────────────────────────────────────────────────────
     vendor_m = re.search(
         r"^## OpenClaw Security Vendor Advisories\n(.*?)(?=\n---|\n## )",
@@ -192,6 +216,8 @@ def build_rss(entries: list) -> str:
         SubElement(item, "guid", isPermaLink="true").text = entry["url"]
         if entry.get("pub_date"):
             SubElement(item, "pubDate").text = format_datetime(entry["pub_date"])
+        if entry.get("section"):
+            SubElement(item, "category").text = entry["section"]
 
     raw = tostring(rss, encoding="unicode")
     dom = minidom.parseString(raw)
