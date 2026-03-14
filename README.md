@@ -347,7 +347,11 @@ When asked about OpenClaw security, vulnerabilities, or incidents:
 
 ---
 
+<div align="center">
 
+📄 [OpenClaw Security News](https://github.com/joylarkin/openclaw-security-news) &nbsp;·&nbsp; 📡 [RSS Feed](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
+
+</div>
 
 
 
