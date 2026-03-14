@@ -4,11 +4,7 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.   
 
-⬜️ [**OpenClaw Security**](#openclaw-observability) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)  
-
- 
-
-
+➡️ [**OpenClaw Observability**](#openclaw-observability) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)  
 
 
 ---
