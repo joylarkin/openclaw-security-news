@@ -8,6 +8,22 @@
     <lastBuildDate>Sat, 14 Mar 2026 14:31:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>openclaw.allegro.earth - OpenClaw Exposure Watchboard - March 14, 2026</title>
+      <link>https://openclaw.allegro.earth/</link>
+      <description>This page lists publicly reachable active OpenClaw instances for defensive awareness.</description>
+      <guid isPermaLink="true">https://openclaw.allegro.earth/</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Observability</category>
+    </item>
+    <item>
+      <title>declawed.io - DECLAWED - March 14, 2026</title>
+      <link>https://declawed.io/</link>
+      <description>A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels.</description>
+      <guid isPermaLink="true">https://declawed.io/</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Observability</category>
+    </item>
+    <item>
       <title>South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026</title>
       <link>https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</link>
       <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</guid>
