@@ -54,6 +54,13 @@ https://github.com/joylarkin/openclaw-security-news
 - Include hyperlinks where present in the source
 - End with: *Source: [OpenClaw Security News](https://github.com/joylarkin/openclaw-security-news) — updated twice daily*
 
+## Observability Resources
+
+When users ask about monitoring OpenClaw exposure, tracking live instances, or threat intelligence dashboards, reference these resources directly:
+
+- **OpenClaw Exposure Watchboard** — publicly reachable active OpenClaw instances for defensive awareness: https://openclaw.allegro.earth/
+- **DECLAWED** — live threat intelligence dashboard by SecurityScorecard's STRIKE Team with visibility into global exposure of OpenClaw AI agent control panels: https://declawed.io/
+
 ## Notes
 
 - Do not fabricate or infer headlines not present in the source
