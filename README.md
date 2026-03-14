@@ -4,7 +4,7 @@
 A collection of news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated twice daily.   
 
-⬜️ [**OpenClaw Security**](#openclaw-security) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)  
+⬜️ [**OpenClaw Security**](#openclaw-observability) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories) · [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)  
 
  
 
@@ -26,7 +26,7 @@ Updated twice daily.
 
 ---
 
-## OpenClaw Security
+## OpenClaw Observability
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
 
