@@ -4,7 +4,7 @@
   "maintainer": "Joy Larkin",
   "repo": "https://github.com/joylarkin/openclaw-security-news",
   "topics": ["openclaw", "openclaw-security", "clawdbot", "clawhub", "moltbot"],
-  "related_terms": ["OpenClaw", "Moltbot", "Clawdbot", "ClawHub", "ClawBands", "SecureClaw", "NanoClaw", "Carapace"],
+  "related_terms": ["OpenClaw", "Moltbot", "Clawdbot", "openclaw security", "openclaw cybersecurity", "openclaw news", "openclaw warnings", "openclaw vulnerabilites", "openclaw malware", "openclaw incidents", "openclaw risks", "openclaw threats"],
   "update_frequency": "twice daily",
   "files": {
     "readme": {
@@ -31,18 +31,8 @@
   },
   "observability": {
     "description": "Live dashboards for monitoring OpenClaw exposure and threat intelligence",
-    "resources": [
-      {
-        "name": "OpenClaw Exposure Watchboard",
-        "url": "https://openclaw.allegro.earth/",
-        "description": "Lists publicly reachable active OpenClaw instances for defensive awareness"
-      },
-      {
-        "name": "DECLAWED",
-        "url": "https://declawed.io/",
-        "description": "Live threat intelligence dashboard by SecurityScorecard's STRIKE Team providing visibility into global exposure of OpenClaw AI agent control panels"
-      }
-    ]
+      "format": "Markdown — dated sections (YYYY-MM-DD), bulleted headlines with source and date",
+      "best_for": "humans, AI agents browsing openclaw observability resources"   
   },
   "automation_protocol": {
     "description": "Rules the update-headlines job MUST follow every run",
