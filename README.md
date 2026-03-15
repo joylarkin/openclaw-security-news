@@ -32,6 +32,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-15
+- [InfoQ - AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities - March 15, 2026](https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/)
+- [TechRadar - Chinese government cracks down on in-office OpenClaw use over potential security risks - March 15, 2026](https://www.techradar.com/pro/security/chinese-government-cracks-down-on-in-office-openclaw-use-over-potential-security-risks)
+- [Global Times - China issues risk warning regarding OpenClaw application security in internet financial sector - March 15, 2026](https://www.globaltimes.cn/page/202603/1356997.shtml)
+- [Xinhua - Explainer: In OpenClaw frenzy, should we be cheery or worried? - March 15, 2026](https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html)
+
 ### 2026-03-14
 - [The Hacker News - OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration - March 14, 2026](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 - [New Straits Times (MY) - Security risks of AI bot OpenClaw grips China - March 14, 2026](https://www.nst.com.my/opinion/columnists/2026/03/1397085/security-risks-ai-bot-openclaw-grips-china)
