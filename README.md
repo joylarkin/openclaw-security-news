@@ -236,7 +236,7 @@ Updated twice daily.
 - [Forbes - What Is OpenClaw, Formerly Moltbot? Everything You Need To Know - February 6, 2026](https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/)
 
 ### 2026-02-05
-- [BankInfoSecurity - https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686 - February 5, 2026](https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686)
+- [BankInfoSecurity - OpenClaw AI Agent Sparks Global Security Alarm - February 5, 2026](https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686)
 - [Yahoo/Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.yahoo.com/news/articles/china-warns-security-risks-linked-094254423.html)
 - [The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026](https://thenewstack.io/openclaw-moltbot-security-concerns/)
 - [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
