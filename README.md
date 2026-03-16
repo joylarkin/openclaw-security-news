@@ -323,6 +323,7 @@ Updated twice daily.
 * [Snyk - 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII - February 5, 2026](https://snyk.io/blog/openclaw-skills-credential-leaks-research/)
 * [Bitdefender - Technical Advisory: OpenClaw Exploitation in Enterprise Networks - February 5, 2026](https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-in-enterprise-networks)
 * [Palo Alto Networks - The Moltbook Case and How We Need to Think about Agent Security - February 5, 2026](https://www.paloaltonetworks.com/blog/network-security/the-moltbook-case-and-how-we-need-to-think-about-agent-security/)
+* [Giskard - OpenClaw security vulnerabilities include data leakage and prompt injection risks - February 4, 2026](https://www.giskard.ai/knowledge/openclaw-security-vulnerabilities-include-data-leakage-and-prompt-injection-risks)
 * [Zenity Labs - OpenClaw or OpenDoor? - February 4, 2026](https://labs.zenity.io/p/openclaw-or-opendoor-indirect-prompt-injection-makes-openclaw-vulnerable-to-backdoors-and-much-more)
 * [OX Security - You Can't Just Delete OpenClaw: You Gave It Access to Everything. Now What? - February 4, 2026](https://www.ox.security/blog/how-to-uninstall-openclaw-remove-data-revoke-access/)
 * [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
