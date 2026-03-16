@@ -37,6 +37,7 @@ Updated twice daily.
 - [Twitter/Guanxing/@CertiK - Skill Scanning Is Not a Security Boundary - March 16, 2026](https://x.com/hhj4ck/status/2033527312042315816)
 - [VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026](https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert)
 - [GovInfoSecurity - OpenClaw Exposes Hidden Risks in Agentic AI - March 16, 2026](https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035)
+- [TechJuice (PK) - Researchers Warn OpenClaw AI Agents Are Leaking User Data - March 16, 2026](https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/)
 - [rthk.hk - IT chief urges caution over OpenClaw security risks - March 16, 2026](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm)
 - [The Star (MY) - Hong Kong warns govt departments not to install AI tool OpenClaw - March 16, 2026](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/16/hong-kong-warns-govt-departments-not-to-install-ai-tool-openclaw)
 
