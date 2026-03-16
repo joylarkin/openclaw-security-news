@@ -32,6 +32,14 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-16
+- [gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026](https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/)
+- [Twitter/Guanxing/@CertiK - Skill Scanning Is Not a Security Boundary - March 16, 2026](https://x.com/hhj4ck/status/2033527312042315816)
+- [VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026](https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert)
+- [GovInfoSecurity - OpenClaw Exposes Hidden Risks in Agentic AI - March 16, 2026](https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035)
+- [rthk.hk - IT chief urges caution over OpenClaw security risks - March 16, 2026](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm)
+- [The Star (MY) - Hong Kong warns govt departments not to install AI tool OpenClaw - March 16, 2026](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/16/hong-kong-warns-govt-departments-not-to-install-ai-tool-openclaw)
+
 ### 2026-03-15
 - [InfoQ - AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities - March 15, 2026](https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/)
 - [TechRadar - Chinese government cracks down on in-office OpenClaw use over potential security risks - March 15, 2026](https://www.techradar.com/pro/security/chinese-government-cracks-down-on-in-office-openclaw-use-over-potential-security-risks)
@@ -46,7 +54,6 @@ Updated twice daily.
 - [South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026](https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks)
 - [Global Times - China issues risk alert on viral AI agent OpenClaw, urging users to limit privileges - March 13, 2026](https://www.globaltimes.cn/page/202603/1356933.shtml)
 - [Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026](https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment)
-- [pymnts.com - Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users - March 13, 2026](https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/)
 
 ### 2026-03-12
 - [Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026](https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it)
