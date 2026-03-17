@@ -33,6 +33,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-17
+- [The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 2026](https://www.nytimes.com/2026/03/17/business/china-ai-agent.html)
 - [Techzine - OpenClaw bypasses security layers and reveals new attack vectors - March 17, 2026](https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/)
 - [Digitimes Asia - China reins in OpenClaw surge, flags AI agent security risks - March 17, 2026](https://www.digitimes.com/news/a20260317PD227/china-openclaw-ai-agent-cybersecurity-data.html)
 
