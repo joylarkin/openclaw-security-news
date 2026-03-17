@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 21:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 00:52:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026</title>
@@ -25,6 +25,13 @@
       <title>VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026</title>
       <link>https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert</link>
       <guid isPermaLink="true">https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>TechCrunch - Nvidia’s version of OpenClaw could solve its biggest problem: security - March 16, 2026</title>
+      <link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
