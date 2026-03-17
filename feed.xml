@@ -5,12 +5,19 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 19:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:25:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 2026</title>
+      <title>The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 17, 2026</title>
       <link>https://www.nytimes.com/2026/03/17/business/china-ai-agent.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/03/17/business/china-ai-agent.html</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>TechRepublic - OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot - March 17, 2026</title>
+      <link>https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</link>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
