@@ -61,6 +61,8 @@ Updated twice daily.
 - [South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026](https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks)
 - [Global Times - China issues risk alert on viral AI agent OpenClaw, urging users to limit privileges - March 13, 2026](https://www.globaltimes.cn/page/202603/1356933.shtml)
 - [Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026](https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment)
+- [pymnts.com - Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users - March 13, 2026](https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/)
+- [pymnts.com - Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users - March 13, 2026](https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/)
 
 ### 2026-03-12
 - [Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026](https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it)
