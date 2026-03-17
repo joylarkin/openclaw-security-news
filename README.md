@@ -36,6 +36,7 @@ Updated twice daily.
 - [gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026](https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/)
 - [Twitter/Guanxing/@CertiK - Skill Scanning Is Not a Security Boundary - March 16, 2026](https://x.com/hhj4ck/status/2033527312042315816)
 - [VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026](https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert)
+- [TechCrunch - Nvidia’s version of OpenClaw could solve its biggest problem: security - March 16, 2026](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
 - [GovInfoSecurity - OpenClaw Exposes Hidden Risks in Agentic AI - March 16, 2026](https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035)
 - [NTD - China’s ‘Lobster’ AI Craze Draws Security Warnings as Operating Costs Rise - March 16, 2026](https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html)
 - [TechJuice (PK) - Researchers Warn OpenClaw AI Agents Are Leaking User Data - March 16, 2026](https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/)
