@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 18:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:43:56 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Times Now News (IN) - Why China Is Warning Users Against OpenClaw After Its Sudden Popularity | Explained - March 18, 2026</title>
@@ -71,6 +71,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>SDxCentral - Nvidia details NemoClaw security guardrails in wake of AI agent concerns - March 17, 2026</title>
+      <link>https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</link>
+      <guid isPermaLink="true">https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>The Times of India - Why founders are flocking to OpenClaw? - March 17, 2026</title>
       <link>https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms</link>
       <guid isPermaLink="true">https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms</guid>
@@ -78,9 +85,16 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>SDxCentral - Nvidia details NemoClaw security guardrails in wake of AI agent concerns - March 17, 2026</title>
-      <link>https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</link>
-      <guid isPermaLink="true">https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</guid>
+      <title>Github.com - Show HN: Instar – Persistent Server for Claude Code with Telegram and Evolution - March 17, 2026</title>
+      <link>https://github.com/JKHeadley/instar</link>
+      <guid isPermaLink="true">https://github.com/JKHeadley/instar</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Techtarget.com - Nvidia NemoClaw, JFrog shore up OpenClaw security - March 17, 2026</title>
+      <link>https://www.techtarget.com/searchitoperations/news/366640420/Nvidia-NemoClaw-JFrog-shore-up-OpenClaw-security</link>
+      <guid isPermaLink="true">https://www.techtarget.com/searchitoperations/news/366640420/Nvidia-NemoClaw-JFrog-shore-up-OpenClaw-security</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1303,6 +1317,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>ToxSec - Molt Road and the Rise of AI Agent Black Markets - February 5, 2026</title>
+      <link>https://www.toxsec.com/p/molt-road-and-ai-black-markets</link>
+      <guid isPermaLink="true">https://www.toxsec.com/p/molt-road-and-ai-black-markets</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026</title>
       <link>https://thenewstack.io/openclaw-moltbot-security-concerns/</link>
       <guid isPermaLink="true">https://thenewstack.io/openclaw-moltbot-security-concerns/</guid>
@@ -1313,13 +1334,6 @@
       <title>The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026</title>
       <link>https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/</guid>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>ToxSec - Molt Road and the Rise of AI Agent Black Markets - February 5, 2026</title>
-      <link>https://www.toxsec.com/p/molt-road-and-ai-black-markets</link>
-      <guid isPermaLink="true">https://www.toxsec.com/p/molt-road-and-ai-black-markets</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1548,6 +1562,13 @@
       <category>Vendor Advisories</category>
     </item>
     <item>
+      <title>Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026</title>
+      <link>https://disesdi.substack.com/p/this-is-apparently-the-stupidest</link>
+      <guid isPermaLink="true">https://disesdi.substack.com/p/this-is-apparently-the-stupidest</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>Dark Reading - OpenClaw AI Runs Wild in Business Environments - January 30, 2026</title>
       <link>https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments</link>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments</guid>
@@ -1565,13 +1586,6 @@
       <title>Forbes - Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams - January 30, 2026</title>
       <link>https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/</guid>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026</title>
-      <link>https://disesdi.substack.com/p/this-is-apparently-the-stupidest</link>
-      <guid isPermaLink="true">https://disesdi.substack.com/p/this-is-apparently-the-stupidest</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
