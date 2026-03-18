@@ -33,6 +33,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-17
+- [Gizmodo - Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility - March 17, 2026](https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649)
 - [The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 17, 2026](https://www.nytimes.com/2026/03/17/business/china-ai-agent.html)
 - [TechRepublic - OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot - March 17, 2026](https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/)
 - [Techzine - OpenClaw bypasses security layers and reveals new attack vectors - March 17, 2026](https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/)
@@ -44,6 +45,7 @@ Updated twice daily.
 - [VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026](https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert)
 - [TechCrunch - Nvidia’s version of OpenClaw could solve its biggest problem: security - March 16, 2026](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)
 - [GovInfoSecurity - OpenClaw Exposes Hidden Risks in Agentic AI - March 16, 2026](https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035)
+- [Embrace The Red - Agent Commander: Promptware-Powered Command and Control - March 16, 2026](https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/)
 - [NTD - China’s ‘Lobster’ AI Craze Draws Security Warnings as Operating Costs Rise - March 16, 2026](https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html)
 - [TechJuice (PK) - Researchers Warn OpenClaw AI Agents Are Leaking User Data - March 16, 2026](https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/)
 - [rthk.hk - IT chief urges caution over OpenClaw security risks - March 16, 2026](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm)
@@ -54,6 +56,7 @@ Updated twice daily.
 - [TechRadar - Chinese government cracks down on in-office OpenClaw use over potential security risks - March 15, 2026](https://www.techradar.com/pro/security/chinese-government-cracks-down-on-in-office-openclaw-use-over-potential-security-risks)
 - [Global Times - China issues risk warning regarding OpenClaw application security in internet financial sector - March 15, 2026](https://www.globaltimes.cn/page/202603/1356997.shtml)
 - [Xinhua - Explainer: In OpenClaw frenzy, should we be cheery or worried? - March 15, 2026](https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html)
+- [Inc - How to Experiment Safely With OpenClaw Without Risking Your Company’s Data - March 15, 2026](https://www.inc.com/hauwa-otori/how-to-experiment-safely-with-openclaw-without-risking-your-companys-data/91314594)
 
 ### 2026-03-14
 - [The Hacker News - OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration - March 14, 2026](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
