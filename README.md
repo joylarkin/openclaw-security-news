@@ -43,8 +43,10 @@ Updated twice daily.
 - [TechRepublic - OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot - March 17, 2026](https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/)
 - [Techzine - OpenClaw bypasses security layers and reveals new attack vectors - March 17, 2026](https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/)
 - [Digitimes Asia - China reins in OpenClaw surge, flags AI agent security risks - March 17, 2026](https://www.digitimes.com/news/a20260317PD227/china-openclaw-ai-agent-cybersecurity-data.html)
-- [The Times of India - Why founders are flocking to OpenClaw? - March 17, 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms)
 - [SDxCentral - Nvidia details NemoClaw security guardrails in wake of AI agent concerns - March 17, 2026](https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/)
+- [The Times of India - Why founders are flocking to OpenClaw? - March 17, 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms)
+- [Github.com - Show HN: Instar – Persistent Server for Claude Code with Telegram and Evolution - March 17, 2026](https://github.com/JKHeadley/instar)
+- [Techtarget.com - Nvidia NemoClaw, JFrog shore up OpenClaw security - March 17, 2026](https://www.techtarget.com/searchitoperations/news/366640420/Nvidia-NemoClaw-JFrog-shore-up-OpenClaw-security)
 
 ### 2026-03-16
 - [gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026](https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/)
@@ -267,9 +269,9 @@ Updated twice daily.
 ### 2026-02-05
 - [BankInfoSecurity - OpenClaw AI Agent Sparks Global Security Alarm - February 5, 2026](https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686)
 - [Yahoo/Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026](https://www.yahoo.com/news/articles/china-warns-security-risks-linked-094254423.html)
+- [ToxSec - Molt Road and the Rise of AI Agent Black Markets - February 5, 2026](https://www.toxsec.com/p/molt-road-and-ai-black-markets)
 - [The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026](https://thenewstack.io/openclaw-moltbot-security-concerns/)
 - [The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026](https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/)
-- [ToxSec - Molt Road and the Rise of AI Agent Black Markets - February 5, 2026](https://www.toxsec.com/p/molt-road-and-ai-black-markets)
 
 ### 2026-02-04
 - [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/)
@@ -303,10 +305,10 @@ Updated twice daily.
 ### 2026-01-31
 
 ### 2026-01-30
+- [Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026](https://disesdi.substack.com/p/this-is-apparently-the-stupidest)
 - [Dark Reading - OpenClaw AI Runs Wild in Business Environments - January 30, 2026](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [VentureBeat - OpenClaw proves agentic AI works. It also proves your security model doesn't. 180,000 developers just made that your problem. - January 30, 2026](https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide)
 - [Forbes - Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams - January 30, 2026](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/)
-- [Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026](https://disesdi.substack.com/p/this-is-apparently-the-stupidest)
 
 ### 2026-01-29
 - [Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026](https://www.gartner.com/en/documents/7381830)
