@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 04:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 05:36:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gizmodo - Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility - March 17, 2026</title>
+      <link>https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649</link>
+      <guid isPermaLink="true">https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 17, 2026</title>
       <link>https://www.nytimes.com/2026/03/17/business/china-ai-agent.html</link>
@@ -71,6 +78,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>Embrace The Red - Agent Commander: Promptware-Powered Command and Control - March 16, 2026</title>
+      <link>https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/</link>
+      <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>NTD - China’s ‘Lobster’ AI Craze Draws Security Warnings as Operating Costs Rise - March 16, 2026</title>
       <link>https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html</link>
       <guid isPermaLink="true">https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html</guid>
@@ -123,6 +137,13 @@
       <title>Xinhua - Explainer: In OpenClaw frenzy, should we be cheery or worried? - March 15, 2026</title>
       <link>https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html</link>
       <guid isPermaLink="true">https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html</guid>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Inc - How to Experiment Safely With OpenClaw Without Risking Your Company’s Data - March 15, 2026</title>
+      <link>https://www.inc.com/hauwa-otori/how-to-experiment-safely-with-openclaw-without-risking-your-companys-data/91314594</link>
+      <guid isPermaLink="true">https://www.inc.com/hauwa-otori/how-to-experiment-safely-with-openclaw-without-risking-your-companys-data/91314594</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
