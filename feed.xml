@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 19:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 03:48:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026</title>
+      <link>https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/</link>
+      <guid isPermaLink="true">https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>Times Now News (IN) - Why China Is Warning Users Against OpenClaw After Its Sudden Popularity | Explained - March 18, 2026</title>
       <link>https://www.timesnownews.com/technology-science/why-china-is-reportedly-warning-users-against-openclaw-after-its-sudden-popularity-explained-article-153863558</link>
@@ -27,6 +34,13 @@
       <guid isPermaLink="true">https://www.rti.org.tw/en/news?uid=3&amp;pid=197858</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>Government Warnings</category>
+    </item>
+    <item>
+      <title>Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026</title>
+      <link>https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/</link>
+      <guid isPermaLink="true">https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026</title>
