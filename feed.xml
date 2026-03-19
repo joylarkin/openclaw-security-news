@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 08:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:58:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026</title>
