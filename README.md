@@ -34,6 +34,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-19
+- [DailyCoin - Devs Targeted in OpenClaw GitHub Phishing Campaign - March 19, 2026](https://dailycoin.com/openclaw-github-phishing-crypto-wallet-attack/)
 - [BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026](https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/)
 
 ### 2026-03-18
@@ -84,6 +85,7 @@ Updated twice daily.
 ### 2026-03-12
 - [Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026](https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it)
 - [ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026](https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/)
+- [Yunnan Normal University - 关于防范OpenClaw（龙虾）开源AI智能体安全风险的预警提示 - March 12, 2026](https://www.ynnu.edu.cn/info/1063/11389.htm)
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
 - [The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026](https://www.thestandard.com.hk/news/article/326486/)
 - [Caixin Global (CN) - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026](https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html)
