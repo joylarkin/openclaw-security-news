@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:16:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DailyCoin - Devs Targeted in OpenClaw GitHub Phishing Campaign - March 19, 2026</title>
@@ -249,13 +249,6 @@
       <title>Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026</title>
       <link>https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>pymnts.com - Alibaba App Widens Access to AI Agent OpenClaw for Mobile Users - March 13, 2026</title>
-      <link>https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/artificial-intelligence-2/2026/alibaba-app-widens-access-to-ai-agent-openclaw-for-mobile-users/</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
