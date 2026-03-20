@@ -5,8 +5,22 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 19:26:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026</title>
+      <link>https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html</link>
+      <guid isPermaLink="true">https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Caixin Global (CN) - China Internet Finance Body Raises Alarm Over OpenClaw AI - March 20, 2026</title>
+      <link>https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html</link>
+      <guid isPermaLink="true">https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>CNET - Nvidia's NemoClaw Promises a More Secure Way to Deploy AI Agents, but Is It Really Safer? - March 19, 2026</title>
       <link>https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/</link>
