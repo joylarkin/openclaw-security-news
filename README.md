@@ -34,6 +34,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-19
+- [CNET - Nvidia's NemoClaw Promises a More Secure Way to Deploy AI Agents, but Is It Really Safer? - March 19, 2026](https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/)
 - [DailyCoin - Devs Targeted in OpenClaw GitHub Phishing Campaign - March 19, 2026](https://dailycoin.com/openclaw-github-phishing-crypto-wallet-attack/)
 - [BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026](https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/)
 
