@@ -25,7 +25,9 @@ Updated twice daily.
 
 ## OpenClaw Observability
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
+- [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
+
 
 ---
 
