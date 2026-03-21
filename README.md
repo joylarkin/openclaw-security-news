@@ -336,6 +336,7 @@ Updated twice daily.
 ## OpenClaw Security Vendor Advisories
 * [Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026](https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/)
 * [ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026](https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks)
+* [Socket.dev - OpenClaw Advisory Surge Highlights Gaps Between GHSA and CVE Tracking - March 10, 2026](https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking)
 * [ReversingLabs - OpenClaw and AI risk: 3 AppSec lessons - March 10, 2026](https://www.reversinglabs.com/blog/openclaw-agentic-ai-risk)
 * [TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 10, 2026](https://www.trendmicro.com/en/research/26/c/cisos-in-a-pinch-a-security-analysis-openclaw.html)
 * [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
