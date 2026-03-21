@@ -38,6 +38,7 @@ Updated twice daily.
 ### 2026-03-20
 - [CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026](https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html)
 - [Caixin Global (CN) - China Internet Finance Body Raises Alarm Over OpenClaw AI - March 20, 2026](https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html)
+- [Financial Post - Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments - March 20, 2026](https://financialpost.com/globe-newswire/airia-enables-enterprise-grade-security-for-openclaw-ai-agent-deployments)
 
 ### 2026-03-19
 - [CNET - Nvidia's NemoClaw Promises a More Secure Way to Deploy AI Agents, but Is It Really Safer? - March 19, 2026](https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/)
