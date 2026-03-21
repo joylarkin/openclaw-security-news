@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 08:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:13:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026</title>
@@ -1708,6 +1708,12 @@
       <title>OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness</title>
       <link>https://openclaw.allegro.earth/</link>
       <guid isPermaLink="true">https://openclaw.allegro.earth/</guid>
+      <category>Observability</category>
+    </item>
+    <item>
+      <title>AIPwn - OpenClaw Security Watchboard</title>
+      <link>https://aipwn.org/openclaw</link>
+      <guid isPermaLink="true">https://aipwn.org/openclaw</guid>
       <category>Observability</category>
     </item>
     <item>
