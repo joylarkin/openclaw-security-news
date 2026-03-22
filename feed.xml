@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 18:36:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 19:26:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Forbes - 2 Reasons I Turned Off My OpenClaw, My Personal AI Assistant - March 22, 2026</title>
@@ -18,6 +18,13 @@
       <title>flyingpenguin - OpenClaw Threat: Where Encryption Goes to Die - March 22, 2026</title>
       <link>https://www.flyingpenguin.com/openclaw-threat-where-encryption-goes-to-die/</link>
       <guid isPermaLink="true">https://www.flyingpenguin.com/openclaw-threat-where-encryption-goes-to-die/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>MEXC - OpenClaw founder confirms in reply that 360 was the exclusive discoverer of the vulnerability - March 22, 2026</title>
+      <link>https://www.mexc.co/news/972564</link>
+      <guid isPermaLink="true">https://www.mexc.co/news/972564</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
