@@ -35,16 +35,21 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-22
+- [Forbes - 2 Reasons I Turned Off My OpenClaw, My Personal AI Assistant - March 22, 2026](https://www.forbes.com/sites/paulbaier/2026/03/22/2-reasons-i-turned-off-my-openclaw-my-personal-ai-assistant/)
+- [flyingpenguin - OpenClaw Threat: Where Encryption Goes to Die - March 22, 2026](https://www.flyingpenguin.com/openclaw-threat-where-encryption-goes-to-die/)
+- [China Daily (CN) - Guidelines released to curb OpenClaw security risks - March 22, 2026](https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html)
+
+### 2026-03-21
+
 ### 2026-03-20
 - [CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026](https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html)
 - [Caixin Global (CN) - China Internet Finance Body Raises Alarm Over OpenClaw AI - March 20, 2026](https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html)
-- [Financial Post - Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments - March 20, 2026](https://financialpost.com/globe-newswire/airia-enables-enterprise-grade-security-for-openclaw-ai-agent-deployments)
 
 ### 2026-03-19
 - [CNET - Nvidia's NemoClaw Promises a More Secure Way to Deploy AI Agents, but Is It Really Safer? - March 19, 2026](https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/)
 - [DailyCoin - Devs Targeted in OpenClaw GitHub Phishing Campaign - March 19, 2026](https://dailycoin.com/openclaw-github-phishing-crypto-wallet-attack/)
 - [BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026](https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/)
-- [Geeky Gadgets - OpenClaw Super Powers : Marketplace, Persistent Memory, Local Automations - March 19, 2026](https://www.geeky-gadgets.com/openclaw-skills-marketplace/)
 
 ### 2026-03-18
 - [Times Now News (IN) - Why China Is Warning Users Against OpenClaw After Its Sudden Popularity | Explained - March 18, 2026](https://www.timesnownews.com/technology-science/why-china-is-reportedly-warning-users-against-openclaw-after-its-sudden-popularity-explained-article-153863558)
