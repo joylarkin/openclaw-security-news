@@ -42,8 +42,6 @@ Updated twice daily.
 - [China Daily (CN) - Guidelines released to curb OpenClaw security risks - March 22, 2026](https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html)
 - [People's Daily Online (CN) - China releases OpenClaw security guidance for users, cloud providers, developers - March 22, 2026](https://en.people.cn/n3/2026/0323/c90000-20438534.html)
 
-### 2026-03-21
-
 ### 2026-03-20
 - [CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026](https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html)
 - [Caixin Global (CN) - China Internet Finance Body Raises Alarm Over OpenClaw AI - March 20, 2026](https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html)
