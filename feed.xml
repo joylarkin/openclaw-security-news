@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 19:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 01:40:42 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Forbes - 2 Reasons I Turned Off My OpenClaw, My Personal AI Assistant - March 22, 2026</title>
@@ -32,6 +32,13 @@
       <title>China Daily (CN) - Guidelines released to curb OpenClaw security risks - March 22, 2026</title>
       <link>https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html</link>
       <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>People's Daily Online (CN) - China releases OpenClaw security guidance for users, cloud providers, developers - March 22, 2026</title>
+      <link>https://en.people.cn/n3/2026/0323/c90000-20438534.html</link>
+      <guid isPermaLink="true">https://en.people.cn/n3/2026/0323/c90000-20438534.html</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
