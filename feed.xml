@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 18:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 22:36:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SecurityWeek - Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - March 24, 2026</title>
+      <link>https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/</link>
+      <guid isPermaLink="true">https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026</title>
       <link>https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html</link>
