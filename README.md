@@ -35,6 +35,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-24
+- [36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026](https://eu.36kr.com/en/p/3736412814557190)
+
 ### 2026-03-23
 - [Seeking Alpha - OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests - March 23, 2026](https://seekingalpha.com/article/4884938-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests)
 - [NBC News - In China, a rush to 'raise lobsters' quickly leads to second thoughts - March 23, 2026](https://www.nbcnews.com/world/asia/china-openclaw-ai-agent-frenzy-rcna263636)
