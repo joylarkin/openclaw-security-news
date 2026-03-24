@@ -36,6 +36,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-24
+- [SecurityWeek - Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - March 24, 2026](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
 - [CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026](https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html)
 - [Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026](https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/)
 - [DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
