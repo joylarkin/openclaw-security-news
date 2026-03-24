@@ -39,7 +39,6 @@ Updated twice daily.
 - [CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026](https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html)
 - [Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026](https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/)
 - [DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
-- [KrAsia - What is OpenClaw? 8 things to know as the AI agent draws hype, confusion, and caution - March 24, 2026]https://kr-asia.com/what-is-openclaw-8-things-to-know-as-the-ai-agent-draws-hype-confusion-and-caution)
 - [36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026](https://eu.36kr.com/en/p/3736412814557190)
 
 ### 2026-03-23
