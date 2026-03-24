@@ -36,6 +36,10 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-24
+- [CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026](https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html)
+- [Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026](https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/)
+- [DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
+- [KrAsia - What is OpenClaw? 8 things to know as the AI agent draws hype, confusion, and caution - March 24, 2026]https://kr-asia.com/what-is-openclaw-8-things-to-know-as-the-ai-agent-draws-hype-confusion-and-caution)
 - [36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026](https://eu.36kr.com/en/p/3736412814557190)
 
 ### 2026-03-23
@@ -82,7 +86,7 @@ Updated twice daily.
 - [Embrace The Red - Agent Commander: Promptware-Powered Command and Control - March 16, 2026](https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/)
 - [NTD - China’s ‘Lobster’ AI Craze Draws Security Warnings as Operating Costs Rise - March 16, 2026](https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html)
 - [TechJuice (PK) - Researchers Warn OpenClaw AI Agents Are Leaking User Data - March 16, 2026](https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/)
-- [rthk.hk - IT chief urges caution over OpenClaw security risks - March 16, 2026](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm)
+- [rthk.hk (HK) - IT chief urges caution over OpenClaw security risks - March 16, 2026](https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm)
 - [The Star (MY) - Hong Kong warns govt departments not to install AI tool OpenClaw - March 16, 2026](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/16/hong-kong-warns-govt-departments-not-to-install-ai-tool-openclaw)
 
 ### 2026-03-15
