@@ -35,6 +35,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-25
+- [The Business Times (SG) - OpenClaw’s rapid rise exposes ‘shadow AI’ risks in Singapore firms - March 25, 2026](https://www.businesstimes.com.sg/companies-markets/openclaws-rapid-rise-exposes-shadow-ai-risks-singapore-firms)
+
 ### 2026-03-24
 - [SecurityWeek - Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - March 24, 2026](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
 - [CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026](https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html)
