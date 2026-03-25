@@ -36,7 +36,10 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-25
+- [WIRED - OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - March 25, 2026](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)
+- [ComputerWeekly - Why OpenClaw agents are the next big enterprise challenge - March 25, 2026](https://www.computerweekly.com/news/366640697/Why-OpenClaw-agents-are-the-next-big-enterprise-challenge)
 - [The Business Times (SG) - OpenClaw’s rapid rise exposes ‘shadow AI’ risks in Singapore firms - March 25, 2026](https://www.businesstimes.com.sg/companies-markets/openclaws-rapid-rise-exposes-shadow-ai-risks-singapore-firms)
+
 
 ### 2026-03-24
 - [SecurityWeek - Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - March 24, 2026](https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/)
@@ -44,6 +47,7 @@ Updated twice daily.
 - [Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026](https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/)
 - [DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
 - [36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026](https://eu.36kr.com/en/p/3736412814557190)
+- [South China Morning Post - OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls? - March 25, 2026](https://www.scmp.com/video/china/3347830/openclaw-designed-execute-every-day-tasks-so-you-dont-have-what-are-pitfalls)
 
 ### 2026-03-23
 - [Seeking Alpha - OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests - March 23, 2026](https://seekingalpha.com/article/4884938-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests)
@@ -71,6 +75,7 @@ Updated twice daily.
 - [Times Now News (IN) - Why China Is Warning Users Against OpenClaw After Its Sudden Popularity | Explained - March 18, 2026](https://www.timesnownews.com/technology-science/why-china-is-reportedly-warning-users-against-openclaw-after-its-sudden-popularity-explained-article-153863558)
 - [news.de (DE) - OpenClaw: IT-Sicherheitslücke mit hohem Risiko! Warnung erhält Update - March 18, 2026](https://www.news.de/technik/859378810/openclaw-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-24-02-2026/1/)
 - [TechNode - ByteDance issues internal OpenClaw security rules, launches ByteClaw - March 18, 2026](http://technode.com/2026/03/18/bytedance-issues-internal-openclaw-security-rules-launches-byteclaw/)
+- [EKHBARY (EG) - China's OpenClaw Frenzy: An AI Gold Rush Facing Technical Hurdles - March 18, 2026](https://ekhbary.com/news/chinas-openclaw-frenzy-an-ai-gold-rush-facing-technical-hurdles-672-2.html)
 
 ### 2026-03-17
 - [Gizmodo - Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility - March 17, 2026](https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649)
@@ -79,7 +84,7 @@ Updated twice daily.
 - [Techzine (EU) - OpenClaw bypasses security layers and reveals new attack vectors - March 17, 2026](https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/)
 - [Digitimes Asia - China reins in OpenClaw surge, flags AI agent security risks - March 17, 2026](https://www.digitimes.com/news/a20260317PD227/china-openclaw-ai-agent-cybersecurity-data.html)
 - [SDxCentral - Nvidia details NemoClaw security guardrails in wake of AI agent concerns - March 17, 2026](https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/)
-- [The Times of India - Why founders are flocking to OpenClaw? - March 17, 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms)
+- [The Times of India (IN) - Why founders are flocking to OpenClaw? - March 17, 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms)
 
 ### 2026-03-16
 - [gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026](https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/)
@@ -112,7 +117,7 @@ Updated twice daily.
 ### 2026-03-12
 - [Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026](https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it)
 - [ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026](https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/)
-- [Yunnan Normal University - 关于防范OpenClaw（龙虾）开源AI智能体安全风险的预警提示 - March 12, 2026](https://www.ynnu.edu.cn/info/1063/11389.htm)
+- [Yunnan Normal University (CN) - 关于防范OpenClaw（龙虾）开源AI智能体安全风险的预警提示 - March 12, 2026](https://www.ynnu.edu.cn/info/1063/11389.htm)
 - [TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026](https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/)
 - [The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026](https://www.thestandard.com.hk/news/article/326486/)
 - [Caixin Global (CN) - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026](https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html)
@@ -148,7 +153,6 @@ Updated twice daily.
 - [Belgium - Warning: Multiple critical vulnerabilities in OpenClaw's Nextcloud Talk plugin, Patch Immediately! - March 6, 2026](https://ccb.belgium.be/advisories/warning-multiple-critical-vulnerabilities-openclaws-nextcloud-talk-plugin-patch)
 
 ### 2026-03-05
-- [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
 - [Heimdal Security - OpenClaw Incidents Show Why AI Adoption Pressure Puts Companies at Risk - March 5, 2026](https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/)
 - [grith.ai - A GitHub Issue Title Compromised 4,000 Developer Machines - March 5, 2026](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 - [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
@@ -191,15 +195,15 @@ Updated twice daily.
 - [ZDNet - AI agents are fast, loose, and out of control, MIT study finds - February 26, 2026](https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/)
 
 ### 2026-02-25
-- [Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
+- [WIRED - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)
 - [IAPS - Kimi Claw: Risks from Chinese-Hosted 'Always On' AI Agents - February 25, 2026](https://www.iaps.ai/research/kimi-claw-risks)
 - [Mint - OpenClaw: Did OpenAI just acquire a powerful new tool—or a security nightmare? - February 25, 2026](https://www.livemint.com/opinion/online-views/openclaw-openai-security-nightmare-artificial-intelligence-sam-altman-technology-ai-11771934381262.html)
 
 ### 2026-02-24
-- [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
+- [Gigazine (JP) - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
 - [Fast Company - 'This should terrify you': Meta Superintelligence safety director lost control of her AI agent—it deleted her emails - February 24, 2026](https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails)
 - [Axios - The Bot Population Bomb: OpenClaw is only the Beginning - February 24, 2026](https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown)
-- [Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw)
+- [Ryukoku.ac.jp (JP) - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw)
 
 ### 2026-02-23
 - [Cybernews - Microsoft: ‘OpenClaw unsuited to run on standard personal or enterprise workstation’ - February 23, 2026](https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/)
@@ -362,6 +366,7 @@ Updated twice daily.
 * [TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 10, 2026](https://www.trendmicro.com/en/research/26/c/cisos-in-a-pinch-a-security-analysis-openclaw.html)
 * [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
 * [MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
+* [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
 * [Huntress - “Malware, from the Outside!”: How a Threat Actor Used Fake OpenClaw Installers to Infect Systems with GhostSocks and Information Stealers - March 4, 2026](https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer)
 * [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 * [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
