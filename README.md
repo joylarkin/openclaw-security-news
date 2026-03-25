@@ -49,6 +49,7 @@ Updated twice daily.
 - [Seeking Alpha - OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests - March 23, 2026](https://seekingalpha.com/article/4884938-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests)
 - [NBC News - In China, a rush to 'raise lobsters' quickly leads to second thoughts - March 23, 2026](https://www.nbcnews.com/world/asia/china-openclaw-ai-agent-frenzy-rcna263636)
 - [Think China (SG) -  A short-lived catch: China’s AI lobster frenzy - March 23, 2026](https://www.thinkchina.sg/technology/short-lived-catch-chinas-ai-lobster-frenzy)
+- [SiliconANGLE News - Cisco debuts new AI agent security features, open-source DefenseClaw tool - March 23, 2026](https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/)
 
 ### 2026-03-22
 - [Forbes - 2 Reasons I Turned Off My OpenClaw, My Personal AI Assistant - March 22, 2026](https://www.forbes.com/sites/paulbaier/2026/03/22/2-reasons-i-turned-off-my-openclaw-my-personal-ai-assistant/)
