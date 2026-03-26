@@ -37,6 +37,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-26
+- [Futurism - OpenClaw Bots Are a Security Disaster - March 26, 2026](https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster)
+
 ### 2026-03-25
 - [WIRED - OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - March 25, 2026](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)
 - [Canadian HR Reporter (CA) - 'A hard no': Next wave of agentic AI upping the ante - March 25, 2026](https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221)
