@@ -5,12 +5,19 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 20:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:10:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>WIRED - OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - March 25, 2026</title>
       <link>https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/</link>
       <guid isPermaLink="true">https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Canadian HR Reporter (CA) - 'A hard no': Next wave of agentic AI upping the ante - March 25, 2026</title>
+      <link>https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221</link>
+      <guid isPermaLink="true">https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
