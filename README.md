@@ -39,6 +39,7 @@ Updated twice daily.
 
 ### 2026-03-25
 - [WIRED - OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - March 25, 2026](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)
+- [Canadian HR Reporter (CA) - 'A hard no': Next wave of agentic AI upping the ante - March 25, 2026](https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221)
 - [ComputerWeekly - Why OpenClaw agents are the next big enterprise challenge - March 25, 2026](https://www.computerweekly.com/news/366640697/Why-OpenClaw-agents-are-the-next-big-enterprise-challenge)
 - [The Business Times (SG) - OpenClaw’s rapid rise exposes ‘shadow AI’ risks in Singapore firms - March 25, 2026](https://www.businesstimes.com.sg/companies-markets/openclaws-rapid-rise-exposes-shadow-ai-risks-singapore-firms)
 
