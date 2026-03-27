@@ -37,6 +37,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-27
+- [36Kr - For enterprise-level AI agents, should you choose open-source or closed-source? - March 27, 2026](https://eu.36kr.com/en/p/3741223763116297)
+
 ### 2026-03-26
 - [Futurism - OpenClaw Bots Are a Security Disaster - March 26, 2026](https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster)
 
@@ -52,6 +55,7 @@ Updated twice daily.
 - [CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026](https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html)
 - [Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026](https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/)
 - [DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026](https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan)
+- [Business Insider - OpenClaw creator says he got a token refund request for errors the AI agent made with 'sensitive financial documents' - March 24, 2026](https://www.businessinsider.com/openclaw-creator-user-asked-token-refund-errors-financial-documents-2026-3)
 - [36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026](https://eu.36kr.com/en/p/3736412814557190)
 - [South China Morning Post - OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls? - March 25, 2026](https://www.scmp.com/video/china/3347830/openclaw-designed-execute-every-day-tasks-so-you-dont-have-what-are-pitfalls)
 
