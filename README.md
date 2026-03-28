@@ -172,6 +172,7 @@ Updated twice daily.
 - [grith.ai - A GitHub Issue Title Compromised 4,000 Developer Machines - March 5, 2026](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 - [InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026](https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html)
 - [Forbes - Five Things You Should Not Do With OpenClaw - March 5, 2026](https://www.forbes.com/sites/johnwerner/2026/03/05/five-things-you-should-not-do-with-openclaw/)
+- [MIT Technology News - Online harassment is entering its AI era - March 5, 2026](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/)
 
 ### 2026-03-04
 - [Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026](https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/)
