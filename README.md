@@ -37,6 +37,10 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-28
+- [The New Stack - Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem - March 28, 2026](https://thenewstack.io/nvidia-nemoclaw-openclaw-security/)
+- [Blockchain Council - Inside the NemoClaw Attack Chain: Tactics and IoCs - March 28, 2026](https://www.blockchain-council.org/agentic-ai/inside-the-nemoclaw-attack-chain-tactics-techniques-iocs/)
+
 ### 2026-03-27
 - [SEMAFOR - Exclusive / How I jailbroke an OpenClaw PR agent - March 27, 2026](https://www.semafor.com/article/03/27/2026/how-i-jailbroke-an-ai-agent)
 - [36Kr - For enterprise-level AI agents, should you choose open-source or closed-source? - March 27, 2026](https://eu.36kr.com/en/p/3741223763116297)
