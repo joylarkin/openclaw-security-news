@@ -412,10 +412,12 @@ Updated twice daily.
 * [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
 * [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
 * [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
+* [Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/)
 * [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
 * [GitGuardian - OpenClaw (Moltbot) Personal Assistant Goes Viral – And So Do Your Secrets - January 29, 2026](https://blog.gitguardian.com/moltbot-personal-assistant-goes-viral-and-so-do-your-secrets/)
 * [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare)   
+* [Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026](https://ethiack.com/news/blog/one-click-rce-openclaw)
 
 ---
 
