@@ -37,6 +37,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-30
+- [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
+
 ### 2026-03-29
 - [The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026](https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/)
 - [Seclists.org - OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions Silently Fixed, Report Denied - March 29, 2026](https://seclists.org/fulldisclosure/2026/Mar/14)
@@ -48,7 +51,6 @@ Updated twice daily.
 ### 2026-03-27
 - [SEMAFOR - Exclusive / How I jailbroke an OpenClaw PR agent - March 27, 2026](https://www.semafor.com/article/03/27/2026/how-i-jailbroke-an-ai-agent)
 - [36Kr - For enterprise-level AI agents, should you choose open-source or closed-source? - March 27, 2026](https://eu.36kr.com/en/p/3741223763116297)
-- [Cisco.com - Bringing AI to DevNet Learning Labs - March 27, 2026](https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs)
 
 ### 2026-03-26
 - [Futurism - OpenClaw Bots Are a Security Disaster - March 26, 2026](https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster)
