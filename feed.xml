@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:16:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026</title>
+      <link>https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</link>
+      <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026</title>
       <link>https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/</link>
@@ -46,13 +53,6 @@
       <title>36Kr - For enterprise-level AI agents, should you choose open-source or closed-source? - March 27, 2026</title>
       <link>https://eu.36kr.com/en/p/3741223763116297</link>
       <guid isPermaLink="true">https://eu.36kr.com/en/p/3741223763116297</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Cisco.com - Bringing AI to DevNet Learning Labs - March 27, 2026</title>
-      <link>https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs</link>
-      <guid isPermaLink="true">https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
