@@ -53,6 +53,8 @@ Updated twice daily.
 - [SystemTek (UK) - OpenClaw Canvas Path Traversal Information Disclosure Vulnerability (CVE-2026-3689) - March 30, 2026](https://www.systemtek.co.uk/2026/03/openclaw-canvas-path-traversal-information-disclosure-vulnerability-cve-2026-3689/)
 - [Mezha.net (UA) - OpenClaw adoption explodes across China, authorities warn of cyber risks - March 30, 2026](https://mezha.net/eng/bukvy/openclaw_adoption_explodes/)
 - [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
+- [Internet - ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More - March 30, 2026](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+- [TechRadar - How to safely experiment with OpenClaw - March 30, 2026](https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw)
 
 ### 2026-03-29
 - [The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026](https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/)
