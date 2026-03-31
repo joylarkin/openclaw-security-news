@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 08:59:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026</title>
@@ -50,16 +50,16 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>Seclists.org - OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions Silently Fixed, Report Denied - March 29, 2026</title>
-      <link>https://seclists.org/fulldisclosure/2026/Mar/14</link>
-      <guid isPermaLink="true">https://seclists.org/fulldisclosure/2026/Mar/14</guid>
+      <title>36Kr - 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 - March 29, 2026</title>
+      <link>https://36kr.com/newsflashes/3744930102149120</link>
+      <guid isPermaLink="true">https://36kr.com/newsflashes/3744930102149120</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>36Kr - 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 - March 29, 2026</title>
-      <link>https://36kr.com/newsflashes/3744930102149120</link>
-      <guid isPermaLink="true">https://36kr.com/newsflashes/3744930102149120</guid>
+      <title>Seclists.org - OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions Silently Fixed, Report Denied - March 29, 2026</title>
+      <link>https://seclists.org/fulldisclosure/2026/Mar/14</link>
+      <guid isPermaLink="true">https://seclists.org/fulldisclosure/2026/Mar/14</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
