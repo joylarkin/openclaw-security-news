@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:46:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026</title>
@@ -95,6 +95,20 @@
       <title>ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026</title>
       <link>https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</link>
       <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Internet - ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More - March 30, 2026</title>
+      <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>TechRadar - How to safely experiment with OpenClaw - March 30, 2026</title>
+      <link>https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw</link>
+      <guid isPermaLink="true">https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
