@@ -38,11 +38,13 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-30
+- [Kaspersky - Why AI agents need an iron curtain - March 30, 2026](https://www.kaspersky.com/blog/ironcurtain-ai-agent-security/55526/)
 - [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
 
 ### 2026-03-29
 - [The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026](https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/)
 - [Seclists.org - OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions Silently Fixed, Report Denied - March 29, 2026](https://seclists.org/fulldisclosure/2026/Mar/14)
+- [36Kr - 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 - March 29, 2026](https://36kr.com/newsflashes/3744930102149120)
 
 ### 2026-03-28
 - [The New Stack - Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem - March 28, 2026](https://thenewstack.io/nvidia-nemoclaw-openclaw-security/)
