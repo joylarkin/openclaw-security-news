@@ -40,7 +40,7 @@ Updated twice daily.
 ### 2026-03-31
 - [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
 - [TechTalks - How GhostClaw exploits macOS and OpenClaw to steal developer credentials - March 31, 2026](https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and)
-- [Wiz - Axios NPM Distribution Compromised in Supply Chain Attack (OpenClaw C2) - March 31, 2026](https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack)
+- [Wiz - Axios NPM Distribution Compromised in Supply Chain Attack - March 31, 2026](https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack)
 - [FinanceFeeds - OpenClaw’s Security Crisis: The Hidden Risks Behind AI Agents - March 31, 2026](https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/)
 - [Digital Today (KR) - AI agents could act like malware, urgent need for controls - March 31, 2026](https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls)
 - [The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026](https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers)
