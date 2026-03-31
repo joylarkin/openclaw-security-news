@@ -38,6 +38,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-31
+- [VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026](https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch)
 - [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
 - [TechTalks - How GhostClaw exploits macOS and OpenClaw to steal developer credentials - March 31, 2026](https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and)
 - [Wiz - Axios NPM Distribution Compromised in Supply Chain Attack - March 31, 2026](https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack)
