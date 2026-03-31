@@ -38,7 +38,9 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-03-30
+- [SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026](https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/)
 - [Kaspersky - Why AI agents need an iron curtain - March 30, 2026](https://www.kaspersky.com/blog/ironcurtain-ai-agent-security/55526/)
+- [flyingpenguin - Why I Replaced OpenClaw: Wirken for a Secure Agentic World - March 30, 2026](https://www.flyingpenguin.com/why-i-replaced-openclaw-wirken-for-a-secure-agentic-world/)
 - [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
 
 ### 2026-03-29
