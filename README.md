@@ -37,10 +37,19 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-03-31
+- [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
+- [TechTalks - How GhostClaw exploits macOS and OpenClaw to steal developer credentials - March 31, 2026](https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and)
+- [Wiz - Axios NPM Distribution Compromised in Supply Chain Attack (OpenClaw C2) - March 31, 2026](https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack)
+- [FinanceFeeds - OpenClaw’s Security Crisis: The Hidden Risks Behind AI Agents - March 31, 2026](https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/)
+- [Digital Today (KR) - AI agents could act like malware, urgent need for controls - March 31, 2026](https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls)
+- [The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026](https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers)
+
 ### 2026-03-30
 - [SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026](https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/)
 - [Kaspersky - Why AI agents need an iron curtain - March 30, 2026](https://www.kaspersky.com/blog/ironcurtain-ai-agent-security/55526/)
 - [flyingpenguin - Why I Replaced OpenClaw: Wirken for a Secure Agentic World - March 30, 2026](https://www.flyingpenguin.com/why-i-replaced-openclaw-wirken-for-a-secure-agentic-world/)
+- [SystemTek (UK) - OpenClaw Canvas Path Traversal Information Disclosure Vulnerability (CVE-2026-3689) - March 30, 2026](https://www.systemtek.co.uk/2026/03/openclaw-canvas-path-traversal-information-disclosure-vulnerability-cve-2026-3689/)
 - [Mezha.net (UA) - OpenClaw adoption explodes across China, authorities warn of cyber risks - March 30, 2026](https://mezha.net/eng/bukvy/openclaw_adoption_explodes/)
 - [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
 
@@ -387,12 +396,14 @@ Updated twice daily.
 ---
 
 ## OpenClaw Security Vendor Advisories
+* [Jamf Threat Labs - GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer - March 20, 2026](https://www.jamf.com/blog/ghostclaw-ghostloader-malware-github-repositories-ai-workflows/)
 * [Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026](https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/)
 * [ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026](https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks)
 * [Socket.dev - OpenClaw Advisory Surge Highlights Gaps Between GHSA and CVE Tracking - March 10, 2026](https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking)
 * [ReversingLabs - OpenClaw and AI risk: 3 AppSec lessons - March 10, 2026](https://www.reversinglabs.com/blog/openclaw-agentic-ai-risk)
 * [TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 10, 2026](https://www.trendmicro.com/en/research/26/c/cisos-in-a-pinch-a-security-analysis-openclaw.html)
 * [Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026](https://blogs.cisco.com/security/understanding-ai-usage-across-the-network)
+* Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026](https://research.jfrog.com/post/ghostclaw-unmasked/)
 * [MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
 * [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
 * [Huntress - “Malware, from the Outside!”: How a Threat Actor Used Fake OpenClaw Installers to Infect Systems with GhostSocks and Information Stealers - March 4, 2026](https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer)
