@@ -5,8 +5,36 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 18:45:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TechRadar - Here are the OpenClaw security risks you should know about - April 2026</title>
+      <link>https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about</link>
+      <guid isPermaLink="true">https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 2026</title>
+      <link>https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/</link>
+      <guid isPermaLink="true">https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Crypto News Australia - AI Agent Boom Turns Risky: OpenClaw Exposes Millions to Hacks and Crypto Theft - April 2026</title>
+      <link>https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/</link>
+      <guid isPermaLink="true">https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Global Times (CN) - China’s National Intellectual Property Administration warns of hidden risks of using agentic AI tools to draft patent applications - April 2026</title>
+      <link>https://www.globaltimes.cn/page/202604/1358009.shtml</link>
+      <guid isPermaLink="true">https://www.globaltimes.cn/page/202604/1358009.shtml</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026</title>
       <link>https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch</link>
@@ -57,13 +85,6 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>Cisco.com - DefenseClaw is Live! - March 31, 2026</title>
-      <link>https://blogs.cisco.com/ai/defenseclaw-is-live</link>
-      <guid isPermaLink="true">https://blogs.cisco.com/ai/defenseclaw-is-live</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
       <title>SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026</title>
       <link>https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/</guid>
@@ -102,20 +123,6 @@
       <title>ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026</title>
       <link>https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</link>
       <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Internet - ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More - March 30, 2026</title>
-      <link>https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>TechRadar - How to safely experiment with OpenClaw - March 30, 2026</title>
-      <link>https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw</link>
-      <guid isPermaLink="true">https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
