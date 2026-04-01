@@ -38,10 +38,11 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-01
-- [TechRadar - Here are the OpenClaw security risks you should know about - April 2026](https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about)
-- [TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 2026](https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/)
-- [Crypto News Australia - AI Agent Boom Turns Risky: OpenClaw Exposes Millions to Hacks and Crypto Theft - April 2026](https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/)
-- [Global Times (CN) - China’s National Intellectual Property Administration warns of hidden risks of using agentic AI tools to draft patent applications - April 2026](https://www.globaltimes.cn/page/202604/1358009.shtml)
+- [TechRadar - Here are the OpenClaw security risks you should know about - April 1, 2026](https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about)
+- [TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 1, 2026](https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/)
+- [Transparency Coalition - TCAI Guide: The risks of AI agents built with OpenClaw and other frameworks - April 1, 2026](https://www.transparencycoalition.ai/news/tcai-guide-the-risks-of-ai-agents-built-with-openclaw-and-other-frameworks)
+- [Crypto News Australia - AI Agent Boom Turns Risky: OpenClaw Exposes Millions to Hacks and Crypto Theft - April 1, 2026](https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/)
+- [Global Times (CN) - China’s National Intellectual Property Administration warns of hidden risks of using agentic AI tools to draft patent applications - April 1, 2026](https://www.globaltimes.cn/page/202604/1358009.shtml)
 
 ### 2026-03-31
 - [VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026](https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch)
