@@ -37,6 +37,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-01
+- [TechRadar - Here are the OpenClaw security risks you should know about - April 2026](https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about)
+- [TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 2026](https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/)
+- [Crypto News Australia - AI Agent Boom Turns Risky: OpenClaw Exposes Millions to Hacks and Crypto Theft - April 2026](https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/)
+- [Global Times (CN) - China’s National Intellectual Property Administration warns of hidden risks of using agentic AI tools to draft patent applications - April 2026](https://www.globaltimes.cn/page/202604/1358009.shtml)
+
 ### 2026-03-31
 - [VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026](https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch)
 - [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
@@ -45,7 +51,6 @@ Updated twice daily.
 - [FinanceFeeds - OpenClaw’s Security Crisis: The Hidden Risks Behind AI Agents - March 31, 2026](https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/)
 - [Digital Today (KR) - AI agents could act like malware, urgent need for controls - March 31, 2026](https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls)
 - [The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026](https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers)
-- [Cisco.com - DefenseClaw is Live! - March 31, 2026](https://blogs.cisco.com/ai/defenseclaw-is-live)
 
 ### 2026-03-30
 - [SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026](https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/)
@@ -54,8 +59,6 @@ Updated twice daily.
 - [SystemTek (UK) - OpenClaw Canvas Path Traversal Information Disclosure Vulnerability (CVE-2026-3689) - March 30, 2026](https://www.systemtek.co.uk/2026/03/openclaw-canvas-path-traversal-information-disclosure-vulnerability-cve-2026-3689/)
 - [Mezha.net (UA) - OpenClaw adoption explodes across China, authorities warn of cyber risks - March 30, 2026](https://mezha.net/eng/bukvy/openclaw_adoption_explodes/)
 - [ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026](https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html)
-- [Internet - ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More - March 30, 2026](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
-- [TechRadar - How to safely experiment with OpenClaw - March 30, 2026](https://www.techradar.com/pro/how-to-safely-experiment-with-openclaw)
 
 ### 2026-03-29
 - [The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026](https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/)
