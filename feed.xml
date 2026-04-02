@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 20:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:57:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TechRadar - Here are the OpenClaw security risks you should know about - April 1, 2026</title>
@@ -88,6 +88,13 @@
       <title>The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026</title>
       <link>https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers</link>
       <guid isPermaLink="true">https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Cisco.com - Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab - March 31, 2026</title>
+      <link>https://blogs.cisco.com/ai/openclaw-ai-agent-security</link>
+      <guid isPermaLink="true">https://blogs.cisco.com/ai/openclaw-ai-agent-security</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
