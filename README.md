@@ -39,6 +39,10 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-02
+- [Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026](https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/)
+- [TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026](https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/)
+
 ### 2026-04-01
 - [TechRadar - Here are the OpenClaw security risks you should know about - April 1, 2026](https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about)
 - [TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 1, 2026](https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/)
@@ -54,7 +58,6 @@ Updated twice daily.
 - [FinanceFeeds - OpenClaw’s Security Crisis: The Hidden Risks Behind AI Agents - March 31, 2026](https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/)
 - [Digital Today (KR) - AI agents could act like malware, urgent need for controls - March 31, 2026](https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls)
 - [The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026](https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers)
-- [Cisco.com - Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab - March 31, 2026](https://blogs.cisco.com/ai/openclaw-ai-agent-security)
 
 ### 2026-03-30
 - [SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026](https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/)
