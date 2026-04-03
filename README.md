@@ -39,6 +39,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-03
+- [Reddit - If you're running OpenClaw, you probably got hacked in the last week - April 3, 2026](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+
 ### 2026-04-02
 - [Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026](https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/)
 - [TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026](https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/)
