@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 17:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:32:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Reddit - If you're running OpenClaw, you probably got hacked in the last week - April 3, 2026</title>
