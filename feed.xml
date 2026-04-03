@@ -5,10 +5,10 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 17:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:45:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Reddit - If you're running OpenClaw, you probably got hacked in the last week - April 3, 2026</title>
+      <title>Reddit - If you're running OpenClaw, you probably got hacked in the last week CVE-2026-33579 - April 3, 2026</title>
       <link>https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
@@ -25,6 +25,13 @@
       <title>Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026</title>
       <link>https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/</link>
       <guid isPermaLink="true">https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026</title>
+      <link>https://www.kspost.biz/en-us/articles/2413</link>
+      <guid isPermaLink="true">https://www.kspost.biz/en-us/articles/2413</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -92,13 +99,6 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>CertiK - OpenClaw Security Report - March 31, 2026</title>
-      <link>https://www.certik.com/blog/openclaw-security-report</link>
-      <guid isPermaLink="true">https://www.certik.com/blog/openclaw-security-report</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
       <title>TechTalks - How GhostClaw exploits macOS and OpenClaw to steal developer credentials - March 31, 2026</title>
       <link>https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and</link>
       <guid isPermaLink="true">https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and</guid>
@@ -132,6 +132,13 @@
       <guid isPermaLink="true">https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>CertiK - OpenClaw Security Report - March 31, 2026</title>
+      <link>https://www.certik.com/blog/openclaw-security-report</link>
+      <guid isPermaLink="true">https://www.certik.com/blog/openclaw-security-report</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026</title>
