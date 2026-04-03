@@ -40,7 +40,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-03
-- [Reddit - If you're running OpenClaw, you probably got hacked in the last week CVE-2026-33579 - April 3, 2026](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+- [Reddit - If you're running OpenClaw, you probably got hacked in the last week CVE-2026-33579 CVSS 8.6 HIGH - April 3, 2026](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
 - [InfoWorld - Understanding the risks of OpenClaw - April 3, 2026](https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html)
 - [Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026](https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/)
 - [Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026](https://www.kspost.biz/en-us/articles/2413)
