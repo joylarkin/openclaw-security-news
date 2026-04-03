@@ -7,8 +7,8 @@ Updated twice daily.
 > Why this matters? Because you should be aware of the ongoing global conversation about OpenClaw security.
 
 🌐 [**OpenClaw Observability**](#openclaw-observability) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories)    
-⬜️ [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)   
-🟧 [**Real-time RSS Updates**](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
+🔷 [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)   
+📡 [**Real-time RSS Updates**](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
 
 
 ---
