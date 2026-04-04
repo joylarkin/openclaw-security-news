@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 19:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 19:32:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
@@ -225,6 +225,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>ARMO - CVE-2026-32922: Critical Privilege Escalation in OpenClaw - What Cloud Security Teams Need to Know - March 29, 2026</title>
+      <link>https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/</link>
+      <guid isPermaLink="true">https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
       <title>The New Stack - Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem - March 28, 2026</title>
       <link>https://thenewstack.io/nvidia-nemoclaw-openclaw-security/</link>
       <guid isPermaLink="true">https://thenewstack.io/nvidia-nemoclaw-openclaw-security/</guid>
@@ -251,6 +258,13 @@
       <guid isPermaLink="true">https://eu.36kr.com/en/p/3741223763116297</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Sangfor - OpenClaw Security Risks: From Vulnerabilities to Supply Chain Abuse - March 27, 2026</title>
+      <link>https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026</link>
+      <guid isPermaLink="true">https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Futurism - OpenClaw Bots Are a Security Disaster - March 26, 2026</title>
@@ -1119,6 +1133,13 @@
       <guid isPermaLink="true">https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Oasis Security - ClawJacked: OpenClaw Vulnerability Enables Full Agent Takeover - February 26, 2026</title>
+      <link>https://www.oasis.security/blog/openclaw-vulnerability</link>
+      <guid isPermaLink="true">https://www.oasis.security/blog/openclaw-vulnerability</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026</title>
@@ -2155,6 +2176,12 @@
       <link>https://declawed.io/</link>
       <guid isPermaLink="true">https://declawed.io/</guid>
       <category>Observability</category>
+    </item>
+    <item>
+      <title>VulnCheck - Ongoing OpenClaw CVE Advisories</title>
+      <link>https://www.vulncheck.com/advisories</link>
+      <guid isPermaLink="true">https://www.vulncheck.com/advisories</guid>
+      <category>Vendor Advisories</category>
     </item>
   </channel>
 </rss>
