@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 08:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 19:13:15 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
@@ -25,6 +25,13 @@
       <title>Ars Technica - OpenClaw gives users yet another reason to be freaked out about security - April 3, 2026</title>
       <link>https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/</link>
       <guid isPermaLink="true">https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Startup Fortune - OpenClaw Users Should Assume Compromise, Security Experts Warn - April 3, 2026</title>
+      <link>https://startupfortune.com/openclaw-users-should-assume-compromise-security-experts-warn/</link>
+      <guid isPermaLink="true">https://startupfortune.com/openclaw-users-should-assume-compromise-security-experts-warn/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
