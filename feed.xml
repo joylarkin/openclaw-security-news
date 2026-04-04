@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 19:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 19:55:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
@@ -561,6 +561,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026</title>
+      <link>https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform</link>
+      <guid isPermaLink="true">https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
+    </item>
+    <item>
       <title>gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026</title>
       <link>https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/</link>
       <guid isPermaLink="true">https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/</guid>
@@ -965,6 +972,13 @@
       <guid isPermaLink="true">https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Red Canary - Hunting for malicious OpenClaw AI in the modern enterprise - March 5, 2026</title>
+      <link>https://redcanary.com/blog/threat-detection/openclaw-ai/</link>
+      <guid isPermaLink="true">https://redcanary.com/blog/threat-detection/openclaw-ai/</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026</title>
@@ -1777,6 +1791,13 @@
       <guid isPermaLink="true">https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Antiy CERT - ClawHavoc: Analysis of Large-Scale Poisoning Campaign Targeting the OpenClaw Skill Market for AI Agents - February 6, 2026</title>
+      <link>https://www.antiy.net/p/clawhavoc-analysis-of-large-scale-poisoning-campaign-targeting-the-openclaw-skill-market-for-ai-agents/</link>
+      <guid isPermaLink="true">https://www.antiy.net/p/clawhavoc-analysis-of-large-scale-poisoning-campaign-targeting-the-openclaw-skill-market-for-ai-agents/</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - February 6, 2026</title>
