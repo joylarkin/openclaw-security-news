@@ -50,7 +50,6 @@ Updated twice daily.
 - [Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026](https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/)
 - [Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026](https://www.kspost.biz/en-us/articles/2413)
 
-
 ### 2026-04-02
 - [Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026](https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/)
 - [TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026](https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/)
