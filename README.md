@@ -39,11 +39,17 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-04
+- [DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026](https://www.dongascience.com/en/news/77197)
+
 ### 2026-04-03
 - [Reddit - If you're running OpenClaw, you probably got hacked in the last week CVE-2026-33579 CVSS 8.6 HIGH - April 3, 2026](https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/)
+- [Ars Technica - OpenClaw gives users yet another reason to be freaked out about security - April 3, 2026](https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/)
 - [InfoWorld - Understanding the risks of OpenClaw - April 3, 2026](https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html)
+- [XDA Developers - I ran Nvidia's NemoClaw to see if OpenClaw is finally safe, but it still has the same problems - April 6, 2026](https://www.xda-developers.com/ran-nvidia-nemoclaw-openclaw-finally-safe-same-problems/)
 - [Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026](https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/)
 - [Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026](https://www.kspost.biz/en-us/articles/2413)
+
 
 ### 2026-04-02
 - [Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026](https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/)
