@@ -54,7 +54,6 @@ Updated twice daily.
 ### 2026-04-02
 - [Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026](https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/)
 - [TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026](https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/)
-- [Lennysnewsletter.com - OpenClaw: The complete guide to building, training, and living with your personal AI agent - April 2, 2026](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building)
 
 ### 2026-04-01
 - [TechRadar - Here are the OpenClaw security risks you should know about - April 1, 2026](https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about)
