@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 01:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 01:38:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
@@ -67,13 +67,6 @@
       <title>TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026</title>
       <link>https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/</link>
       <guid isPermaLink="true">https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Lennysnewsletter.com - OpenClaw: The complete guide to building, training, and living with your personal AI agent - April 2, 2026</title>
-      <link>https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building</link>
-      <guid isPermaLink="true">https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
