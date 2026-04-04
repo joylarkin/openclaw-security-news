@@ -421,7 +421,10 @@ Updated twice daily.
 ---
 
 ## OpenClaw Security Vendor Advisories
+* [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
 * [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
+* [ARMO - CVE-2026-32922: Critical Privilege Escalation in OpenClaw - What Cloud Security Teams Need to Know - March 29, 2026](https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/)
+* [Sangfor - OpenClaw Security Risks: From Vulnerabilities to Supply Chain Abuse - March 27, 2026](https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026)
 * [Jamf Threat Labs - GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer - March 20, 2026](https://www.jamf.com/blog/ghostclaw-ghostloader-malware-github-repositories-ai-workflows/)
 * [Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026](https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/)
 * [ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026](https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks)
@@ -433,6 +436,7 @@ Updated twice daily.
 * [MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026](https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github)
 * [SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026](https://www.sentinelone.com/vulnerability-database/cve-2026-29612/)
 * [Huntress - “Malware, from the Outside!”: How a Threat Actor Used Fake OpenClaw Installers to Infect Systems with GhostSocks and Information Stealers - March 4, 2026](https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer)
+* [Oasis Security - ClawJacked: OpenClaw Vulnerability Enables Full Agent Takeover - February 26, 2026](https://www.oasis.security/blog/openclaw-vulnerability)
 * [TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026](https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html)
 * [Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026](https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/)
 * [Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026](https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/)
