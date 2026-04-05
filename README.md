@@ -42,7 +42,6 @@ Updated twice daily.
 
 ### 2026-04-04
 - [DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026](https://www.dongascience.com/en/news/77197)
-- [Alltoc.com - How did OpenClaw security change recently? #tech - April 4, 2026](https://alltoc.com/tech/how-did-openclaw-security-change-recently)
 - [Alltoc.com - OpenClaw security risks drive malware scares #tech - April 4, 2026](https://alltoc.com/tech/openclaw-security-risks-drive-malware-scares)
 
 ### 2026-04-03
