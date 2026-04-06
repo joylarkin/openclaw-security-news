@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 18:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 01:52:37 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026</title>
+      <link>https://www.bbc.com/news/articles/cy41n17e23go</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cy41n17e23go</guid>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
       <link>https://www.dongascience.com/en/news/77197</link>
