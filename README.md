@@ -43,8 +43,6 @@ Updated twice daily.
 ### 2026-04-06
 - [BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
 
-### 2026-04-05
-
 ### 2026-04-04
 - [DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026](https://www.dongascience.com/en/news/77197)
 - [Alltoc.com - OpenClaw security risks drive malware scares #tech - April 4, 2026](https://alltoc.com/tech/openclaw-security-risks-drive-malware-scares)
