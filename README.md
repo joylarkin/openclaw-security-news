@@ -42,6 +42,7 @@ Updated twice daily.
 
 ### 2026-04-06
 - [BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
+- [The AI Journal - The Identity Problem Agent Swarms Can’t Ignore - April 6, 2026](https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/)
 
 ### 2026-04-04
 - [DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026](https://www.dongascience.com/en/news/77197)
