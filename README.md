@@ -41,7 +41,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-07
--[Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
+- [Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
 
 ### 2026-04-06
 - [Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 2026](https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history)
