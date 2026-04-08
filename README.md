@@ -40,7 +40,11 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-07
+-[Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
+
 ### 2026-04-06
+- [Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 2026](https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history)
 - [BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
 - [The AI Journal - The Identity Problem Agent Swarms Can’t Ignore - April 6, 2026](https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/)
 
@@ -418,6 +422,9 @@ Updated twice daily.
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
 
 ### 2026-01-28
+
+### 2026-01-27
+- [Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026](https://mashable.com/article/clawdbot-ai-security-risks)
 
 ### 2026-01-26
 - [Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026](https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/)
