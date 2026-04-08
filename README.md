@@ -6,9 +6,9 @@ Updated twice daily.
 
 > Why this matters? Because you should be aware of the ongoing global conversation about OpenClaw security.
 
-🌐 [**OpenClaw Observability**](#openclaw-observability) · [**OpenClaw Headlines**](#openclaw-headlines) · [**Security Vendor Advisories**](#openclaw-security-vendor-advisories)    
-🔷 [**Use as an Agent Skill**](#use-as-an-agent-skill) · [**Use as an MCP Server**](https://gitmcp.io/joylarkin/openclaw-security-news)   
-📡 [**Real-time RSS Updates**](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
+🟩 [OpenClaw Observability](#openclaw-observability) · [OpenClaw Headlines](#openclaw-headlines) · [Security Vendor Advisories](#openclaw-security-vendor-advisories)    
+🟩 [Use as an Agent Skill](#use-as-an-agent-skill) · [Use as an MCP Server](https://gitmcp.io/joylarkin/openclaw-security-news)   
+📡 [Real-time RSS Updates](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
 
 
 ---
@@ -39,6 +39,10 @@ Updated twice daily.
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
+###
+- [TechRadar - Always-on AI Agents put everything hackers could ever want behind a single attack surface - April 8, 2026](https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface)
+- [Universitas Gadjah Mada (ID) - OpenClaw Usage Surges, UGM Expert Warns of Data Security Risks - April 8, 2026](https://ugm.ac.id/en/news/openclaw-usage-surges-ugm-expert-warns-of-data-security-risks/)
 
 ### 2026-04-07
 - [Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
@@ -435,9 +439,11 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Critical Path Security - CVE-2026-32987: Privilege Escalation in OpenClaw via Bootstrap Code Replay - April 6, 2026](https://www.criticalpathsecurity.com/cve-2026-32987-privilege-escalation-in-openclaw-via-bootstrap-code-replay/)
+* [Wizard Cyber - OpenClaw: When Autonomous AI Becomes A High-Privilege Security Risk - April 1, 2026](https://wizardcyber.com/openclaw-autonomous-ai-security-risk/)
 * [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
-* [ARMO - CVE-2026-32922: Critical Privilege Escalation in OpenClaw - What Cloud Security Teams Need to Know - March 29, 2026](https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/)
-* [Sangfor - OpenClaw Security Risks: From Vulnerabilities to Supply Chain Abuse - March 27, 2026](https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026)
+* [ARMO - CVE-2026-32922: Critical Privilege Escalation in OpenClaw - What Cloud Security Teams Need to Know - March 30, 2026](https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/)
+* [Sangfor - OpenClaw Security Risks: From Vulnerabilities to Supply Chain Abuse - March 26, 2026](https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026)
 * [Jamf Threat Labs - GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer - March 20, 2026](https://www.jamf.com/blog/ghostclaw-ghostloader-malware-github-repositories-ai-workflows/)
 * [Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026](https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/)
 * [ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026](https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks)
