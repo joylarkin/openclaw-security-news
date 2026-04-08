@@ -40,12 +40,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
-###
-- [TechRadar - Always-on AI Agents put everything hackers could ever want behind a single attack surface - April 8, 2026](https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface)
-- [Universitas Gadjah Mada (ID) - OpenClaw Usage Surges, UGM Expert Warns of Data Security Risks - April 8, 2026](https://ugm.ac.id/en/news/openclaw-usage-surges-ugm-expert-warns-of-data-security-risks/)
-
 ### 2026-04-07
 - [Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
+- [Greenbone.net - GreenboneOS: March 2026 Threat Report: New Critical Risks Span the Enterprise Attack Surface - April 7, 2026](https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/)
 
 ### 2026-04-06
 - [Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 2026](https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history)
