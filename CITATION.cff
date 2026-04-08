@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "OpenClaw Security News"
+type: dataset
+preferred-citation.type: software
+authors:
+  - family-names: Larkin
+    given-names: Joy
+repository-code: "https://github.com/joylarkin/openclaw-security-news"
+url: "https://github.com/joylarkin/openclaw-security-news"
+abstract: >
+  A collection of global government warnings, vendor security advisories, and news headlines about OpenClaw Security for AI builders, developers, and investors.
+keywords:
+  - artificial intelligence
+  - openclaw
+  - openclaw security
+  - openclaw vulnerabilities
+  - openclaw news
+  - openclaw cve
+license: MIT
+date-released: 2026
+preferred-citation:
+  type: software
+  title: "OpenClaw Security News"
+  authors:
+    - family-names: Larkin
+      given-names: Joy
+  url: "https://github.com/joylarkin/openclaw-security-news"
+  notes: "Please include the access date when citing the repository."
