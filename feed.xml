@@ -5,12 +5,19 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:02:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026</title>
       <link>https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</link>
       <guid isPermaLink="true">https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Greenbone.net - GreenboneOS: March 2026 Threat Report: New Critical Risks Span the Enterprise Attack Surface - April 7, 2026</title>
+      <link>https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/</link>
+      <guid isPermaLink="true">https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -2210,18 +2217,6 @@
       <link>https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</link>
       <guid isPermaLink="true">https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</guid>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>TechRadar - Always-on AI Agents put everything hackers could ever want behind a single attack surface - April 8, 2026</title>
-      <link>https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface</link>
-      <guid isPermaLink="true">https://www.techradar.com/pro/always-on-ai-agents-put-everything-hackers-could-ever-want-behind-a-single-attack-surface</guid>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Universitas Gadjah Mada (ID) - OpenClaw Usage Surges, UGM Expert Warns of Data Security Risks - April 8, 2026</title>
-      <link>https://ugm.ac.id/en/news/openclaw-usage-surges-ugm-expert-warns-of-data-security-risks/</link>
-      <guid isPermaLink="true">https://ugm.ac.id/en/news/openclaw-usage-surges-ugm-expert-warns-of-data-security-risks/</guid>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
