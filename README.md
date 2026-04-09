@@ -41,6 +41,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-09
+- [TechBullion (UK) - OpenClaw Has 230,000 GitHub Stars and a Security Problem – This Is How the Industry Is Responding - April 9, 2026](https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/)
+
+### 2026-04-08
+- [Android Headlines - Critical OpenClaw AI Vulnerability Hands Out Admin Access to Attackers: Update Now - April 8, 2026](https://www.androidheadlines.com/2026/04/openclaw-critical-security-vulnerability-admin-takeover.html)
+
 ### 2026-04-07
 - [Mashable - A frightening OpenClaw vulnerability has been discovered - April 7, 2026](https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered)
 - [Greenbone.net - GreenboneOS: March 2026 Threat Report: New Critical Risks Span the Enterprise Attack Surface - April 7, 2026](https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/)
@@ -437,6 +443,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Cyble - The Week in Vulnerabilities: OpenClaw, FreeBSD, F5 BIG-IP, and Critical ICS Bugs - April 9, 2026](https://cyble.com/blog/cyble-weekly-vulnerability-report-apr-08/)
 * [Critical Path Security - CVE-2026-32987: Privilege Escalation in OpenClaw via Bootstrap Code Replay - April 6, 2026](https://www.criticalpathsecurity.com/cve-2026-32987-privilege-escalation-in-openclaw-via-bootstrap-code-replay/)
 * [Wizard Cyber - OpenClaw: When Autonomous AI Becomes A High-Privilege Security Risk - April 1, 2026](https://wizardcyber.com/openclaw-autonomous-ai-security-risk/)
 * [CertiK - OpenClaw Security Report - March 31, 2026](https://www.certik.com/blog/openclaw-security-report)
