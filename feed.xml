@@ -5,10 +5,10 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:25:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:26:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Mashable - A frightening OpenClaw vulnerability has been discovered - April 2026</title>
+      <title>Mashable - A frightening OpenClaw vulnerability has been discovered - April 7, 2026</title>
       <link>https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</link>
       <guid isPermaLink="true">https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
@@ -22,7 +22,7 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 2026</title>
+      <title>Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 6, 2026</title>
       <link>https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history</link>
       <guid isPermaLink="true">https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
