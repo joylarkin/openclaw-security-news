@@ -41,6 +41,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-10
+- [Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms)
+
 ### 2026-04-09
 - [TechBullion (UK) - OpenClaw Has 230,000 GitHub Stars and a Security Problem – This Is How the Industry Is Responding - April 9, 2026](https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/)
 
