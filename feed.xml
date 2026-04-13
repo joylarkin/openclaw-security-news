@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2026 10:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:24:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KDNuggets - Are AI Agents Your Next Security Nightmare? - April 13, 2026</title>
+      <link>https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare</link>
+      <guid isPermaLink="true">https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026</title>
       <link>https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms</link>
