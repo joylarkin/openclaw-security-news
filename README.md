@@ -41,6 +41,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-13
+- [KDNuggets - Are AI Agents Your Next Security Nightmare? - April 13, 2026](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare)
+
 ### 2026-04-10
 - [Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms)
 
