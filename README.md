@@ -449,6 +449,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Qualys - Anatomy of an Autonomous AI Agent Risk: How Qualys ETM Connects the Dots on OpenClaw - April 13, 2026](https://blog.qualys.com/product-tech/2026/04/13/anatomy-autonomous-ai-agent-risk-qualys-etm-openclaw)
 * [Barracuda Networks - OpenClaw security risks: What security teams need to know about agentic AI - April 9, 2026](https://blog.barracuda.com/2026/04/09/openclaw-security-risks-agentic-ai)
 * [Cyble - The Week in Vulnerabilities: OpenClaw, FreeBSD, F5 BIG-IP, and Critical ICS Bugs - April 9, 2026](https://cyble.com/blog/cyble-weekly-vulnerability-report-apr-08/)
 * [Critical Path Security - CVE-2026-32987: Privilege Escalation in OpenClaw via Bootstrap Code Replay - April 6, 2026](https://www.criticalpathsecurity.com/cve-2026-32987-privilege-escalation-in-openclaw-via-bootstrap-code-replay/)
