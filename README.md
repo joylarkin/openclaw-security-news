@@ -41,7 +41,11 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
-### 2026-04-16
+### 2026-04-15
+- [Twitter -  I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026](https://x.com/___4o____/status/2044382380316578108)
+- [Pune Times Mirror (IN) - Microsoft OpenClaw Copilot AI Sparks Bold Promise, Serious Fears - April 15, 2026](https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/)
+
+### 2026-04-14
 - [PCMag - 4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - April 14, 2026](https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now)
 
 ### 2026-04-13
