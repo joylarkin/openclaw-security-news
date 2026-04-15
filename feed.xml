@@ -5,1998 +5,2349 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:46:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>PCMag - 4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - April 14, 2026</title>
       <link>https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now</link>
       <guid isPermaLink="true">https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>KDNuggets - Are AI Agents Your Next Security Nightmare? - April 13, 2026</title>
       <link>https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare</link>
       <guid isPermaLink="true">https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Qualys - Anatomy of an Autonomous AI Agent Risk: How Qualys ETM Connects the Dots on OpenClaw - April 13, 2026</title>
       <link>https://blog.qualys.com/product-tech/2026/04/13/anatomy-autonomous-ai-agent-risk-qualys-etm-openclaw</link>
       <guid isPermaLink="true">https://blog.qualys.com/product-tech/2026/04/13/anatomy-autonomous-ai-agent-risk-qualys-etm-openclaw</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026</title>
       <link>https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms</link>
       <guid isPermaLink="true">https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms</guid>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechBullion (UK) - OpenClaw Has 230,000 GitHub Stars and a Security Problem – This Is How the Industry Is Responding - April 9, 2026</title>
       <link>https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/</link>
       <guid isPermaLink="true">https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Barracuda Networks - OpenClaw security risks: What security teams need to know about agentic AI - April 9, 2026</title>
       <link>https://blog.barracuda.com/2026/04/09/openclaw-security-risks-agentic-ai</link>
       <guid isPermaLink="true">https://blog.barracuda.com/2026/04/09/openclaw-security-risks-agentic-ai</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Cyble - The Week in Vulnerabilities: OpenClaw, FreeBSD, F5 BIG-IP, and Critical ICS Bugs - April 9, 2026</title>
       <link>https://cyble.com/blog/cyble-weekly-vulnerability-report-apr-08/</link>
       <guid isPermaLink="true">https://cyble.com/blog/cyble-weekly-vulnerability-report-apr-08/</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Android Headlines - Critical OpenClaw AI Vulnerability Hands Out Admin Access to Attackers: Update Now - April 8, 2026</title>
       <link>https://www.androidheadlines.com/2026/04/openclaw-critical-security-vulnerability-admin-takeover.html</link>
       <guid isPermaLink="true">https://www.androidheadlines.com/2026/04/openclaw-critical-security-vulnerability-admin-takeover.html</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Mashable - A frightening OpenClaw vulnerability has been discovered - April 7, 2026</title>
       <link>https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</link>
       <guid isPermaLink="true">https://mashable.com/article/new-frightening-openclaw-vulnerability-has-been-discovered</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Greenbone.net - GreenboneOS: March 2026 Threat Report: New Critical Risks Span the Enterprise Attack Surface - April 7, 2026</title>
       <link>https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/</link>
       <guid isPermaLink="true">https://www.greenbone.net/en/blog/march-2026-threat-report-new-critical-risks-span-the-enterprise-attack-surface/</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 6, 2026</title>
       <link>https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history</link>
       <guid isPermaLink="true">https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026</title>
       <link>https://www.bbc.com/news/articles/cy41n17e23go</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cy41n17e23go</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The AI Journal - The Identity Problem Agent Swarms Can’t Ignore - April 6, 2026</title>
       <link>https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/</link>
       <guid isPermaLink="true">https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Critical Path Security - CVE-2026-32987: Privilege Escalation in OpenClaw via Bootstrap Code Replay - April 6, 2026</title>
       <link>https://www.criticalpathsecurity.com/cve-2026-32987-privilege-escalation-in-openclaw-via-bootstrap-code-replay/</link>
       <guid isPermaLink="true">https://www.criticalpathsecurity.com/cve-2026-32987-privilege-escalation-in-openclaw-via-bootstrap-code-replay/</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>DongA Science (KR) - New AI Agent 'OpenClaw' Faces Immediate Bans Over Security Concerns - April 4, 2026</title>
       <link>https://www.dongascience.com/en/news/77197</link>
       <guid isPermaLink="true">https://www.dongascience.com/en/news/77197</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Alltoc.com - OpenClaw security risks drive malware scares #tech - April 4, 2026</title>
       <link>https://alltoc.com/tech/openclaw-security-risks-drive-malware-scares</link>
       <guid isPermaLink="true">https://alltoc.com/tech/openclaw-security-risks-drive-malware-scares</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Reddit - If you're running OpenClaw, you probably got hacked in the last week CVE-2026-33579 CVSS 8.6 HIGH - April 3, 2026</title>
       <link>https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/</link>
       <guid isPermaLink="true">https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Ars Technica - OpenClaw gives users yet another reason to be freaked out about security - April 3, 2026</title>
       <link>https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/</link>
       <guid isPermaLink="true">https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Startup Fortune - OpenClaw Users Should Assume Compromise, Security Experts Warn - April 3, 2026</title>
       <link>https://startupfortune.com/openclaw-users-should-assume-compromise-security-experts-warn/</link>
       <guid isPermaLink="true">https://startupfortune.com/openclaw-users-should-assume-compromise-security-experts-warn/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>InfoWorld - Understanding the risks of OpenClaw - April 3, 2026</title>
       <link>https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html</link>
       <guid isPermaLink="true">https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>XDA Developers - I ran Nvidia's NemoClaw to see if OpenClaw is finally safe, but it still has the same problems - April 6, 2026</title>
       <link>https://www.xda-developers.com/ran-nvidia-nemoclaw-openclaw-finally-safe-same-problems/</link>
       <guid isPermaLink="true">https://www.xda-developers.com/ran-nvidia-nemoclaw-openclaw-finally-safe-same-problems/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026</title>
       <link>https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/</link>
       <guid isPermaLink="true">https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026</title>
       <link>https://www.kspost.biz/en-us/articles/2413</link>
       <guid isPermaLink="true">https://www.kspost.biz/en-us/articles/2413</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Coinfomania - Vitalik Buterin Flags Data Exfiltration Risks in OpenClaw - April 2, 2026</title>
       <link>https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/</link>
       <guid isPermaLink="true">https://coinfomania.com/vitalik-buterin-flags-data-exfiltration-risks-in-openclaw/</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechNode - OpenClaw launches official China mirror with infrastructure support from ByteDance - April 2, 2026</title>
       <link>https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/</link>
       <guid isPermaLink="true">https://technode.com/2026/04/02/openclaw-launches-official-china-mirror-with-infrastructure-support-from-bytedance/</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechRadar - Here are the OpenClaw security risks you should know about - April 1, 2026</title>
       <link>https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about</link>
       <guid isPermaLink="true">https://www.techradar.com/pro/here-are-the-openclaw-security-risks-you-should-know-about</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TNGlobal - Why OpenClaw is forcing a rethink of AI security, trust, and authority - April 1, 2026</title>
       <link>https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/</link>
       <guid isPermaLink="true">https://technode.global/2026/04/01/why-openclaw-is-forcing-a-rethink-of-ai-security-trust-and-authority/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Transparency Coalition - TCAI Guide: The risks of AI agents built with OpenClaw and other frameworks - April 1, 2026</title>
       <link>https://www.transparencycoalition.ai/news/tcai-guide-the-risks-of-ai-agents-built-with-openclaw-and-other-frameworks</link>
       <guid isPermaLink="true">https://www.transparencycoalition.ai/news/tcai-guide-the-risks-of-ai-agents-built-with-openclaw-and-other-frameworks</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Crypto News Australia - AI Agent Boom Turns Risky: OpenClaw Exposes Millions to Hacks and Crypto Theft - April 1, 2026</title>
       <link>https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/</link>
       <guid isPermaLink="true">https://cryptonews.com.au/news/ai-agent-boom-turns-risky-openclaw-exposes-millions-to-hacks-and-crypto-theft-133469/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Global Times (CN) - China’s National Intellectual Property Administration warns of hidden risks of using agentic AI tools to draft patent applications - April 1, 2026</title>
       <link>https://www.globaltimes.cn/page/202604/1358009.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202604/1358009.shtml</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Wizard Cyber - OpenClaw: When Autonomous AI Becomes A High-Privilege Security Risk - April 1, 2026</title>
       <link>https://wizardcyber.com/openclaw-autonomous-ai-security-risk/</link>
       <guid isPermaLink="true">https://wizardcyber.com/openclaw-autonomous-ai-security-risk/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>VentureBeat - OpenClaw has 500,000 instances and no enterprise kill switch - March 31, 2026</title>
       <link>https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch</link>
       <guid isPermaLink="true">https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechTalks - How GhostClaw exploits macOS and OpenClaw to steal developer credentials - March 31, 2026</title>
       <link>https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and</link>
       <guid isPermaLink="true">https://bdtechtalks.substack.com/p/how-ghostclaw-exploits-macos-and</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Wiz - Axios NPM Distribution Compromised in Supply Chain Attack - March 31, 2026</title>
       <link>https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack</link>
       <guid isPermaLink="true">https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>FinanceFeeds - OpenClaw’s Security Crisis: The Hidden Risks Behind AI Agents - March 31, 2026</title>
       <link>https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/</link>
       <guid isPermaLink="true">https://financefeeds.com/openclaws-security-crisis-the-hidden-risks-behind-ai-agents/</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Digital Today (KR) - AI agents could act like malware, urgent need for controls - March 31, 2026</title>
       <link>https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls</link>
       <guid isPermaLink="true">https://www.digitaltoday.co.kr/en/view/44191/ai-agents-could-act-like-malware-urgent-need-for-controls</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The News International (PK) - AI agents or malware? Experts reveal shocking hidden dangers - March 31, 2026</title>
       <link>https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers</link>
       <guid isPermaLink="true">https://www.thenews.com.pk/latest/1397259-ai-agents-or-malware-experts-reveal-shocking-hidden-dangers</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CertiK - OpenClaw Security Report - March 31, 2026</title>
       <link>https://www.certik.com/blog/openclaw-security-report</link>
       <guid isPermaLink="true">https://www.certik.com/blog/openclaw-security-report</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SiliconANGLE - On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI - March 30, 2026</title>
       <link>https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Kaspersky - Why AI agents need an iron curtain - March 30, 2026</title>
       <link>https://www.kaspersky.com/blog/ironcurtain-ai-agent-security/55526/</link>
       <guid isPermaLink="true">https://www.kaspersky.com/blog/ironcurtain-ai-agent-security/55526/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>flyingpenguin - Why I Replaced OpenClaw: Wirken for a Secure Agentic World - March 30, 2026</title>
       <link>https://www.flyingpenguin.com/why-i-replaced-openclaw-wirken-for-a-secure-agentic-world/</link>
       <guid isPermaLink="true">https://www.flyingpenguin.com/why-i-replaced-openclaw-wirken-for-a-secure-agentic-world/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SystemTek (UK) - OpenClaw Canvas Path Traversal Information Disclosure Vulnerability (CVE-2026-3689) - March 30, 2026</title>
       <link>https://www.systemtek.co.uk/2026/03/openclaw-canvas-path-traversal-information-disclosure-vulnerability-cve-2026-3689/</link>
       <guid isPermaLink="true">https://www.systemtek.co.uk/2026/03/openclaw-canvas-path-traversal-information-disclosure-vulnerability-cve-2026-3689/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Mezha.net (UA) - OpenClaw adoption explodes across China, authorities warn of cyber risks - March 30, 2026</title>
       <link>https://mezha.net/eng/bukvy/openclaw_adoption_explodes/</link>
       <guid isPermaLink="true">https://mezha.net/eng/bukvy/openclaw_adoption_explodes/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ChinaDaily.com.cn - Expert proposes 'raise lobster in a sandbox' - March 30, 2026</title>
       <link>https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</link>
       <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/30/WS69ca4271a310d6866eb40b4c.html</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ARMO - CVE-2026-32922: Critical Privilege Escalation in OpenClaw - What Cloud Security Teams Need to Know - March 30, 2026</title>
       <link>https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/</link>
       <guid isPermaLink="true">https://www.armosec.io/blog/cve-2026-32922-openclaw-privilege-escalation-cloud-security/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>The Wire China - How the OpenClaw Frenzy Is Testing China's AI Commitment - March 29, 2026</title>
       <link>https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/</link>
       <guid isPermaLink="true">https://www.thewirechina.com/2026/03/29/how-the-openclaw-frenzy-is-testing-chinas-ai-commitment/</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>36Kr - 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 - March 29, 2026</title>
       <link>https://36kr.com/newsflashes/3744930102149120</link>
       <guid isPermaLink="true">https://36kr.com/newsflashes/3744930102149120</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Seclists.org - OpenClaw MEDIA: Protocol Prompt Injection - File Disclosure Bypassing Tool Permissions Silently Fixed, Report Denied - March 29, 2026</title>
       <link>https://seclists.org/fulldisclosure/2026/Mar/14</link>
       <guid isPermaLink="true">https://seclists.org/fulldisclosure/2026/Mar/14</guid>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The New Stack - Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem - March 28, 2026</title>
       <link>https://thenewstack.io/nvidia-nemoclaw-openclaw-security/</link>
       <guid isPermaLink="true">https://thenewstack.io/nvidia-nemoclaw-openclaw-security/</guid>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Blockchain Council - Inside the NemoClaw Attack Chain: Tactics and IoCs - March 28, 2026</title>
       <link>https://www.blockchain-council.org/agentic-ai/inside-the-nemoclaw-attack-chain-tactics-techniques-iocs/</link>
       <guid isPermaLink="true">https://www.blockchain-council.org/agentic-ai/inside-the-nemoclaw-attack-chain-tactics-techniques-iocs/</guid>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SEMAFOR - Exclusive / How I jailbroke an OpenClaw PR agent - March 27, 2026</title>
       <link>https://www.semafor.com/article/03/27/2026/how-i-jailbroke-an-ai-agent</link>
       <guid isPermaLink="true">https://www.semafor.com/article/03/27/2026/how-i-jailbroke-an-ai-agent</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>36Kr - For enterprise-level AI agents, should you choose open-source or closed-source? - March 27, 2026</title>
       <link>https://eu.36kr.com/en/p/3741223763116297</link>
       <guid isPermaLink="true">https://eu.36kr.com/en/p/3741223763116297</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Futurism - OpenClaw Bots Are a Security Disaster - March 26, 2026</title>
       <link>https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster</link>
       <guid isPermaLink="true">https://futurism.com/artificial-intelligence/openclaw-bots-security-disaster</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Sangfor - OpenClaw Security Risks: From Vulnerabilities to Supply Chain Abuse - March 26, 2026</title>
       <link>https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026</link>
       <guid isPermaLink="true">https://www.sangfor.com/blog/cybersecurity/openclaw-ai-agent-security-risks-2026</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>WIRED - OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage - March 25, 2026</title>
       <link>https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/</link>
       <guid isPermaLink="true">https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Canadian HR Reporter (CA) - 'A hard no': Next wave of agentic AI upping the ante - March 25, 2026</title>
       <link>https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221</link>
       <guid isPermaLink="true">https://www.hrreporter.com/focus-areas/automation-ai/a-hard-no-next-wave-of-agentic-ai-upping-the-ante/394221</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ComputerWeekly - Why OpenClaw agents are the next big enterprise challenge - March 25, 2026</title>
       <link>https://www.computerweekly.com/news/366640697/Why-OpenClaw-agents-are-the-next-big-enterprise-challenge</link>
       <guid isPermaLink="true">https://www.computerweekly.com/news/366640697/Why-OpenClaw-agents-are-the-next-big-enterprise-challenge</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Business Times (SG) - OpenClaw’s rapid rise exposes ‘shadow AI’ risks in Singapore firms - March 25, 2026</title>
       <link>https://www.businesstimes.com.sg/companies-markets/openclaws-rapid-rise-exposes-shadow-ai-risks-singapore-firms</link>
       <guid isPermaLink="true">https://www.businesstimes.com.sg/companies-markets/openclaws-rapid-rise-exposes-shadow-ai-risks-singapore-firms</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SiliconANGLE News - Adversaries log in: Speed and strength of AI-fueled attacks have cybersecurity industry playing catch-up - March 25, 2026</title>
       <link>https://siliconangle.com/2026/03/25/adversaries-log-speed-strength-ai-fueled-attacks-cybersecurity-industry-playing-catch/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/03/25/adversaries-log-speed-strength-ai-fueled-attacks-cybersecurity-industry-playing-catch/</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SecurityWeek - Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw - March 24, 2026</title>
       <link>https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/</link>
       <guid isPermaLink="true">https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CSO - Autonomous AI adoption is on the rise, but it’s risky - March 24, 2026</title>
       <link>https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html</link>
       <guid isPermaLink="true">https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Cybersecurity Insiders - The unprecedented consolidation capabilities of OpenClaw hold risks - March 24, 2026</title>
       <link>https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/</link>
       <guid isPermaLink="true">https://www.cybersecurity-insiders.com/the-unprecedented-consolidation-capabilities-of-openclaw-hold-risks/</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>DarkReading - GitHub 'OpenClaw Deployer' Repo Delivers Trojan Instead - March 24, 2026</title>
       <link>https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan</link>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/github-openclaw-deployer-repo-delivers-trojan</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Business Insider - OpenClaw creator says he got a token refund request for errors the AI agent made with 'sensitive financial documents' - March 24, 2026</title>
       <link>https://www.businessinsider.com/openclaw-creator-user-asked-token-refund-errors-financial-documents-2026-3</link>
       <guid isPermaLink="true">https://www.businessinsider.com/openclaw-creator-user-asked-token-refund-errors-financial-documents-2026-3</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>36Kr - The WeChat Lobster plugin crashed after just 72 hours on the market due to an update from OpenClaw - March 24, 2026</title>
       <link>https://eu.36kr.com/en/p/3736412814557190</link>
       <guid isPermaLink="true">https://eu.36kr.com/en/p/3736412814557190</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>South China Morning Post - OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls? - March 25, 2026</title>
       <link>https://www.scmp.com/video/china/3347830/openclaw-designed-execute-every-day-tasks-so-you-dont-have-what-are-pitfalls</link>
       <guid isPermaLink="true">https://www.scmp.com/video/china/3347830/openclaw-designed-execute-every-day-tasks-so-you-dont-have-what-are-pitfalls</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Seeking Alpha - OpenClaw Is A Liability, Not The Breakthrough The AI Frenzy Suggests - March 23, 2026</title>
       <link>https://seekingalpha.com/article/4884938-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests</link>
       <guid isPermaLink="true">https://seekingalpha.com/article/4884938-openclaw-a-liability-not-breakthrough-ai-frenzy-suggests</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>NBC News - In China, a rush to 'raise lobsters' quickly leads to second thoughts - March 23, 2026</title>
       <link>https://www.nbcnews.com/world/asia/china-openclaw-ai-agent-frenzy-rcna263636</link>
       <guid isPermaLink="true">https://www.nbcnews.com/world/asia/china-openclaw-ai-agent-frenzy-rcna263636</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Think China (SG) -  A short-lived catch: China’s AI lobster frenzy - March 23, 2026</title>
       <link>https://www.thinkchina.sg/technology/short-lived-catch-chinas-ai-lobster-frenzy</link>
       <guid isPermaLink="true">https://www.thinkchina.sg/technology/short-lived-catch-chinas-ai-lobster-frenzy</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SiliconANGLE News - Cisco debuts new AI agent security features, open-source DefenseClaw tool - March 23, 2026</title>
       <link>https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forbes - 2 Reasons I Turned Off My OpenClaw, My Personal AI Assistant - March 22, 2026</title>
       <link>https://www.forbes.com/sites/paulbaier/2026/03/22/2-reasons-i-turned-off-my-openclaw-my-personal-ai-assistant/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/paulbaier/2026/03/22/2-reasons-i-turned-off-my-openclaw-my-personal-ai-assistant/</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>flyingpenguin - OpenClaw Threat: Where Encryption Goes to Die - March 22, 2026</title>
       <link>https://www.flyingpenguin.com/openclaw-threat-where-encryption-goes-to-die/</link>
       <guid isPermaLink="true">https://www.flyingpenguin.com/openclaw-threat-where-encryption-goes-to-die/</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>MEXC - OpenClaw founder confirms in reply that 360 was the exclusive discoverer of the vulnerability - March 22, 2026</title>
       <link>https://www.mexc.co/news/972564</link>
       <guid isPermaLink="true">https://www.mexc.co/news/972564</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>China Daily (CN) - Guidelines released to curb OpenClaw security risks - March 22, 2026</title>
       <link>https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html</link>
       <guid isPermaLink="true">https://www.chinadaily.com.cn/a/202603/22/WS69bff258a310d6866eb3f25b.html</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>People's Daily Online (CN) - China releases OpenClaw security guidance for users, cloud providers, developers - March 22, 2026</title>
       <link>https://en.people.cn/n3/2026/0323/c90000-20438534.html</link>
       <guid isPermaLink="true">https://en.people.cn/n3/2026/0323/c90000-20438534.html</guid>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CIO.com - Autonomous AI adoption is on the rise, but it’s risky - March 20, 2026</title>
       <link>https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html</link>
       <guid isPermaLink="true">https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Caixin Global (CN) - China Internet Finance Body Raises Alarm Over OpenClaw AI - March 20, 2026</title>
       <link>https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html</link>
       <guid isPermaLink="true">https://www.caixinglobal.com/2026-03-20/china-internet-finance-body-raises-alarm-over-openclaw-ai-102425242.html</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Jamf Threat Labs - GhostClaw expands beyond npm: GitHub repositories and AI workflows deliver macOS infostealer - March 20, 2026</title>
       <link>https://www.jamf.com/blog/ghostclaw-ghostloader-malware-github-repositories-ai-workflows/</link>
       <guid isPermaLink="true">https://www.jamf.com/blog/ghostclaw-ghostloader-malware-github-repositories-ai-workflows/</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>CNET - Nvidia's NemoClaw Promises a More Secure Way to Deploy AI Agents, but Is It Really Safer? - March 19, 2026</title>
       <link>https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/</link>
       <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>DailyCoin - Devs Targeted in OpenClaw GitHub Phishing Campaign - March 19, 2026</title>
       <link>https://dailycoin.com/openclaw-github-phishing-crypto-wallet-attack/</link>
       <guid isPermaLink="true">https://dailycoin.com/openclaw-github-phishing-crypto-wallet-attack/</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>BeInCrypto - OpenClaw Creator Warns of Crypto Phishing Wave: ‘We Would Never Do That’ - March 19, 2026</title>
       <link>https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/</link>
       <guid isPermaLink="true">https://beincrypto.com/openclaw-creator-warns-of-crypto-phishing-wave/</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Times Now News (IN) - Why China Is Warning Users Against OpenClaw After Its Sudden Popularity | Explained - March 18, 2026</title>
       <link>https://www.timesnownews.com/technology-science/why-china-is-reportedly-warning-users-against-openclaw-after-its-sudden-popularity-explained-article-153863558</link>
       <guid isPermaLink="true">https://www.timesnownews.com/technology-science/why-china-is-reportedly-warning-users-against-openclaw-after-its-sudden-popularity-explained-article-153863558</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>news.de (DE) - OpenClaw: IT-Sicherheitslücke mit hohem Risiko! Warnung erhält Update - March 18, 2026</title>
       <link>https://www.news.de/technik/859378810/openclaw-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-24-02-2026/1/</link>
       <guid isPermaLink="true">https://www.news.de/technik/859378810/openclaw-gefaehrdet-it-sicherheitswarnung-vom-bsi-und-bug-report-update-zu-bekannten-schwachstellen-und-sicherheitsluecken-vom-24-02-2026/1/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>EKHBARY (EG) - China's OpenClaw Frenzy: An AI Gold Rush Facing Technical Hurdles - March 18, 2026</title>
       <link>https://ekhbary.com/news/chinas-openclaw-frenzy-an-ai-gold-rush-facing-technical-hurdles-672-2.html</link>
       <guid isPermaLink="true">https://ekhbary.com/news/chinas-openclaw-frenzy-an-ai-gold-rush-facing-technical-hurdles-672-2.html</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechNode - ByteDance issues internal OpenClaw security rules, launches ByteClaw - March 18, 2026</title>
       <link>http://technode.com/2026/03/18/bytedance-issues-internal-openclaw-security-rules-launches-byteclaw/</link>
       <guid isPermaLink="true">http://technode.com/2026/03/18/bytedance-issues-internal-openclaw-security-rules-launches-byteclaw/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026</title>
       <link>https://www.rti.org.tw/en/news?uid=3&amp;pid=197858</link>
       <guid isPermaLink="true">https://www.rti.org.tw/en/news?uid=3&amp;pid=197858</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Ox Security - OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - March 18, 2026</title>
       <link>https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/</link>
       <guid isPermaLink="true">https://www.ox.security/blog/openclaw-github-phishing-crypto-wallet-attack/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>ReversingLabs - OpenClaw lesson: AI agents are a black hole - March 18, 2026</title>
       <link>https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks</link>
       <guid isPermaLink="true">https://www.reversinglabs.com/blog/openclaw-ai-agents-black-hole-risks</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Gizmodo - Amid AI Agent Boom, the Tech Industry Makes It Clear: With Great Laziness Comes Great Responsibility - March 17, 2026</title>
       <link>https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649</link>
       <guid isPermaLink="true">https://gizmodo.com/amid-ai-agent-boom-the-tech-industry-makes-it-clear-with-great-laziness-comes-great-responsibility-2000734649</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The New York Times - China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - March 17, 2026</title>
       <link>https://www.nytimes.com/2026/03/17/business/china-ai-agent.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/03/17/business/china-ai-agent.html</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechRepublic - OpenClaw, the Fastest-Adopted Software Ever, Is Also a Security Blind Spot - March 17, 2026</title>
       <link>https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</link>
       <guid isPermaLink="true">https://www.techrepublic.com/article/news-openclaw-shadow-ai-agents-enterprise-security-risks/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Techzine (EU) - OpenClaw bypasses security layers and reveals new attack vectors - March 17, 2026</title>
       <link>https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/</link>
       <guid isPermaLink="true">https://www.techzine.eu/news/security/139655/openclaw-bypasses-security-layers-and-reveals-new-attack-vectors/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Digitimes Asia - China reins in OpenClaw surge, flags AI agent security risks - March 17, 2026</title>
       <link>https://www.digitimes.com/news/a20260317PD227/china-openclaw-ai-agent-cybersecurity-data.html</link>
       <guid isPermaLink="true">https://www.digitimes.com/news/a20260317PD227/china-openclaw-ai-agent-cybersecurity-data.html</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SDxCentral - Nvidia details NemoClaw security guardrails in wake of AI agent concerns - March 17, 2026</title>
       <link>https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</link>
       <guid isPermaLink="true">https://www.sdxcentral.com/news/nvidia-details-nemoclaw-security-guardrails-in-wake-of-ai-agent-concerns/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Times of India - Why founders are flocking to OpenClaw? - March 17, 2026</title>
       <link>https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms</link>
       <guid isPermaLink="true">https://economictimes.indiatimes.com/tech/artificial-intelligence/why-founders-are-flocking-to-openclaw/articleshow/129615413.cms</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026</title>
       <link>https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform</link>
       <guid isPermaLink="true">https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>gbhackers - OpenClaw AI Agents Vulnerable to Indirect Prompt Injection, Causing Data Leaks - March 16, 2026</title>
       <link>https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/</link>
       <guid isPermaLink="true">https://gbhackers.com/openclaw-ai-agents-vulnerable-to-indirect-prompt-injection/</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Twitter/Guanxing/@CertiK - Skill Scanning Is Not a Security Boundary - March 16, 2026</title>
       <link>https://x.com/hhj4ck/status/2033527312042315816</link>
       <guid isPermaLink="true">https://x.com/hhj4ck/status/2033527312042315816</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>VentureBeat - OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert - March 16, 2026</title>
       <link>https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert</link>
       <guid isPermaLink="true">https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechCrunch - Nvidia’s version of OpenClaw could solve its biggest problem: security - March 16, 2026</title>
       <link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>GovInfoSecurity - OpenClaw Exposes Hidden Risks in Agentic AI - March 16, 2026</title>
       <link>https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035</link>
       <guid isPermaLink="true">https://www.govinfosecurity.com/openclaw-exposes-hidden-risks-in-agentic-ai-a-31035</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Embrace The Red - Agent Commander: Promptware-Powered Command and Control - March 16, 2026</title>
       <link>https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/</link>
       <guid isPermaLink="true">https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now/</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>NTD - China’s ‘Lobster’ AI Craze Draws Security Warnings as Operating Costs Rise - March 16, 2026</title>
       <link>https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html</link>
       <guid isPermaLink="true">https://www.ntd.com/chinas-lobster-ai-craze-draws-security-warnings-as-operating-costs-rise_1132464.html</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechJuice (PK) - Researchers Warn OpenClaw AI Agents Are Leaking User Data - March 16, 2026</title>
       <link>https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/</link>
       <guid isPermaLink="true">https://www.techjuice.pk/researchers-warn-openclaw-ai-agents-are-leaking-user-data/</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>rthk.hk (HK) - IT chief urges caution over OpenClaw security risks - March 16, 2026</title>
       <link>https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm</link>
       <guid isPermaLink="true">https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1847482-20260316.htm</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Star (MY) - Hong Kong warns govt departments not to install AI tool OpenClaw - March 16, 2026</title>
       <link>https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/16/hong-kong-warns-govt-departments-not-to-install-ai-tool-openclaw</link>
       <guid isPermaLink="true">https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/16/hong-kong-warns-govt-departments-not-to-install-ai-tool-openclaw</guid>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>InfoQ - AWS Launches Managed Openclaw on Lightsail Amid Critical Security Vulnerabilities - March 15, 2026</title>
       <link>https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/</link>
       <guid isPermaLink="true">https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechRadar - Chinese government cracks down on in-office OpenClaw use over potential security risks - March 15, 2026</title>
       <link>https://www.techradar.com/pro/security/chinese-government-cracks-down-on-in-office-openclaw-use-over-potential-security-risks</link>
       <guid isPermaLink="true">https://www.techradar.com/pro/security/chinese-government-cracks-down-on-in-office-openclaw-use-over-potential-security-risks</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Global Times (CN) - China issues risk warning regarding OpenClaw application security in internet financial sector - March 15, 2026</title>
       <link>https://www.globaltimes.cn/page/202603/1356997.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356997.shtml</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Xinhua (CN) - Explainer: In OpenClaw frenzy, should we be cheery or worried? - March 15, 2026</title>
       <link>https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html</link>
       <guid isPermaLink="true">https://english.news.cn/20260315/a9c732696e7744f2bedb4668a4ef5e6a/c.html</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Inc - How to Experiment Safely With OpenClaw Without Risking Your Company’s Data - March 15, 2026</title>
       <link>https://www.inc.com/hauwa-otori/how-to-experiment-safely-with-openclaw-without-risking-your-companys-data/91314594</link>
       <guid isPermaLink="true">https://www.inc.com/hauwa-otori/how-to-experiment-safely-with-openclaw-without-risking-your-companys-data/91314594</guid>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration - March 14, 2026</title>
       <link>https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html</guid>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>New Straits Times (MY) - Security risks of AI bot OpenClaw grips China - March 14, 2026</title>
       <link>https://www.nst.com.my/opinion/columnists/2026/03/1397085/security-risks-ai-bot-openclaw-grips-china</link>
       <guid isPermaLink="true">https://www.nst.com.my/opinion/columnists/2026/03/1397085/security-risks-ai-bot-openclaw-grips-china</guid>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026</title>
       <link>https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</link>
       <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Global Times (CN) - China issues risk alert on viral AI agent OpenClaw, urging users to limit privileges - March 13, 2026</title>
       <link>https://www.globaltimes.cn/page/202603/1356933.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356933.shtml</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Bloomberg - China’s OpenClaw Obsession Is a Risky Gamble on Experimental AI - March 13, 2026</title>
       <link>https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-03-13/gripped-by-openclaw-china-runs-massive-risky-ai-experiment</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Fast Company - China went crazy for OpenClaw. Now it’s working to ban it - March 12, 2026</title>
       <link>https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it</link>
       <guid isPermaLink="true">https://www.fastcompany.com/91507241/china-went-crazy-for-openclaw-now-its-working-to-ban-it</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ZDNet - Why Moltbook and OpenClaw are the fool's gold in our AI boom - March 12, 2026</title>
       <link>https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/</link>
       <guid isPermaLink="true">https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Yunnan Normal University (CN) - 关于防范OpenClaw（龙虾）开源AI智能体安全风险的预警提示 - March 12, 2026</title>
       <link>https://www.ynnu.edu.cn/info/1063/11389.htm</link>
       <guid isPermaLink="true">https://www.ynnu.edu.cn/info/1063/11389.htm</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechWireAsia - OpenClaw: The agentic AI security wake-up call enterprises didn’t ask for - March 12, 2026</title>
       <link>https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/</link>
       <guid isPermaLink="true">https://techwireasia.com/2026/03/openclaw-agentic-ai-security-enterprise-risks/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Standard (HK) - Digital Policy Office warns of OpenClaw security risks as mainland moves to restrict use - March 12, 2026</title>
       <link>https://www.thestandard.com.hk/news/article/326486/</link>
       <guid isPermaLink="true">https://www.thestandard.com.hk/news/article/326486/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Caixin Global (CN) - Tech Brief (March 12): MIIT Warns of Security Risks in OpenClaw - March 12, 2026</title>
       <link>https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</link>
       <guid isPermaLink="true">https://www.caixinglobal.com/2026-03-12/tech-brief-march-12-miit-warns-of-security-risks-in-openclaw-102422191.html</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>South China Morning Post - Amid OpenClaw frenzy, China’s central bank adds to cybersecurity warnings - March 12, 2026</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3346352/amid-openclaw-frenzy-chinas-central-bank-adds-cybersecurity-warnings</link>
       <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3346352/amid-openclaw-frenzy-chinas-central-bank-adds-cybersecurity-warnings</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Business Insider - China rushed to use OpenClaw. Now, some stressed-out users are forking out cash to uninstall the AI agent - March 12, 2026</title>
       <link>https://www.businessinsider.com/china-openclaw-lobster-craze-uninstall-ai-agent-paid-side-hustle-2026-3</link>
       <guid isPermaLink="true">https://www.businessinsider.com/china-openclaw-lobster-craze-uninstall-ai-agent-paid-side-hustle-2026-3</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Solutions Review - How OpenClaw’s Flawed Design Philosophy Left Organizations Exposed to Active Attacks - March 11, 2026</title>
       <link>https://solutionsreview.com/endpoint-security/how-openclaws-flawed-design-philosophy-left-organizations-exposed-to-active-attacks/</link>
       <guid isPermaLink="true">https://solutionsreview.com/endpoint-security/how-openclaws-flawed-design-philosophy-left-organizations-exposed-to-active-attacks/</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>RADII - Why is China Suddenly Uninstalling Openclaw, the Free, Open-Source AI Agent? - March 11,2026</title>
       <link>https://radii.co/article/china-uninstalls-openclaw-ai-reckoning</link>
       <guid isPermaLink="true">https://radii.co/article/china-uninstalls-openclaw-ai-reckoning</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Twitter - Risk Warning Regarding the Security Use of OpenClaw - Source: China CNCERT - March 11, 2026</title>
       <link>https://x.com/AngelicaOung/status/2031757405915091121</link>
       <guid isPermaLink="true">https://x.com/AngelicaOung/status/2031757405915091121</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Bloomberg - What Is OpenClaw? AI Marvel or Cybersecurity Nightmare? - March 11, 2026</title>
       <link>https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-11/what-is-the-openclaw-ai-agent-and-why-is-it-popular-in-china</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026</title>
       <link>https://x.com/___4o____/status/2031313346692264174</link>
       <guid isPermaLink="true">https://x.com/___4o____/status/2031313346692264174</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Bloomberg - China Moves to Curb Use of OpenClaw AI for Banks, State Agencies - March 10, 2026</title>
       <link>https://www.bloomberg.com/news/articles/2026-03-11/china-moves-to-limit-use-of-openclaw-ai-at-banks-government-agencies</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-11/china-moves-to-limit-use-of-openclaw-ai-at-banks-government-agencies</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy</link>
       <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>PA News - The first victims of OpenClaw have emerged! 4 security basics you must know before installation - March 10, 2026</title>
       <link>https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d</link>
       <guid isPermaLink="true">https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026</title>
       <link>https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Socket.dev - OpenClaw Advisory Surge Highlights Gaps Between GHSA and CVE Tracking - March 10, 2026</title>
       <link>https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking</link>
       <guid isPermaLink="true">https://socket.dev/blog/openclaw-advisory-surge-highlights-gaps-between-ghsa-and-cve-tracking</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>ReversingLabs - OpenClaw and AI risk: 3 AppSec lessons - March 10, 2026</title>
       <link>https://www.reversinglabs.com/blog/openclaw-agentic-ai-risk</link>
       <guid isPermaLink="true">https://www.reversinglabs.com/blog/openclaw-agentic-ai-risk</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>TrendMicro - CISOs in a Pinch: A Security Analysis of OpenClaw - March 10, 2026</title>
       <link>https://www.trendmicro.com/en/research/26/c/cisos-in-a-pinch-a-security-analysis-openclaw.html</link>
       <guid isPermaLink="true">https://www.trendmicro.com/en/research/26/c/cisos-in-a-pinch-a-security-analysis-openclaw.html</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>South China Morning Post - Chinese local governments offer OpenClaw project subsidies as security questions linger - March 9, 2026</title>
       <link>https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger</link>
       <guid isPermaLink="true">https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Bitget - SlowMist CISO: Security Risk Found in USB Version of OpenClaw - March 9,2026</title>
       <link>https://www.bitget.com/amp/news/detail/12560605248121</link>
       <guid isPermaLink="true">https://www.bitget.com/amp/news/detail/12560605248121</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials - March 9, 2026</title>
       <link>https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Deutsche Telekom Security GmbH - Advisory 2026-0625 - OpenClaw: Multiple Vulnerabilities - March 9, 2026</title>
       <link>https://www.dcert.de/advisories/2026-0625</link>
       <guid isPermaLink="true">https://www.dcert.de/advisories/2026-0625</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Cisco Blogs - How popular are AI tools like OpenClaw? Understanding AI usage across the network - March 9, 2026</title>
       <link>https://blogs.cisco.com/security/understanding-ai-usage-across-the-network</link>
       <guid isPermaLink="true">https://blogs.cisco.com/security/understanding-ai-usage-across-the-network</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026</title>
       <link>https://research.jfrog.com/post/ghostclaw-unmasked/</link>
       <guid isPermaLink="true">https://research.jfrog.com/post/ghostclaw-unmasked/</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Xinhua (CN) - AI &quot;cultivating lobster&quot; became popular, official tips → - March 8, 2026</title>
       <link>https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce</link>
       <guid isPermaLink="true">https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026</title>
       <link>https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497</link>
       <guid isPermaLink="true">https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Krebs on Security - How AI Assistants are Moving the Security Goalposts - March 9,2026</title>
       <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026</title>
       <link>https://www.globaltimes.cn/page/202603/1356590.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356590.shtml</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Lawfare - China’s Agentic AI Controversy - March 6, 2026</title>
       <link>https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy</link>
       <guid isPermaLink="true">https://www.lawfaremedia.org/article/china-s-agentic-ai-controversy</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Belgium - Warning: Multiple critical vulnerabilities in OpenClaw's Nextcloud Talk plugin, Patch Immediately! - March 6, 2026</title>
       <link>https://ccb.belgium.be/advisories/warning-multiple-critical-vulnerabilities-openclaws-nextcloud-talk-plugin-patch</link>
       <guid isPermaLink="true">https://ccb.belgium.be/advisories/warning-multiple-critical-vulnerabilities-openclaws-nextcloud-talk-plugin-patch</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>MalwareBytes - Beware of fake OpenClaw installers, even if Bing points you to GitHub - March 6, 2026</title>
       <link>https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github</link>
       <guid isPermaLink="true">https://www.malwarebytes.com/blog/news/2026/03/beware-of-fake-openclaw-installers-even-if-bing-points-you-to-github</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Heimdal Security - OpenClaw Incidents Show Why AI Adoption Pressure Puts Companies at Risk - March 5, 2026</title>
       <link>https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/</link>
       <guid isPermaLink="true">https://heimdalsecurity.com/blog/openclaw-incidents-ai-adoption-risk/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>grith.ai - A GitHub Issue Title Compromised 4,000 Developer Machines - March 5, 2026</title>
       <link>https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another</link>
       <guid isPermaLink="true">https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>InfoWorld - What I learned as an undercover agent on Moltbook - March 5, 2026</title>
       <link>https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html</link>
       <guid isPermaLink="true">https://www.infoworld.com/article/4138099/what-i-learned-as-an-undercover-agent-on-moltbook.html</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forbes - Five Things You Should Not Do With OpenClaw - March 5, 2026</title>
       <link>https://www.forbes.com/sites/johnwerner/2026/03/05/five-things-you-should-not-do-with-openclaw/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/johnwerner/2026/03/05/five-things-you-should-not-do-with-openclaw/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>MIT Technology News - Online harassment is entering its AI era - March 5, 2026</title>
       <link>https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/</link>
       <guid isPermaLink="true">https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Red Canary - Hunting for malicious OpenClaw AI in the modern enterprise - March 5, 2026</title>
       <link>https://redcanary.com/blog/threat-detection/openclaw-ai/</link>
       <guid isPermaLink="true">https://redcanary.com/blog/threat-detection/openclaw-ai/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SentinelOne - CVE-2026-29612: OpenClaw DOS Vulnerability - March 5, 2026</title>
       <link>https://www.sentinelone.com/vulnerability-database/cve-2026-29612/</link>
       <guid isPermaLink="true">https://www.sentinelone.com/vulnerability-database/cve-2026-29612/</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Security Boulevard - How Threat Actors Turned OpenClaw Into a Scraping Botnet - March 4, 2026</title>
       <link>https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/</link>
       <guid isPermaLink="true">https://securityboulevard.com/2026/03/how-threat-actors-turned-openclaw-into-a-scraping-botnet/</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Register - Malware-laced OpenClaw installers get Bing AI search boost - March 4, 2026</title>
       <link>https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/03/04/fake_openclaw_installers_malware/</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>smu.edu IT Connect - OpenClaw: Security Risks and Institutional Position - March 4, 2026</title>
       <link>https://blog.smu.edu/itconnect/2026/03/04/openclaw-security-risks-institutional-position/</link>
       <guid isPermaLink="true">https://blog.smu.edu/itconnect/2026/03/04/openclaw-security-risks-institutional-position/</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CPO Magazine - Security Research Finds OpenClaw AI Agent “Trivially Vulnerable” to Hijacking - March 4, 2026</title>
       <link>https://www.cpomagazine.com/cyber-security/security-research-finds-openclaw-ai-agent-trivially-vulnerable-to-hijacking/</link>
       <guid isPermaLink="true">https://www.cpomagazine.com/cyber-security/security-research-finds-openclaw-ai-agent-trivially-vulnerable-to-hijacking/</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Huntress - “Malware, from the Outside!”: How a Threat Actor Used Fake OpenClaw Installers to Infect Systems with GhostSocks and Information Stealers - March 4, 2026</title>
       <link>https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer</link>
       <guid isPermaLink="true">https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026</title>
       <link>https://thenewstack.io/openclaw-github-stars-security/</link>
       <guid isPermaLink="true">https://thenewstack.io/openclaw-github-stars-security/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026</title>
       <link>https://eu.36kr.com/en/p/3706864492884353</link>
       <guid isPermaLink="true">https://eu.36kr.com/en/p/3706864492884353</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>MasterCard - Before the music stops: OpenClaw and the growing need for AI security standards - March 3, 2026</title>
       <link>https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html</link>
       <guid isPermaLink="true">https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Global Times (CN) - Chinese authorities warn against misuse of OpenClaw amid rising security risks of unauthorized information leaks; expert urges users to strictly manage access - March 3, 2026</title>
       <link>https://www.globaltimes.cn/page/202603/1356182.shtml</link>
       <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356182.shtml</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SOCRadar - OpenClaw’s ClawJacked Vulnerability Explained, What Organizations Need to Know - March 2, 2026</title>
       <link>https://socradar.io/blog/openclaws-clawjacked-vulnerability/</link>
       <guid isPermaLink="true">https://socradar.io/blog/openclaws-clawjacked-vulnerability/</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Infosecurity Magazine - ClawJacked Bug Enables Covert AI Agent Hijacking - March 2, 2026</title>
       <link>https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/</link>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>pymnts.com - OpenClaw Patch Prevents Malicious Websites From Hijacking AI Agents - March 2, 2026</title>
       <link>https://www.pymnts.com/cybersecurity/2026/openclaw-patch-prevents-malicious-websites-from-hijacking-ai-agents/</link>
       <guid isPermaLink="true">https://www.pymnts.com/cybersecurity/2026/openclaw-patch-prevents-malicious-websites-from-hijacking-ai-agents/</guid>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>StepSecurity - hackerbot-claw: An AI-Powered Bot Actively Exploiting GitHub Actions - Microsoft, DataDog, and CNCF Projects Hit So Far - March 1, 2026</title>
       <link>https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation</link>
       <guid isPermaLink="true">https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026</title>
       <link>https://www.youtube.com/shorts/rPyaV1CqIKk</link>
       <guid isPermaLink="true">https://www.youtube.com/shorts/rPyaV1CqIKk</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026</title>
       <link>https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/</link>
       <guid isPermaLink="true">https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>HackRead - ClawJacked Vulnerability in OpenClaw Lets Websites Hijack AI Agents - February 27, 2026</title>
       <link>https://hackread.com/openclaw-vulnerability-openclaw-hijack-ai-agents/</link>
       <guid isPermaLink="true">https://hackread.com/openclaw-vulnerability-openclaw-hijack-ai-agents/</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SecurityBrief - OpenClaw AI assistant surge sparks major security fears - February 27, 2026</title>
       <link>https://securitybrief.com.au/story/openclaw-ai-assistant-surge-sparks-major-security-fears</link>
       <guid isPermaLink="true">https://securitybrief.com.au/story/openclaw-ai-assistant-surge-sparks-major-security-fears</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Kdnuggets.com - 5 Things You Need to Know Before Using OpenClaw - February 27, 2026</title>
       <link>https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw</link>
       <guid isPermaLink="true">https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Agents of Chaos - February 26, 2026</title>
       <link>https://agentsofchaos.baulab.info</link>
       <guid isPermaLink="true">https://agentsofchaos.baulab.info</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Redmond Channel Insider - Using OpenClaw: Things to Consider as an MSP - February 26, 2026</title>
       <link>https://rcpmag.com/blogs/the-evolving-msp/2026/02/using-openclaw-things-to-consider-as-an-msp.aspx</link>
       <guid isPermaLink="true">https://rcpmag.com/blogs/the-evolving-msp/2026/02/using-openclaw-things-to-consider-as-an-msp.aspx</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Security Boulevard - OpenClaw Security Risk: OAuth and SaaS Identity - February 26, 2026</title>
       <link>https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/</link>
       <guid isPermaLink="true">https://securityboulevard.com/2026/02/openclaw-security-risk-oauth-and-saas-identity/</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Decoder - An OpenClaw AI agent asked to delete a confidential email nuked its own mail client and called it fixed - February 26, 2026</title>
       <link>https://the-decoder.com/an-openclaw-ai-agent-asked-to-delete-a-confidential-email-nuked-its-own-mail-client-and-called-it-fixed/</link>
       <guid isPermaLink="true">https://the-decoder.com/an-openclaw-ai-agent-asked-to-delete-a-confidential-email-nuked-its-own-mail-client-and-called-it-fixed/</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ZDNet - AI agents are fast, loose, and out of control, MIT study finds - February 26, 2026</title>
       <link>https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/</link>
       <guid isPermaLink="true">https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Oasis Security - ClawJacked: OpenClaw Vulnerability Enables Full Agent Takeover - February 26, 2026</title>
       <link>https://www.oasis.security/blog/openclaw-vulnerability</link>
       <guid isPermaLink="true">https://www.oasis.security/blog/openclaw-vulnerability</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Wired - OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - February 25, 2026</title>
       <link>https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/</link>
       <guid isPermaLink="true">https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>IAPS - Kimi Claw: Risks from Chinese-Hosted 'Always On' AI Agents - February 25, 2026</title>
       <link>https://www.iaps.ai/research/kimi-claw-risks</link>
       <guid isPermaLink="true">https://www.iaps.ai/research/kimi-claw-risks</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Mint - OpenClaw: Did OpenAI just acquire a powerful new tool—or a security nightmare? - February 25, 2026</title>
       <link>https://www.livemint.com/opinion/online-views/openclaw-openai-security-nightmare-artificial-intelligence-sam-altman-technology-ai-11771934381262.html</link>
       <guid isPermaLink="true">https://www.livemint.com/opinion/online-views/openclaw-openai-security-nightmare-artificial-intelligence-sam-altman-technology-ai-11771934381262.html</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026</title>
       <link>https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/</link>
       <guid isPermaLink="true">https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Fast Company - 'This should terrify you': Meta Superintelligence safety director lost control of her AI agent—it deleted her emails - February 24, 2026</title>
       <link>https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails</link>
       <guid isPermaLink="true">https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Axios - The Bot Population Bomb: OpenClaw is only the Beginning - February 24, 2026</title>
       <link>https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown</link>
       <guid isPermaLink="true">https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026</title>
       <link>http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw</link>
       <guid isPermaLink="true">http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Cybernews - Microsoft: ‘OpenClaw unsuited to run on standard personal or enterprise workstation’ - February 23, 2026</title>
       <link>https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/</link>
       <guid isPermaLink="true">https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>PCWorld - What’s behind the OpenClaw ban wave - February 23, 2026</title>
       <link>https://www.pcworld.com/article/3068842/whats-behind-the-openclaw-ban-wave.html</link>
       <guid isPermaLink="true">https://www.pcworld.com/article/3068842/whats-behind-the-openclaw-ban-wave.html</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>InnovationAus - OpenClaw and the security risks of AI frenzy - February 23, 2026</title>
       <link>https://www.innovationaus.com/openclaw-and-the-security-risks-of-ai-frenzy/</link>
       <guid isPermaLink="true">https://www.innovationaus.com/openclaw-and-the-security-risks-of-ai-frenzy/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechCrunch - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - February 23, 2026</title>
       <link>https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechRadar - OpenClaw should terrify anyone who thinks AI agents are ready for real responsibility - February 23, 2026</title>
       <link>https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility</link>
       <guid isPermaLink="true">https://www.techradar.com/ai-platforms-assistants/openclaw-should-terrify-anyone-who-thinks-ai-agents-are-ready-for-real-responsibility</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/</link>
       <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026</title>
       <link>https://cybersecuritynews.com/google-suspends-openclaw-users/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/google-suspends-openclaw-users/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026</title>
       <link>https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/</link>
       <guid isPermaLink="true">https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026</title>
       <link>https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</link>
       <guid isPermaLink="true">https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026</title>
       <link>https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html</link>
       <guid isPermaLink="true">https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026</title>
       <link>https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/</link>
       <guid isPermaLink="true">https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026</title>
       <link>https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman</link>
       <guid isPermaLink="true">https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman</guid>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CU Today - Security Experts Warn OpenClaw Could Bypass Traditional CU Cyber Defenses - February 22, 2026</title>
       <link>https://www.cutoday.info/Fresh-Today/Security-Experts-Warn-OpenClaw-Could-Bypass-Traditional-CU-Cyber-Defenses</link>
       <guid isPermaLink="true">https://www.cutoday.info/Fresh-Today/Security-Experts-Warn-OpenClaw-Could-Bypass-Traditional-CU-Cyber-Defenses</guid>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>PCWorld - OpenClaw AI is going viral. Don't install it - February 20, 2026</title>
       <link>https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html</link>
       <guid isPermaLink="true">https://www.pcworld.com/article/3064874/openclaw-ai-is-going-viral-dont-install-it.html</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>WebProNews - OpenClaw's Security Crisis: How a Promising AI Framework Became Too Dangerous for Its Own Creators to Share Freely - February 20, 2026</title>
       <link>https://www.webpronews.com/openclaws-security-crisis-how-a-promising-ai-framework-became-too-dangerous-for-its-own-creators-to-share-freely/</link>
       <guid isPermaLink="true">https://www.webpronews.com/openclaws-security-crisis-how-a-promising-ai-framework-became-too-dangerous-for-its-own-creators-to-share-freely/</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems - February 20, 2026</title>
       <link>https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>eSecurity Planet - Over 41% of Popular OpenClaw Skills Found to Contain Security Vulnerabilities - February 20, 2026</title>
       <link>https://www.esecurityplanet.com/threats/over-41-of-popular-openclaw-skills-found-to-contain-security-vulnerabilities/</link>
       <guid isPermaLink="true">https://www.esecurityplanet.com/threats/over-41-of-popular-openclaw-skills-found-to-contain-security-vulnerabilities/</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 20, 2026</title>
       <link>https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use</link>
       <guid isPermaLink="true">https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Microsoft Threat Intelligence - Confirming a small but noticeable uptick in installations of OpenClaw initiated by Cline CLI supply chain compromise - February 19, 2026</title>
       <link>https://x.com/MsftSecIntel/status/2024575596941263040</link>
       <guid isPermaLink="true">https://x.com/MsftSecIntel/status/2024575596941263040</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Institutional Investor - OpenClaw: The AI Agent Institutional Investors Need to Understand — But Shouldn't Touch - February 19, 2026</title>
       <link>https://www.institutionalinvestor.com/article/openclaw-ai-agent-institutional-investors-need-understand-shouldnt-touch</link>
       <guid isPermaLink="true">https://www.institutionalinvestor.com/article/openclaw-ai-agent-institutional-investors-need-understand-shouldnt-touch</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Financial Times - OpenClaw and the privacy problems of agentic AI</title>
       <link>https://www.ft.com/content/f9ff060d-63b0-44f4-b46e-31a5545468db</link>
       <guid isPermaLink="true">https://www.ft.com/content/f9ff060d-63b0-44f4-b46e-31a5545468db</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Verge - The AI security nightmare is here and it looks suspiciously like lobster - February 19, 2026</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack</link>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CSO - Six flaws found hiding in OpenClaw's plumbing - February 19, 2026</title>
       <link>https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html</link>
       <guid isPermaLink="true">https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/</link>
       <guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Attack of the Fanboy - Meta bans OpenClaw over security fears, but insiders say the real risk is far worse - February 18, 2026</title>
       <link>https://attackofthefanboy.com/tech/meta-bans-openclaw-over-security-fears-but-insiders-say-the-real-risk-is-far-worse/</link>
       <guid isPermaLink="true">https://attackofthefanboy.com/tech/meta-bans-openclaw-over-security-fears-but-insiders-say-the-real-risk-is-far-worse/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Cybersecurity Insiders - Socket Uncovers AI Agent is Reputation Farming to Promote Paid OpenClaw Services - February 18, 2026</title>
       <link>https://www.cybersecurity-insiders.com/socket-uncovers-ai-agent-is-reputation-farming-to-promote-paid-openclaw-services/</link>
       <guid isPermaLink="true">https://www.cybersecurity-insiders.com/socket-uncovers-ai-agent-is-reputation-farming-to-promote-paid-openclaw-services/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - OpenClaw AI Framework v2026.2.17 Released with Anthropic Model Support and Security Fixes - February 18, 2026</title>
       <link>https://cybersecuritynews.com/openclaw-ai-framework-v2026-2-17/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/openclaw-ai-framework-v2026-2-17/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - ClawHavoc Poisoned OpenClaw's ClawHub with 1,184 Malicious Skills, Enabling Data Theft and Backdoor Access - February 18, 2026</title>
       <link>https://cybersecuritynews.com/clawhavoc-poisoned-openclaws-clawhub/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/clawhavoc-poisoned-openclaws-clawhub/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>gbhackers.com - OpenClaw AI Log Poisoning Flaw Enables Malicious Content Injection - February 18, 2026</title>
       <link>https://gbhackers.com/openclaw-ai-log-poisoning-flaw/</link>
       <guid isPermaLink="true">https://gbhackers.com/openclaw-ai-log-poisoning-flaw/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Help Net Security - SecureClaw: Dual stack open-source security plugin and skill for OpenClaw - February 18, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/02/18/secureclaw-open-source-security-plugin-skill-openclaw/</link>
       <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/02/18/secureclaw-open-source-security-plugin-skill-openclaw/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Conscia - The OpenClaw security crisis - February 18, 2026</title>
       <link>https://conscia.com/blog/the-openclaw-security-crisis/</link>
       <guid isPermaLink="true">https://conscia.com/blog/the-openclaw-security-crisis/</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Endor Labs - How AI SAST Traced Data Flows to Uncover Six OpenClaw Vulnerabilities - February 18, 2026</title>
       <link>https://www.endorlabs.com/learn/how-ai-sast-traced-data-flows-to-uncover-six-openclaw-vulnerabilities</link>
       <guid isPermaLink="true">https://www.endorlabs.com/learn/how-ai-sast-traced-data-flows-to-uncover-six-openclaw-vulnerabilities</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Cline - Unauthorized npm publish of Cline CLI cline@2.3.0 with modified postinstall script to install openclaw - February 17, 2026</title>
       <link>https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7</link>
       <guid isPermaLink="true">https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Heise Online - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026</title>
       <link>https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</link>
       <guid isPermaLink="true">https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>eSecurity Planet - OpenClaw Flaw Enables AI Log Poisoning Risk - February 17, 2026</title>
       <link>https://www.esecurityplanet.com/threats/openclaw-flaw-enables-ai-log-poisoning-risk/</link>
       <guid isPermaLink="true">https://www.esecurityplanet.com/threats/openclaw-flaw-enables-ai-log-poisoning-risk/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>WIRED - Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears - February 17, 2026</title>
       <link>https://www.wired.com/story/meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears/</link>
       <guid isPermaLink="true">https://www.wired.com/story/meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Infosecurity Magazine - Infostealer Targets OpenClaw to Loot Victim's Digital Life - February 17, 2026</title>
       <link>https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</link>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Techzine Global - Infostealer steals identity of AI agent OpenClaw - February 17, 2026</title>
       <link>https://www.techzine.eu/news/security/138835/infostealer-steals-identity-of-ai-agent-openclaw/</link>
       <guid isPermaLink="true">https://www.techzine.eu/news/security/138835/infostealer-steals-identity-of-ai-agent-openclaw/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>TechRadar - OpenClaw AI agents targeted by infostealer malware for the first time - February 17, 2026</title>
       <link>https://www.techradar.com/pro/security/openclaw-ai-agents-targeted-by-infostealer-malware-for-the-first-time</link>
       <guid isPermaLink="true">https://www.techradar.com/pro/security/openclaw-ai-agents-targeted-by-infostealer-malware-for-the-first-time</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Tech Buzz - Meta Bans Viral AI Tool OpenClaw Over Security Risks - February 17, 2026</title>
       <link>https://www.techbuzz.ai/articles/meta-bans-viral-ai-tool-openclaw-over-security-risks</link>
       <guid isPermaLink="true">https://www.techbuzz.ai/articles/meta-bans-viral-ai-tool-openclaw-over-security-risks</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>HackerNoon - OpenClaw's 85,000 GitHub Stars Hide a Security Nightmare, Researchers Warn - February 17, 2026</title>
       <link>https://hackernoon.com/openclaws-85000-github-stars-hide-a-security-nightmare-researchers-warn</link>
       <guid isPermaLink="true">https://hackernoon.com/openclaws-85000-github-stars-hide-a-security-nightmare-researchers-warn</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Security Boulevard - Authentication Under Fire: Why OpenClaw Needs ZTNA and AI Secure Protection - February 17, 2026</title>
       <link>https://securityboulevard.com/2026/02/authentication-under-fire-why-openclaw-needs-ztna-and-aisecure-protection/</link>
       <guid isPermaLink="true">https://securityboulevard.com/2026/02/authentication-under-fire-why-openclaw-needs-ztna-and-aisecure-protection/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - OpenClaw AI Log Poisoning Vulnerability Allows Malicious Content Injection - February 17, 2026</title>
       <link>https://cybersecuritynews.com/openclaw-ai-agent-log-poisoning/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/openclaw-ai-agent-log-poisoning/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - Threat Actors Attacking OpenClaw Configurations to Steal Login Credentials - February 17, 2026</title>
       <link>https://cybersecuritynews.com/threat-actors-attacking-openclaw-configurations/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/threat-actors-attacking-openclaw-configurations/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SecurityScorecard - What Are the Real Security Risks of Agentic AI and OpenClaw? - February 17, 2026</title>
       <link>https://securityscorecard.com/blog/what-are-the-real-security-risks-of-agentic-ai-and-openclaw/</link>
       <guid isPermaLink="true">https://securityscorecard.com/blog/what-are-the-real-security-risks-of-agentic-ai-and-openclaw/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>TechCrunch - After all the hype, some AI experts don't think OpenClaw is all that exciting - February 16, 2026</title>
       <link>https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/</guid>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens - February 16, 2026</title>
       <link>https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html</guid>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>BleepingComputer - Infostealer malware found stealing OpenClaw secrets for first time - February 16, 2026</title>
       <link>https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/</link>
       <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/</guid>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Kaspersky - Key OpenClaw risks, Clawdbot, Moltbot - February 16, 2026</title>
       <link>https://www.kaspersky.com/blog/openclaw-vulnerabilities-exposed/55263/</link>
       <guid isPermaLink="true">https://www.kaspersky.com/blog/openclaw-vulnerabilities-exposed/55263/</guid>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>The New Stack - OpenClaw is being called a security Dumpster fire but there is a way to stay safe - February 15, 2026</title>
       <link>https://thenewstack.io/deno-sandbox-security-secrets/</link>
       <guid isPermaLink="true">https://thenewstack.io/deno-sandbox-security-secrets/</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>VentureBeat - How to test OpenClaw without giving an autonomous agent shell access to your corporate laptop - February 13, 2026</title>
       <link>https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your</link>
       <guid isPermaLink="true">https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CybersecurityNews - OpenClaw 2026.2.12 Released With Fix for 40+ Security Issues - February 13, 2026</title>
       <link>https://cybersecuritynews.com/openclaw-2026-2-12-released/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/openclaw-2026-2-12-released/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Aikido Security - Why Trying to Secure OpenClaw is Ridiculous - February 13, 2026</title>
       <link>https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous</link>
       <guid isPermaLink="true">https://www.aikido.dev/blog/why-trying-to-secure-openclaw-is-ridiculous</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Sophos - The OpenClaw experiment is a warning shot for enterprise AI security - February 13, 2026</title>
       <link>https://news.sophos.com/en-us/2026/02/13/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security/</link>
       <guid isPermaLink="true">https://news.sophos.com/en-us/2026/02/13/the-openclaw-experiment-is-a-warning-shot-for-enterprise-ai-security/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SentinelOne - CVE-2026-25593: OpenClaw AI Assistant RCE Vulnerability - February 13, 2026</title>
       <link>https://www.sentinelone.com/vulnerability-database/cve-2026-25593/</link>
       <guid isPermaLink="true">https://www.sentinelone.com/vulnerability-database/cve-2026-25593/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Security Boulevard - 42,900 OpenClaw Exposed Control Panels and Why You Should Care - February 12, 2026</title>
       <link>https://securityboulevard.com/2026/02/42900-openclaw-exposed-control-panels-and-why-you-should-care/</link>
       <guid isPermaLink="true">https://securityboulevard.com/2026/02/42900-openclaw-exposed-control-panels-and-why-you-should-care/</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Fortune - OpenClaw is the bad boy of AI agents. Here's why security experts say you should beware - February 12, 2026</title>
       <link>https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/</link>
       <guid isPermaLink="true">https://fortune.com/2026/02/12/openclaw-ai-agents-security-risks-beware/</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026</title>
       <link>https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/</link>
       <guid isPermaLink="true">https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026</title>
       <link>https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw</link>
       <guid isPermaLink="true">https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Bitdefender - 135K OpenClaw AI Agents Exposed to Internet - February 12, 2026</title>
       <link>https://www.bitdefender.com/en-us/blog/businessinsights/135k-openclaw-ai-agents-exposed-to-internet</link>
       <guid isPermaLink="true">https://www.bitdefender.com/en-us/blog/businessinsights/135k-openclaw-ai-agents-exposed-to-internet</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Help Net Security - OpenClaw Scanner: Open-source tool detects autonomous AI agents - February 11, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/02/12/openclaw-scanner-open-source-tool-detects-autonomous-ai-agents/</link>
       <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/02/12/openclaw-scanner-open-source-tool-detects-autonomous-ai-agents/</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CSO Online - What CISOs need to know about the OpenClaw security nightmare - February 11, 2026</title>
       <link>https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html</link>
       <guid isPermaLink="true">https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>IBM - OpenClaw and Claude Opus 4.6: Where is AI agent security headed? - February 11, 2026</title>
       <link>https://www.ibm.com/think/podcasts/security-intelligence/openclaw-claude-opus-4-6-ai-agent-security</link>
       <guid isPermaLink="true">https://www.ibm.com/think/podcasts/security-intelligence/openclaw-claude-opus-4-6-ai-agent-security</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>C-sharpcorner.com - Operating Cost of OpenClaw: What It Is and How to Predict Monthly Running Costs - February 11, 2026</title>
       <link>https://www.c-sharpcorner.com/article/operating-cost-of-openclaw-what-it-is-and-how-to-predict-monthly-running-costs/</link>
       <guid isPermaLink="true">https://www.c-sharpcorner.com/article/operating-cost-of-openclaw-what-it-is-and-how-to-predict-monthly-running-costs/</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Northeastern Global News - Why the OpenClaw AI agent is a &quot;privacy nightmare&quot; - February 10, 2026</title>
       <link>https://news.northeastern.edu/2026/02/10/open-claw-ai-assistant/</link>
       <guid isPermaLink="true">https://news.northeastern.edu/2026/02/10/open-claw-ai-assistant/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SD Times - Security professionals express concern over OpenClaw - February 10, 2026</title>
       <link>https://sdtimes.com/ai/security-professionals-express-concern-over-openclaw/</link>
       <guid isPermaLink="true">https://sdtimes.com/ai/security-professionals-express-concern-over-openclaw/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Snyk - How a Malicious Google Skill on ClawHub Tricks Users Into Installing Malware - February 10, 2026</title>
       <link>https://snyk.io/blog/clawhub-malicious-google-skill-openclaw-malware/</link>
       <guid isPermaLink="true">https://snyk.io/blog/clawhub-malicious-google-skill-openclaw-malware/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Kaspersky - New OpenClaw AI agent found unsafe for use - February 10, 2026</title>
       <link>https://www.kaspersky.com/blog/openclaw-ai-agent-unsafe/</link>
       <guid isPermaLink="true">https://www.kaspersky.com/blog/openclaw-ai-agent-unsafe/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SiliconANGLE - Tens of thousands of OpenClaw systems exposed by misconfigurations and known exploits - February 9, 2026</title>
       <link>https://siliconangle.com/2026/02/09/tens-thousands-openclaw-systems-exposed-due-misconfiguration-known-exploits/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/02/09/tens-thousands-openclaw-systems-exposed-due-misconfiguration-known-exploits/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Adnan Khan's Blog - Clinejection: Compromising Cline's Production Releases just by Prompting an Issue Triager (OpenClaw found as malware c2) - February 9, 2026</title>
       <link>https://adnanthekhan.com/posts/clinejection/</link>
       <guid isPermaLink="true">https://adnanthekhan.com/posts/clinejection/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Infosecurity Magazine - Researchers Find 40,000+ Exposed OpenClaw Instances - February 9, 2026</title>
       <link>https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/</link>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>trendingtopics.eu - Security Nightmare: How OpenClaw Is Fighting Malware in Its AI Agent Marketplace - February 9, 2026</title>
       <link>https://www.trendingtopics.eu/security-nightmare-how-openclaw-is-fighting-malware-in-its-ai-agent-marketplace/</link>
       <guid isPermaLink="true">https://www.trendingtopics.eu/security-nightmare-how-openclaw-is-fighting-malware-in-its-ai-agent-marketplace/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Register - OpenClaw instances open to the internet present ripe targets - February 9, 2026</title>
       <link>https://www.theregister.com/2026/02/09/openclaw_instances_exposed_vibe_code/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/02/09/openclaw_instances_exposed_vibe_code/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Techzine Global - Over 40,000 OpenClaw agents vulnerable - February 9, 2026</title>
       <link>https://www.techzine.eu/news/security/138633/over-40000-openclaw-agents-vulnerable/</link>
       <guid isPermaLink="true">https://www.techzine.eu/news/security/138633/over-40000-openclaw-agents-vulnerable/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>C-sharpcorner.com - OpenClaw Security Risks and Concerns - February 9, 2026</title>
       <link>https://www.c-sharpcorner.com/article/openclaw-security-risks-and-concerns/</link>
       <guid isPermaLink="true">https://www.c-sharpcorner.com/article/openclaw-security-risks-and-concerns/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forbes - OpenClaw Showed The Future Of AI Security And It's Going To Be Rough - February 9, 2026</title>
       <link>https://www.forbes.com/sites/markkraynak/2026/02/09/openclaw-showed-the-future-of-ai-security-and-its-going-to-be-rough/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/markkraynak/2026/02/09/openclaw-showed-the-future-of-ai-security-and-its-going-to-be-rough/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Digital Watch Observatory - OpenClaw faces rising security pushback in South Korea - February 9, 2026</title>
       <link>https://dig.watch/updates/openclaw-faces-rising-security-pushback</link>
       <guid isPermaLink="true">https://dig.watch/updates/openclaw-faces-rising-security-pushback</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>MITRE.org - MITRE ATLAS OPENCLAW INVESTIGATION - February 9, 2026</title>
       <link>https://www.mitre.org/sites/default/files/2026-02/PR-26-00176-1-MITRE-ATLAS-OpenClaw-Investigation.pdf</link>
       <guid isPermaLink="true">https://www.mitre.org/sites/default/files/2026-02/PR-26-00176-1-MITRE-ATLAS-OpenClaw-Investigation.pdf</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Zscaler - A Guide to OpenClaw and Securing It with Zscaler - February 9, 2026</title>
       <link>https://www.zscaler.com/blogs/security-research/guide-openclaw-and-securing-it-zscaler</link>
       <guid isPermaLink="true">https://www.zscaler.com/blogs/security-research/guide-openclaw-and-securing-it-zscaler</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Bitsight - OpenClaw Security: Risks of Exposed AI Agents Explained - February 9, 2026</title>
       <link>https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances</link>
       <guid isPermaLink="true">https://www.bitsight.com/blog/openclaw-ai-security-risks-exposed-instances</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Tenable.com - I pretended to be an AI agent on Moltbook so you don't have to - February 9, 2026</title>
       <link>https://www.tenable.com/blog/undercover-on-moltbook</link>
       <guid isPermaLink="true">https://www.tenable.com/blog/undercover-on-moltbook</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>SecurityScorecard - Beyond the Hype: Moltbot's Real Risk Is Exposed Infrastructure, Not AI Superintelligence - February 9, 2026</title>
       <link>https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/</link>
       <guid isPermaLink="true">https://securityscorecard.com/blog/beyond-the-hype-moltbots-real-risk-is-exposed-infrastructure-not-ai-superintelligence/</guid>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>The Hacker News - OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills - February 8, 2026</title>
       <link>https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html</guid>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Dark Reading - OpenClaw's Gregarious Insecurities Make Safe Usage Difficult - February 6, 2026</title>
       <link>https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult</link>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forbes - What Is OpenClaw, Formerly Moltbot? Everything You Need To Know - February 6, 2026</title>
       <link>https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/kateoflahertyuk/2026/02/06/what-is-openclaw-formerly-moltbot--everything-you-need-to-know/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Antiy CERT - ClawHavoc: Analysis of Large-Scale Poisoning Campaign Targeting the OpenClaw Skill Market for AI Agents - February 6, 2026</title>
       <link>https://www.antiy.net/p/clawhavoc-analysis-of-large-scale-poisoning-campaign-targeting-the-openclaw-skill-market-for-ai-agents/</link>
       <guid isPermaLink="true">https://www.antiy.net/p/clawhavoc-analysis-of-large-scale-poisoning-campaign-targeting-the-openclaw-skill-market-for-ai-agents/</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - February 6, 2026</title>
       <link>https://www.trendmicro.com/en_us/research/26/b/what-openclaw-reveals-about-agentic-assistants.html</link>
       <guid isPermaLink="true">https://www.trendmicro.com/en_us/research/26/b/what-openclaw-reveals-about-agentic-assistants.html</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>BankInfoSecurity - OpenClaw AI Agent Sparks Global Security Alarm - February 5, 2026</title>
       <link>https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686</link>
       <guid isPermaLink="true">https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Yahoo/Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026</title>
       <link>https://www.yahoo.com/news/articles/china-warns-security-risks-linked-094254423.html</link>
       <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-warns-security-risks-linked-094254423.html</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ToxSec - Molt Road and the Rise of AI Agent Black Markets - February 5, 2026</title>
       <link>https://www.toxsec.com/p/molt-road-and-ai-black-markets</link>
       <guid isPermaLink="true">https://www.toxsec.com/p/molt-road-and-ai-black-markets</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The New Stack - It took a researcher fewer than 2 hours to hijack OpenClaw - February 5, 2026</title>
       <link>https://thenewstack.io/openclaw-moltbot-security-concerns/</link>
       <guid isPermaLink="true">https://thenewstack.io/openclaw-moltbot-security-concerns/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Register - It's easy to backdoor OpenClaw, and its skills leak API keys - February 5, 2026</title>
       <link>https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Reuters - China warns of security risks linked to OpenClaw open-source AI agent - February 5, 2026</title>
       <link>https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808</link>
       <guid isPermaLink="true">https://www.investing.com/news/economy-news/china-warns-of-security-risks-linked-to-openclaw-opensource-ai-agent-4486808</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Cisco Talos - Threat Source Newsletter: All gas, no brakes: Time to come to AI church - February 5, 2026</title>
       <link>https://blog.talosintelligence.com/all-gas-no-brakes-time-to-come-to-ai-church/</link>
       <guid isPermaLink="true">https://blog.talosintelligence.com/all-gas-no-brakes-time-to-come-to-ai-church/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Snyk - 280+ Leaky Skills: How OpenClaw &amp; ClawHub Are Exposing API Keys and PII - February 5, 2026</title>
       <link>https://snyk.io/blog/openclaw-skills-credential-leaks-research/</link>
       <guid isPermaLink="true">https://snyk.io/blog/openclaw-skills-credential-leaks-research/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Bitdefender - Technical Advisory: OpenClaw Exploitation in Enterprise Networks - February 5, 2026</title>
       <link>https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-in-enterprise-networks</link>
       <guid isPermaLink="true">https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-openclaw-exploitation-in-enterprise-networks</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Palo Alto Networks - The Moltbook Case and How We Need to Think about Agent Security - February 5, 2026</title>
       <link>https://www.paloaltonetworks.com/blog/network-security/the-moltbook-case-and-how-we-need-to-think-about-agent-security/</link>
       <guid isPermaLink="true">https://www.paloaltonetworks.com/blog/network-security/the-moltbook-case-and-how-we-need-to-think-about-agent-security/</guid>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026</title>
       <link>https://www.xda-developers.com/please-stop-using-openclaw/</link>
       <guid isPermaLink="true">https://www.xda-developers.com/please-stop-using-openclaw/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Security Boulevard - The ‘Absolute Nightmare’ in Your DMs: OpenClaw Marries Extreme Utility with ‘Unacceptable’ Risk - February 4, 2026</title>
       <link>https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/</link>
       <guid isPermaLink="true">https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026</title>
       <link>https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</link>
       <guid isPermaLink="true">https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026</title>
       <link>https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SECURITY.COM - The Rise of OpenClaw - February 4, 2026</title>
       <link>https://www.security.com/expert-perspectives/rise-openclaw</link>
       <guid isPermaLink="true">https://www.security.com/expert-perspectives/rise-openclaw</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>the-decoder.com - OpenClaw's OpenDoor problem is so bad that installing malware yourself might save time - February 4, 2026</title>
       <link>https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/</link>
       <guid isPermaLink="true">https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Giskard - OpenClaw security vulnerabilities include data leakage and prompt injection risks - February 4, 2026</title>
       <link>https://www.giskard.ai/knowledge/openclaw-security-vulnerabilities-include-data-leakage-and-prompt-injection-risks</link>
       <guid isPermaLink="true">https://www.giskard.ai/knowledge/openclaw-security-vulnerabilities-include-data-leakage-and-prompt-injection-risks</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Zenity Labs - OpenClaw or OpenDoor? - February 4, 2026</title>
       <link>https://labs.zenity.io/p/openclaw-or-opendoor-indirect-prompt-injection-makes-openclaw-vulnerable-to-backdoors-and-much-more</link>
       <guid isPermaLink="true">https://labs.zenity.io/p/openclaw-or-opendoor-indirect-prompt-injection-makes-openclaw-vulnerable-to-backdoors-and-much-more</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>OX Security - You Can't Just Delete OpenClaw: You Gave It Access to Everything. Now What? - February 4, 2026</title>
       <link>https://www.ox.security/blog/how-to-uninstall-openclaw-remove-data-revoke-access/</link>
       <guid isPermaLink="true">https://www.ox.security/blog/how-to-uninstall-openclaw-remove-data-revoke-access/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026</title>
       <link>https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/</link>
       <guid isPermaLink="true">https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026</title>
       <link>https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/</link>
       <guid isPermaLink="true">https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>ComputerWorld - By whatever name — Moltbot, Clawd, OpenClaw — this uber AI assistant is a security nightmare - February 3, 2026</title>
       <link>https://www.computerworld.com/article/4125939/by-whatever-name-moltbolt-clawd-openclaw-this-uber-ai-assistant-is-a-security-nightmare.html</link>
       <guid isPermaLink="true">https://www.computerworld.com/article/4125939/by-whatever-name-moltbolt-clawd-openclaw-this-uber-ai-assistant-is-a-security-nightmare.html</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>SecurityWeek - Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant - February 3, 2026</title>
       <link>https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/</link>
       <guid isPermaLink="true">https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Register - DIY AI bot farm OpenClaw is a security dumpster fire - February 3, 2026</title>
       <link>https://www.theregister.com/2026/02/03/openclaw_security_problems/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/02/03/openclaw_security_problems/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Business Insider - Why OpenClaw and Moltbook have security researchers worried - February 3, 2026</title>
       <link>https://www.businessinsider.com/openclaw-moltbook-cybersecurity-risks-researchers-ai-2026-2</link>
       <guid isPermaLink="true">https://www.businessinsider.com/openclaw-moltbook-cybersecurity-risks-researchers-ai-2026-2</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Axios - Moltbook shows rapid demand for AI agents. The security world isn't ready. - February 3, 2026</title>
       <link>https://www.axios.com/2026/02/03/moltbook-openclaw-security-threats</link>
       <guid isPermaLink="true">https://www.axios.com/2026/02/03/moltbook-openclaw-security-threats</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>CNET - New AI Assistant OpenClaw Acts Like Your Digital Servant, but Experts Warn of Security Risks - February 3, 2026</title>
       <link>https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/</link>
       <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026</title>
       <link>https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities</link>
       <guid isPermaLink="true">https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Diginomica - Enterprise hits and misses - OpenClaw's security holes keep CISOs up past bedtime - February 2, 2026</title>
       <link>https://diginomica.com/enterprise-hits-and-misses-ai-fears-meet-saas-software-earnings-and-openclaws-security-holes-keep</link>
       <guid isPermaLink="true">https://diginomica.com/enterprise-hits-and-misses-ai-fears-meet-saas-software-earnings-and-openclaws-security-holes-keep</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link - February 2, 2026</title>
       <link>https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Register - OpenClaw ecosystem still suffering severe security issues - February 2, 2026</title>
       <link>https://www.theregister.com/2026/02/02/openclaw_security_issues/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/02/02/openclaw_security_issues/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ZDNET - OpenClaw is a security nightmare - 5 red flags you shouldn't ignore before it's too late - February 2, 2026</title>
       <link>https://www.zdnet.com/article/openclaw-moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/</link>
       <guid isPermaLink="true">https://www.zdnet.com/article/openclaw-moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>ZDNET - From Clawdbot to OpenClaw: This viral AI agent is evolving fast - and it's nightmare fuel for security pros - February 2, 2026</title>
       <link>https://www.zdnet.com/article/clawdbot-moltbot-openclaw-security-nightmare/</link>
       <guid isPermaLink="true">https://www.zdnet.com/article/clawdbot-moltbot-openclaw-security-nightmare/</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Hacker News - Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users - February 2, 2026</title>
       <link>https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>PCMag - OpenClaw Is the Hot New AI Agent, But Is It Safe to Use? - February 2, 2026</title>
       <link>https://www.pcmag.com/news/openclaw-is-the-hot-new-ai-agent-but-is-it-safe-to-use</link>
       <guid isPermaLink="true">https://www.pcmag.com/news/openclaw-is-the-hot-new-ai-agent-but-is-it-safe-to-use</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Decoder - OpenClaw (formerly Clawdbot) and Moltbook let attackers walk through the front door - February 1, 2026</title>
       <link>https://the-decoder.com/openclaw-formerly-clawdbot-and-moltbook-let-attackers-walk-through-the-front-door/</link>
       <guid isPermaLink="true">https://the-decoder.com/openclaw-formerly-clawdbot-and-moltbook-let-attackers-walk-through-the-front-door/</guid>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Tom's Hardware - Malicious OpenClaw 'skill' targets crypto users on ClawHub — 14 malicious skills were uploaded to ClawHub last month - February 1, 2026</title>
       <link>https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role</link>
       <guid isPermaLink="true">https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role</guid>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026</title>
       <link>https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys</link>
       <guid isPermaLink="true">https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys</guid>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026</title>
       <link>https://censys.com/openclaw-in-the-wild/</link>
       <guid isPermaLink="true">https://censys.com/openclaw-in-the-wild/</guid>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026</title>
       <link>https://disesdi.substack.com/p/this-is-apparently-the-stupidest</link>
       <guid isPermaLink="true">https://disesdi.substack.com/p/this-is-apparently-the-stupidest</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Dark Reading - OpenClaw AI Runs Wild in Business Environments - January 30, 2026</title>
       <link>https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments</link>
       <guid isPermaLink="true">https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>VentureBeat - OpenClaw proves agentic AI works. It also proves your security model doesn't. 180,000 developers just made that your problem. - January 30, 2026</title>
       <link>https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide</link>
       <guid isPermaLink="true">https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forbes - Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams - January 30, 2026</title>
       <link>https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/</link>
       <guid isPermaLink="true">https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/</guid>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026</title>
       <link>https://www.gartner.com/en/documents/7381830</link>
       <guid isPermaLink="true">https://www.gartner.com/en/documents/7381830</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Inc - OpenClaw Can Run Your Whole Computer—and That’s Exactly Why Security Experts Are Panicking - January 29, 2026</title>
       <link>https://www.inc.com/ben-sherry/the-tech-world-loves-this-powerful-ai-agent-but-its-also-a-security-nightmare/91294337</link>
       <guid isPermaLink="true">https://www.inc.com/ben-sherry/the-tech-world-loves-this-powerful-ai-agent-but-its-also-a-security-nightmare/91294337</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026</title>
       <link>https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration</link>
       <guid isPermaLink="true">https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026</title>
       <link>https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/</link>
       <guid isPermaLink="true">https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>GitGuardian - OpenClaw (Moltbot) Personal Assistant Goes Viral – And So Do Your Secrets - January 29, 2026</title>
       <link>https://blog.gitguardian.com/moltbot-personal-assistant-goes-viral-and-so-do-your-secrets/</link>
       <guid isPermaLink="true">https://blog.gitguardian.com/moltbot-personal-assistant-goes-viral-and-so-do-your-secrets/</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026</title>
       <link>https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare</link>
       <guid isPermaLink="true">https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026</title>
       <link>https://ethiack.com/news/blog/one-click-rce-openclaw</link>
       <guid isPermaLink="true">https://ethiack.com/news/blog/one-click-rce-openclaw</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026</title>
       <link>https://mashable.com/article/clawdbot-ai-security-risks</link>
       <guid isPermaLink="true">https://mashable.com/article/clawdbot-ai-security-risks</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026</title>
       <link>https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</link>
       <guid isPermaLink="true">https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</guid>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>NVD National Vulnerability Database - Search for OpenClaw</title>
       <link>https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records</link>
       <guid isPermaLink="true">https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records</guid>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>CISA.gov - Search for OpenClaw Advisories</title>
       <link>https://www.cisa.gov/search?g=openclaw#gsc.tab=0&amp;gsc.q=openclaw&amp;gsc.page=1</link>
       <guid isPermaLink="true">https://www.cisa.gov/search?g=openclaw#gsc.tab=0&amp;gsc.q=openclaw&amp;gsc.page=1</guid>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen</title>
       <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424</link>
       <guid isPermaLink="true">https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424</guid>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>CERT BUND Germany - Search for OpenClaw Advisories</title>
       <link>https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid</link>
       <guid isPermaLink="true">https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid</guid>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Centre for Cybersecurity Belgium - Search for OpenClaw Advisories</title>
       <link>https://ccb.belgium.be/search</link>
       <guid isPermaLink="true">https://ccb.belgium.be/search</guid>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>CERT CVE Croatia - Proizvođač: openclaw</title>
       <link>https://cve.cert.hr/?vendor=openclaw</link>
       <guid isPermaLink="true">https://cve.cert.hr/?vendor=openclaw</guid>
+      <category>Government Warnings</category>
+    </item>
+    <item>
+      <title>OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness</title>
+      <link>https://openclaw.allegro.earth/</link>
+      <guid isPermaLink="true">https://openclaw.allegro.earth/</guid>
+      <category>Observability</category>
+    </item>
+    <item>
+      <title>AIPwn - OpenClaw Security Watchboard</title>
+      <link>https://aipwn.org/openclaw</link>
+      <guid isPermaLink="true">https://aipwn.org/openclaw</guid>
+      <category>Observability</category>
+    </item>
+    <item>
+      <title>DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels</title>
+      <link>https://declawed.io/</link>
+      <guid isPermaLink="true">https://declawed.io/</guid>
+      <category>Observability</category>
     </item>
     <item>
       <title>VulnCheck - Ongoing OpenClaw CVE Advisories</title>
       <link>https://www.vulncheck.com/advisories</link>
       <guid isPermaLink="true">https://www.vulncheck.com/advisories</guid>
+      <category>Vendor Advisories</category>
     </item>
   </channel>
 </rss>
