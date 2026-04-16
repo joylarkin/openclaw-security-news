@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 20:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 04:15:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The National Tribune (AU) - OpenClaw And Security Risks Of AI Frenzy - April 16, 2026</title>
+      <link>https://www.nationaltribune.com.au/openclaw-and-security-risks-of-ai-frenzy/</link>
+      <guid isPermaLink="true">https://www.nationaltribune.com.au/openclaw-and-security-risks-of-ai-frenzy/</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>Twitter -  I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026</title>
       <link>https://x.com/___4o____/status/2044382380316578108</link>
