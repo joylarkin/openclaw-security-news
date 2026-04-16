@@ -41,6 +41,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-16
+- [The National Tribune (AU) - OpenClaw And Security Risks Of AI Frenzy - April 16, 2026](https://www.nationaltribune.com.au/openclaw-and-security-risks-of-ai-frenzy/)
+
 ### 2026-04-15
 - [Twitter -  I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026](https://x.com/___4o____/status/2044382380316578108)
 - [Pune Times Mirror (IN) - Microsoft OpenClaw Copilot AI Sparks Bold Promise, Serious Fears - April 15, 2026](https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/)
