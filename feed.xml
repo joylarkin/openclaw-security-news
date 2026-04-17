@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:13:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The National Tribune (AU) - OpenClaw And Security Risks Of AI Frenzy - April 16, 2026</title>
@@ -2308,6 +2308,18 @@
       <link>https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</link>
       <guid isPermaLink="true">https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/</guid>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Infosecurity Magazine - OpenClaw Exposes the Real Cybersecurity Risks of Agentic AI - April 17, 2026</title>
+      <link>https://www.infosecurity-magazine.com/opinions/openclaw-exposes-real-security/</link>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/opinions/openclaw-exposes-real-security/</guid>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Supply House Times - AI is moving faster than your security policies - April 17, 2026</title>
+      <link>https://www.supplyht.com/articles/107171-ai-is-moving-faster-than-your-security-policies</link>
+      <guid isPermaLink="true">https://www.supplyht.com/articles/107171-ai-is-moving-faster-than-your-security-policies</guid>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
