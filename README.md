@@ -57,8 +57,8 @@ Updated twice daily.
 
 ### 2026-04-13
 - [American Banker - AI agents are going rogue. Here's what banks can do about it - April 13, 2026](https://www.americanbanker.com/news/ai-agents-are-going-rogue-heres-what-banks-can-do-about-it)
-- [KDNuggets - Are AI Agents Your Next Security Nightmare? - April 13, 2026](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare)
 - [BCG - CIOs, OpenClaw, and the New Wave of Autonomous AI Agents - April 13, 2026](https://www.bcg.com/publications/2026/cios-openclaw-and-the-new-wave-of-ai-agents)
+- [KDNuggets - Are AI Agents Your Next Security Nightmare? - April 13, 2026](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare)
 
 ### 2026-04-10
 - [Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms)
@@ -75,7 +75,7 @@ Updated twice daily.
 
 ### 2026-04-06
 - [Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 6, 2026](https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history)
-- [BBC - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
+- [BBC *UK) - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
 - [The AI Journal - The Identity Problem Agent Swarms Can’t Ignore - April 6, 2026](https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/)
 
 ### 2026-04-04
