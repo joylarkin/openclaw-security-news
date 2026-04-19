@@ -44,6 +44,7 @@ Updated twice daily.
 ### 2026-04-17
 - [Infosecurity Magazine - OpenClaw Exposes the Real Cybersecurity Risks of Agentic AI - April 17, 2026](https://www.infosecurity-magazine.com/opinions/openclaw-exposes-real-security/)
 - [Supply House Times - AI is moving faster than your security policies - April 17, 2026](https://www.supplyht.com/articles/107171-ai-is-moving-faster-than-your-security-policies)
+- [MakeUseOf - 4 everyday tasks I handed to OpenClaw and instantly stopped doing myself - April 17, 2026](https://www.makeuseof.com/everyday-tasks-i-handed-to-openclaw-and-instantly-stopped-doing-myself/)
 
 ### 2026-04-16
 - [The National Tribune (AU) - OpenClaw And Security Risks Of AI Frenzy - April 16, 2026](https://www.nationaltribune.com.au/openclaw-and-security-risks-of-ai-frenzy/)
