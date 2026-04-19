@@ -42,7 +42,7 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-18
-- [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 20260](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats)
+- [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 2026](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats)
 
 ### 2026-04-17
 - [Infosecurity Magazine - OpenClaw Exposes the Real Cybersecurity Risks of Agentic AI - April 17, 2026](https://www.infosecurity-magazine.com/opinions/openclaw-exposes-real-security/)
