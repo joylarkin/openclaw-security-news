@@ -42,17 +42,18 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-18
-- [AFP/Global Syndication - AI 'agent' fever comes with lurking security threats - April 18, 20260](https://uk.finance.yahoo.com/news/ai-agent-fever-comes-lurking-025359827.html)
+- [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 20260](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats)
 
 ### 2026-04-17
 - [Infosecurity Magazine - OpenClaw Exposes the Real Cybersecurity Risks of Agentic AI - April 17, 2026](https://www.infosecurity-magazine.com/opinions/openclaw-exposes-real-security/)
 - [Supply House Times - AI is moving faster than your security policies - April 17, 2026](https://www.supplyht.com/articles/107171-ai-is-moving-faster-than-your-security-policies)
+- [Arabian Post (UAE) - OpenClaw sharpens agentic AI security warning - April 17, 2026](https://thearabianpost.com/openclaw-sharpens-agentic-ai-security-warning/)
 
 ### 2026-04-16
 - [The National Tribune (AU) - OpenClaw And Security Risks Of AI Frenzy - April 16, 2026](https://www.nationaltribune.com.au/openclaw-and-security-risks-of-ai-frenzy/)
 
 ### 2026-04-15
-- [Twitter -  I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026](https://x.com/___4o____/status/2044382380316578108)
+- [Twitter - I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026](https://x.com/___4o____/status/2044382380316578108)
 - [Pune Times Mirror (IN) - Microsoft OpenClaw Copilot AI Sparks Bold Promise, Serious Fears - April 15, 2026](https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/)
 
 ### 2026-04-14
