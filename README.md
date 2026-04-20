@@ -41,6 +41,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-20
+- [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/)
+
 ### 2026-04-18
 - [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 2026](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats)
 
