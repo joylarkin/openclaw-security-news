@@ -15,7 +15,6 @@ Updated twice daily.
 
 ## Government Warnings About OpenClaw
 - [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&resultType=records)
-- [CISA.gov - Search for OpenClaw Advisories](https://www.cisa.gov/search?g=openclaw#gsc.tab=0&gsc.q=openclaw&gsc.page=1)
 - [CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424)
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search)
@@ -40,6 +39,9 @@ Updated twice daily.
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-04-21
+- [Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026](https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately)
 
 ### 2026-04-20
 - [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/)
