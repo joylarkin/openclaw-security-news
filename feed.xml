@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:10:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026</title>
+      <link>https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems</link>
+      <guid isPermaLink="true">https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026</title>
       <link>https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately</link>
@@ -19,6 +26,13 @@
       <link>https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/</link>
       <guid isPermaLink="true">https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>CNBC - SiIicon Valley’s AI agent hiccups: Wasted tokens and ‘chaotic’ systems - April 19, 2026</title>
+      <link>https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
@@ -2246,6 +2260,13 @@
       <guid isPermaLink="true">https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>SecurityScorecard - What Are Moltbot and Moltbook and What Happens When Agentic AI Assistants Scale Without Security - February 3, 2026</title>
+      <link>https://securityscorecard.com/blog/what-are-moltbot-and-moltbook-and-what-happens-when-agentic-ai-assistants-scale-without-security/</link>
+      <guid isPermaLink="true">https://securityscorecard.com/blog/what-are-moltbot-and-moltbook-and-what-happens-when-agentic-ai-assistants-scale-without-security/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026</title>
