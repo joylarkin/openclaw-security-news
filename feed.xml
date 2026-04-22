@@ -5,12 +5,19 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:42:24 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026</title>
       <link>https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems</link>
       <guid isPermaLink="true">https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>The Information - OpenClaw Struggles to Grow Up After Overnight Success - April 22, 2026</title>
+      <link>https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1275,6 +1282,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>DarkReading - Critical OpenClaw Vulnerability Exposes AI Agent Risks - March 2, 2026</title>
+      <link>https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks</link>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>SOCRadar - OpenClaw’s ClawJacked Vulnerability Explained, What Organizations Need to Know - March 2, 2026</title>
       <link>https://socradar.io/blog/openclaws-clawjacked-vulnerability/</link>
       <guid isPermaLink="true">https://socradar.io/blog/openclaws-clawjacked-vulnerability/</guid>
@@ -1485,13 +1499,6 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026</title>
-      <link>https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</link>
-      <guid isPermaLink="true">https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
       <title>TrendMicro - Malicious OpenClaw Skills Used to Distribute Atomic MacOS Stealer - February 23, 2026</title>
       <link>https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html</link>
       <guid isPermaLink="true">https://www.trendmicro.com/en_us/research/26/b/openclaw-skills-used-to-distribute-atomic-macos-stealer.html</guid>
@@ -1502,6 +1509,13 @@
       <title>Acronis - OpenClaw: Agentic AI in the wild — Architecture, adoption and emerging security risks - February 23, 2026</title>
       <link>https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/</link>
       <guid isPermaLink="true">https://www.acronis.com/en/tru/posts/openclaw-agentic-ai-in-the-wild-architecture-adoption-and-emerging-security-risks/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
+      <title>Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026</title>
+      <link>https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</link>
+      <guid isPermaLink="true">https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <category>Vendor Advisories</category>
     </item>
@@ -1590,6 +1604,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>DarkReading - Supply Chain Attack Secretly Installs OpenClaw for Cline Users - February 19, 2026</title>
+      <link>https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users</link>
+      <guid isPermaLink="true">https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>Microsoft - Running OpenClaw safely: identity, isolation, and runtime risk - February 19, 2026</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/</link>
       <guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/</guid>
@@ -1600,6 +1621,13 @@
       <title>Praetorian - Praetorian Guard finds critical flaws in OpenClaw – And What It Means for Your Software Supply Chain - February 19, 2026</title>
       <link>https://www.praetorian.com/blog/praetorian-guard-finds-critical-flaws-in-openclaw-and-what-it-means-for-your-software-supply-chain/</link>
       <guid isPermaLink="true">https://www.praetorian.com/blog/praetorian-guard-finds-critical-flaws-in-openclaw-and-what-it-means-for-your-software-supply-chain/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
+      <title>Immersive Labs - OpenClaw: What You Need To Know Before It Claws Its Way Into Your Organization - February 19, 2026</title>
+      <link>https://www.immersivelabs.com/resources/c7-blog/openclaw-what-you-need-to-know-before-it-claws-its-way-into-your-organization</link>
+      <guid isPermaLink="true">https://www.immersivelabs.com/resources/c7-blog/openclaw-what-you-need-to-know-before-it-claws-its-way-into-your-organization</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <category>Vendor Advisories</category>
     </item>
@@ -1663,13 +1691,6 @@
       <title>Cline - Unauthorized npm publish of Cline CLI cline@2.3.0 with modified postinstall script to install openclaw - February 17, 2026</title>
       <link>https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7</link>
       <guid isPermaLink="true">https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Heise Online - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026</title>
-      <link>https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</link>
-      <guid isPermaLink="true">https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1740,6 +1761,13 @@
       <title>CybersecurityNews - Threat Actors Attacking OpenClaw Configurations to Steal Login Credentials - February 17, 2026</title>
       <link>https://cybersecuritynews.com/threat-actors-attacking-openclaw-configurations/</link>
       <guid isPermaLink="true">https://cybersecuritynews.com/threat-actors-attacking-openclaw-configurations/</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Heise Online (DE) - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026</title>
+      <link>https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</link>
+      <guid isPermaLink="true">https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
