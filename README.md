@@ -40,11 +40,17 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-22
+- [TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026](https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems)
+
 ### 2026-04-21
 - [Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026](https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately)
 
 ### 2026-04-20
 - [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/)
+
+### 2026-04-19
+- [CNBC - SiIicon Valley’s AI agent hiccups: Wasted tokens and ‘chaotic’ systems - April 19, 2026](https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html)
 
 ### 2026-04-18
 - [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 2026](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats)
@@ -533,6 +539,7 @@ Updated twice daily.
 * [Xage Security - From Viral to Vulnerable: What the OpenClaw Saga Tells Us About Agentic AI Security - February 4, 2026](https://xage.com/blog/from-viral-to-vulnerable-what-the-openclaw-saga-tells-us-about-agentic-ai-security/)
 * [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
 * [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+* [SecurityScorecard - What Are Moltbot and Moltbook and What Happens When Agentic AI Assistants Scale Without Security - February 3, 2026](https://securityscorecard.com/blog/what-are-moltbot-and-moltbook-and-what-happens-when-agentic-ai-assistants-scale-without-security/)
 * [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
 * [Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/)
