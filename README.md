@@ -335,6 +335,7 @@ Updated twice daily.
 - [HelpNetSecurity - Fake troubleshooting tip on ClawHub leads to infostealer infection - February 23, 2026](https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/)
 - [CybersecurityNews - Google Suspends OpenClaw Users from Antigravity AI After OAuth Token Abuse - February 23, 2026](https://cybersecuritynews.com/google-suspends-openclaw-users/)
 - [Awesome Agents - An OpenClaw Agent Published a Firm's Internal Threat Intelligence to the Open Web. It Was Doing Exactly What It Was Told. - February 23, 2026](https://awesomeagents.ai/news/openclaw-agent-leaks-internal-threat-intelligence/)
+- [Malwarebytes - OpenClaw: What is it and can you use it safely? - February 23, 2026](https://www.malwarebytes.com/blog/news/2026/02/openclaw-what-is-it-and-can-you-use-it-safely)
 
 ### 2026-02-22
 - [Bloomberg - OpenClaw Might Be a Security Nightmare for Sam Altman - February 22, 2026](https://www.bloomberg.com/opinion/articles/2026-02-23/openclaw-may-be-a-security-nightmare-for-openai-s-sam-altman)
@@ -348,12 +349,12 @@ Updated twice daily.
 - [Slashdot.org - OpenClaw Security Fears Lead Meta, Other AI Firms To Restrict Its Use - February 20, 2026](https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use)
 
 ### 2026-02-19
+- [DarkReading - Supply Chain Attack Secretly Installs OpenClaw for Cline Users - February 19, 2026](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 - [Microsoft Threat Intelligence - Confirming a small but noticeable uptick in installations of OpenClaw initiated by Cline CLI supply chain compromise - February 19, 2026](https://x.com/MsftSecIntel/status/2024575596941263040)
 - [Institutional Investor - OpenClaw: The AI Agent Institutional Investors Need to Understand — But Shouldn't Touch - February 19, 2026](https://www.institutionalinvestor.com/article/openclaw-ai-agent-institutional-investors-need-understand-shouldnt-touch)
 - [The Financial Times - OpenClaw and the privacy problems of agentic AI](https://www.ft.com/content/f9ff060d-63b0-44f4-b46e-31a5545468db)
 - [The Verge - The AI security nightmare is here and it looks suspiciously like lobster - February 19, 2026](https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack)
 - [CSO - Six flaws found hiding in OpenClaw's plumbing - February 19, 2026](https://www.csoonline.com/article/4134540/six-flaws-found-hiding-in-openclaws-plumbing.html)
-- [DarkReading - Supply Chain Attack Secretly Installs OpenClaw for Cline Users - February 19, 2026](https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users)
 
 ### 2026-02-18
 - [Attack of the Fanboy - Meta bans OpenClaw over security fears, but insiders say the real risk is far worse - February 18, 2026](https://attackofthefanboy.com/tech/meta-bans-openclaw-over-security-fears-but-insiders-say-the-real-risk-is-far-worse/)
@@ -365,6 +366,7 @@ Updated twice daily.
 
 ### 2026-02-17
 - [Cline - Unauthorized npm publish of Cline CLI cline@2.3.0 with modified postinstall script to install openclaw - February 17, 2026](https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7)
+- [Heise Online - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026](https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html)
 - [eSecurity Planet - OpenClaw Flaw Enables AI Log Poisoning Risk - February 17, 2026](https://www.esecurityplanet.com/threats/openclaw-flaw-enables-ai-log-poisoning-risk/)
 - [WIRED - Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears - February 17, 2026](https://www.wired.com/story/meta-and-other-tech-firms-put-restrictions-on-use-of-openclaw-over-security-fears/)
 - [Infosecurity Magazine - Infostealer Targets OpenClaw to Loot Victim's Digital Life - February 17, 2026](https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/)
@@ -375,7 +377,6 @@ Updated twice daily.
 - [Security Boulevard - Authentication Under Fire: Why OpenClaw Needs ZTNA and AI Secure Protection - February 17, 2026](https://securityboulevard.com/2026/02/authentication-under-fire-why-openclaw-needs-ztna-and-aisecure-protection/)
 - [CybersecurityNews - OpenClaw AI Log Poisoning Vulnerability Allows Malicious Content Injection - February 17, 2026](https://cybersecuritynews.com/openclaw-ai-agent-log-poisoning/)
 - [CybersecurityNews - Threat Actors Attacking OpenClaw Configurations to Steal Login Credentials - February 17, 2026](https://cybersecuritynews.com/threat-actors-attacking-openclaw-configurations/)
-- [Heise Online (DE) - Over 60 security vulnerabilities in AI assistant OpenClaw resolved - February 17, 2026](https://www.heise.de/en/news/Over-60-security-vulnerabilities-in-AI-assistant-OpenClaw-resolved-11179476.html)
 
 ### 2026-02-16
 - [TechCrunch - After all the hype, some AI experts don't think OpenClaw is all that exciting - February 16, 2026](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/)
