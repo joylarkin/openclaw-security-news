@@ -5,8 +5,22 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:47:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Forbes - Problems With OpenClaw? You’re Not Alone - April 22, 2026</title>
+      <link>https://www.forbes.com/sites/johnwerner/2026/04/22/problems-with-openclaw-youre-not-alone/</link>
+      <guid isPermaLink="true">https://www.forbes.com/sites/johnwerner/2026/04/22/problems-with-openclaw-youre-not-alone/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>The Information - OpenClaw Struggles to Grow Up After Overnight Success - April 22, 2026</title>
+      <link>https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026</title>
       <link>https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems</link>
@@ -15,9 +29,9 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>The Information - OpenClaw Struggles to Grow Up After Overnight Success - April 22, 2026</title>
-      <link>https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success</guid>
+      <title>Born/City (DE) - OpenClaw: KI-System löst globale Sicherheitskrise aus - April 22, 2026</title>
+      <link>https://borncity.com/news/openclaw-ki-system-loest-globale-sicherheitskrise-aus/</link>
+      <guid isPermaLink="true">https://borncity.com/news/openclaw-ki-system-loest-globale-sicherheitskrise-aus/</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -134,6 +148,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>Institutional Investor - Institutional Investors Take Note: the OpenClaw Security Threat Is No Longer Theoretical - April 9, 2026</title>
+      <link>https://www.institutionalinvestor.com/article/institutional-investors-take-note-openclaw-security-threat-no-longer-theoretical</link>
+      <guid isPermaLink="true">https://www.institutionalinvestor.com/article/institutional-investors-take-note-openclaw-security-threat-no-longer-theoretical</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>TechBullion (UK) - OpenClaw Has 230,000 GitHub Stars and a Security Problem – This Is How the Industry Is Responding - April 9, 2026</title>
       <link>https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/</link>
       <guid isPermaLink="true">https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/</guid>
@@ -183,7 +204,7 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>BBC *UK) - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026</title>
+      <title>BBC (UK) - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026</title>
       <link>https://www.bbc.com/news/articles/cy41n17e23go</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/cy41n17e23go</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
