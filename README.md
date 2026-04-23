@@ -41,8 +41,10 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-04-22
-- [TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026](https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems)
+- [Forbes - Problems With OpenClaw? You’re Not Alone - April 22, 2026](https://www.forbes.com/sites/johnwerner/2026/04/22/problems-with-openclaw-youre-not-alone/)
 - [The Information - OpenClaw Struggles to Grow Up After Overnight Success - April 22, 2026](https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success)
+- [TechRadar - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 22, 2026](https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems)
+- [Born/City (DE) - OpenClaw: KI-System löst globale Sicherheitskrise aus - April 22, 2026](https://borncity.com/news/openclaw-ki-system-loest-globale-sicherheitskrise-aus/)
 
 ### 2026-04-21
 - [Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026](https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately)
@@ -80,6 +82,7 @@ Updated twice daily.
 - [Times of India - Salesforce CEO Marc Benioff on the AI agent OpenClaw that Sam Altman spent billions on: It cannot be trusted because... - April 10, 2026](https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-on-the-ai-agent-openclaw-that-sam-altman-spent-billions-on-it-cannot-be-trusted-because-/articleshow/130169331.cms)
 
 ### 2026-04-09
+- [Institutional Investor - Institutional Investors Take Note: the OpenClaw Security Threat Is No Longer Theoretical - April 9, 2026](https://www.institutionalinvestor.com/article/institutional-investors-take-note-openclaw-security-threat-no-longer-theoretical)
 - [TechBullion (UK) - OpenClaw Has 230,000 GitHub Stars and a Security Problem – This Is How the Industry Is Responding - April 9, 2026](https://techbullion.com/openclaw-has-230000-github-stars-and-a-security-problem-this-is-how-the-industry-is-responding/)
 
 ### 2026-04-08
@@ -91,7 +94,7 @@ Updated twice daily.
 
 ### 2026-04-06
 - [Blink - OpenClaw CVEs 2026: Complete Vulnerability Timeline - April 6, 2026](https://blink.new/blog/openclaw-2026-cve-complete-timeline-security-history)
-- [BBC *UK) - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
+- [BBC (UK) - How China fell for a lobster: What an AI assistant tells us about Beijing's ambition - April 6, 2026](https://www.bbc.com/news/articles/cy41n17e23go)
 - [The AI Journal - The Identity Problem Agent Swarms Can’t Ignore - April 6, 2026](https://aijourn.com/the-identity-problem-agent-swarms-cant-ignore/)
 
 ### 2026-04-04
