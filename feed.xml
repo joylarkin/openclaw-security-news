@@ -5,8 +5,22 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:51:45 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026</title>
+      <link>https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html</link>
+      <guid isPermaLink="true">https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>IBM - Agentic AI is growing fast, as are the vulnerabilities - April 23, 2026</title>
+      <link>https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities</link>
+      <guid isPermaLink="true">https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>Forbes - Problems With OpenClaw? You’re Not Alone - April 22, 2026</title>
       <link>https://www.forbes.com/sites/johnwerner/2026/04/22/problems-with-openclaw-youre-not-alone/</link>
