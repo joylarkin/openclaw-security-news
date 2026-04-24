@@ -40,6 +40,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-24
+- [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html)
+
+### 2026-04-23
+- [IBM - Agentic AI is growing fast, as are the vulnerabilities - April 23, 2026](https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities)
+
 ### 2026-04-22
 - [Forbes - Problems With OpenClaw? You’re Not Alone - April 22, 2026](https://www.forbes.com/sites/johnwerner/2026/04/22/problems-with-openclaw-youre-not-alone/)
 - [The Information - OpenClaw Struggles to Grow Up After Overnight Success - April 22, 2026](https://www.theinformation.com/articles/openclaw-struggles-grow-overnight-success)
