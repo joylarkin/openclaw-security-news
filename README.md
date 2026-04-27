@@ -40,11 +40,14 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-27
+- [Corporate Compliance Insights - OpenClaw Reveals Hidden Security Risks of Agentic AI - April 27, 2026](https://www.corporatecomplianceinsights.com/openclaw-reveals-hidden-risks-agentic-ai/)
+- [TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026](https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily)
+- [CyberPress - Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks - April 27, 2026](https://cyberpress.org/multiple-openclaw-vulnerabilities/)
+
 ### 2026-04-26
-- [Weandthecolor.com - OpenClaw Hardware Requirements: Everything You Need to Run This AI Agent in 2026 - April 26, 2026](https://weandthecolor.com/openclaw-hardware-requirements-everything-you-need-to-run-this-ai-agent-in-2026/209415)
 
 ### 2026-04-25
-- [Geeky Gadgets - Why OpenClaw is Replacing Passive AI with Real-World Task Automation - April 25, 2026](https://www.geeky-gadgets.com/?p=490827)
 
 ### 2026-04-24
 - [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html)
