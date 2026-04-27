@@ -5,20 +5,27 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2026 19:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:35:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Weandthecolor.com - OpenClaw Hardware Requirements: Everything You Need to Run This AI Agent in 2026 - April 26, 2026</title>
-      <link>https://weandthecolor.com/openclaw-hardware-requirements-everything-you-need-to-run-this-ai-agent-in-2026/209415</link>
-      <guid isPermaLink="true">https://weandthecolor.com/openclaw-hardware-requirements-everything-you-need-to-run-this-ai-agent-in-2026/209415</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <title>Corporate Compliance Insights - OpenClaw Reveals Hidden Security Risks of Agentic AI - April 27, 2026</title>
+      <link>https://www.corporatecomplianceinsights.com/openclaw-reveals-hidden-risks-agentic-ai/</link>
+      <guid isPermaLink="true">https://www.corporatecomplianceinsights.com/openclaw-reveals-hidden-risks-agentic-ai/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>Geeky Gadgets - Why OpenClaw is Replacing Passive AI with Real-World Task Automation - April 25, 2026</title>
-      <link>https://www.geeky-gadgets.com/?p=490827</link>
-      <guid isPermaLink="true">https://www.geeky-gadgets.com/?p=490827</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <title>TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026</title>
+      <link>https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily</link>
+      <guid isPermaLink="true">https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>CyberPress - Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks - April 27, 2026</title>
+      <link>https://cyberpress.org/multiple-openclaw-vulnerabilities/</link>
+      <guid isPermaLink="true">https://cyberpress.org/multiple-openclaw-vulnerabilities/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
