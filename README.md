@@ -40,6 +40,13 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-04-29
+- [The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026](https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/)
+- [Lao Dong (VN) - OpenClaw and business security problems - April 29, 2026](https://news.laodong.vn/cong-nghe/openclaw-va-bai-toan-bao-mat-doanh-nghiep-1693566.ldo)
+
+
+### 2026-04-28
+
 ### 2026-04-27
 - [Corporate Compliance Insights - OpenClaw Reveals Hidden Security Risks of Agentic AI - April 27, 2026](https://www.corporatecomplianceinsights.com/openclaw-reveals-hidden-risks-agentic-ai/)
 - [TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026](https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily)
