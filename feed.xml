@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 10:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:18:28 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026</title>
