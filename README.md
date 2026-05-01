@@ -40,6 +40,11 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-01
+- [SecurityWeek - Hugging Face, ClawHub Abused for Malware Distribution - May 1, 2026](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
+
+### 2026-04-30
+
 ### 2026-04-29
 - [The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026](https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/)
 - [Lao Dong (VN) - OpenClaw and business security problems - April 29, 2026](https://news.laodong.vn/cong-nghe/openclaw-va-bai-toan-bao-mat-doanh-nghiep-1693566.ldo)
@@ -509,6 +514,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Acronis Threat Research Unit - Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw - April 30, 2026](https://www.acronis.com/en/tru/posts/poisoning-the-well-ai-supply-chain-attacks-on-hugging-face-and-openclaw/)
 * [Qualys - Anatomy of an Autonomous AI Agent Risk: How Qualys ETM Connects the Dots on OpenClaw - April 13, 2026](https://blog.qualys.com/product-tech/2026/04/13/anatomy-autonomous-ai-agent-risk-qualys-etm-openclaw)
 * [Barracuda Networks - OpenClaw security risks: What security teams need to know about agentic AI - April 9, 2026](https://blog.barracuda.com/2026/04/09/openclaw-security-risks-agentic-ai)
 * [Cyble - The Week in Vulnerabilities: OpenClaw, FreeBSD, F5 BIG-IP, and Critical ICS Bugs - April 9, 2026](https://cyble.com/blog/cyble-weekly-vulnerability-report-apr-08/)
