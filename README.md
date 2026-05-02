@@ -43,8 +43,6 @@ Updated twice daily.
 ### 2026-05-01
 - [SecurityWeek - Hugging Face, ClawHub Abused for Malware Distribution - May 1, 2026](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 
-### 2026-04-30
-
 ### 2026-04-29
 - [The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026](https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/)
 - [Lao Dong (VN) - OpenClaw and business security problems - April 29, 2026](https://news.laodong.vn/cong-nghe/openclaw-va-bai-toan-bao-mat-doanh-nghiep-1693566.ldo)
