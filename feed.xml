@@ -5,12 +5,12 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 08:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:10:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026</title>
-      <link>https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</link>
-      <guid isPermaLink="true">https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</guid>
+      <link>https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html</link>
+      <guid isPermaLink="true">https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -48,6 +48,13 @@
       <guid isPermaLink="true">https://news.laodong.vn/cong-nghe/openclaw-va-bai-toan-bao-mat-doanh-nghiep-1693566.ldo</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Okta Threat Intelligence - Phishing the agent: Why AI guardrails aren’t enough - April 28, 2026</title>
+      <link>https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</link>
+      <guid isPermaLink="true">https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Corporate Compliance Insights - OpenClaw Reveals Hidden Security Risks of Agentic AI - April 27, 2026</title>
