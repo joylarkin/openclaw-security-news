@@ -425,9 +425,9 @@ Updated twice daily.
 - [trendingtopics.eu - NanoClaw Challenges OpenClaw with Container-Isolated AI Agents for Enhanced Security - February 12, 2026](https://www.trendingtopics.eu/nanoclaw-challenges-openclaw-with-container-isolated-ai-agents-for-enhanced-security/)
 
 ### 2026-02-11
+- [Security Boulevard - OpenClaw went viral. So did its security vulnerabilities. - February 11, 2026](https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/)
 - [Help Net Security - OpenClaw Scanner: Open-source tool detects autonomous AI agents - February 11, 2026](https://www.helpnetsecurity.com/2026/02/12/openclaw-scanner-open-source-tool-detects-autonomous-ai-agents/)
 - [CSO Online - What CISOs need to know about the OpenClaw security nightmare - February 11, 2026](https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html)
-- [Security Boulevard - OpenClaw went viral. So did its security vulnerabilities. - February 11, 2026](https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/)
 - [IBM - OpenClaw and Claude Opus 4.6: Where is AI agent security headed? - February 11, 2026](https://www.ibm.com/think/podcasts/security-intelligence/openclaw-claude-opus-4-6-ai-agent-security)
 - [C-sharpcorner.com - Operating Cost of OpenClaw: What It Is and How to Predict Monthly Running Costs - February 11, 2026](https://www.c-sharpcorner.com/article/operating-cost-of-openclaw-what-it-is-and-how-to-predict-monthly-running-costs/)
 
@@ -464,9 +464,9 @@ Updated twice daily.
 ### 2026-02-04
 - [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/)
 - [Security Boulevard - The ‘Absolute Nightmare’ in Your DMs: OpenClaw Marries Extreme Utility with ‘Unacceptable’ Risk - February 4, 2026](https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/)
+- [IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026](https://www.youtube.com/watch?v=F0QCrxwwSg0)
 - [The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
 - [Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026](https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress)
-- [IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026](https://www.youtube.com/watch?v=F0QCrxwwSg0)
 - [SECURITY.COM - The Rise of OpenClaw - February 4, 2026](https://www.security.com/expert-perspectives/rise-openclaw)
 - [the-decoder.com - OpenClaw's OpenDoor problem is so bad that installing malware yourself might save time - February 4, 2026](https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/)
 
