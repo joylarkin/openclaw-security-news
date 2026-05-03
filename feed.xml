@@ -5,8 +5,15 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 09:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:54:01 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026</title>
+      <link>https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</link>
+      <guid isPermaLink="true">https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>SecurityWeek - Hugging Face, ClawHub Abused for Malware Distribution - May 1, 2026</title>
       <link>https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/</link>
@@ -25,6 +32,13 @@
       <title>The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026</title>
       <link>https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/</link>
       <guid isPermaLink="true">https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Motasem Hamdan - OpenClaw AI Agent Just Got Hacked - April 29, 2026</title>
+      <link>https://www.youtube.com/watch?v=Vu6qQ_KzrOQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Vu6qQ_KzrOQ</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -988,6 +1002,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>arxiv.org - Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw - March 13, 2026</title>
+      <link>https://arxiv.org/html/2603.12644v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2603.12644v1</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>South China Morning Post - Hong Kong government workers warned not to install OpenClaw due to security risks - March 13, 2026</title>
       <link>https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</link>
       <guid isPermaLink="true">https://www.scmp.com/news/hong-kong/society/article/3346552/hong-kong-government-workers-warned-not-install-openclaw-due-security-risks</guid>
@@ -1405,6 +1426,13 @@
       <link>https://www.youtube.com/shorts/rPyaV1CqIKk</link>
       <guid isPermaLink="true">https://www.youtube.com/shorts/rPyaV1CqIKk</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Vasilij Nevlev | AiGentic Lab - 7 Reasons Why OpenClaw Is Banned by Enterprise Security Teams - February 27, 2026</title>
+      <link>https://www.youtube.com/watch?v=EHyZNT5knAk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EHyZNT5knAk</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
@@ -1982,6 +2010,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>Security Boulevard - OpenClaw went viral. So did its security vulnerabilities. - February 11, 2026</title>
+      <link>https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</link>
+      <guid isPermaLink="true">https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>IBM - OpenClaw and Claude Opus 4.6: Where is AI agent security headed? - February 11, 2026</title>
       <link>https://www.ibm.com/think/podcasts/security-intelligence/openclaw-claude-opus-4-6-ai-agent-security</link>
       <guid isPermaLink="true">https://www.ibm.com/think/podcasts/security-intelligence/openclaw-claude-opus-4-6-ai-agent-security</guid>
@@ -2276,6 +2311,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026</title>
+      <link>https://www.youtube.com/watch?v=F0QCrxwwSg0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=F0QCrxwwSg0</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>SECURITY.COM - The Rise of OpenClaw - February 4, 2026</title>
       <link>https://www.security.com/expert-perspectives/rise-openclaw</link>
       <guid isPermaLink="true">https://www.security.com/expert-perspectives/rise-openclaw</guid>
@@ -2288,6 +2330,13 @@
       <guid isPermaLink="true">https://the-decoder.com/openclaws-opendoor-problem-is-so-bad-that-installing-malware-yourself-might-save-time/</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Cyera Research Labs - The OpenClaw Security Saga: How AI Adoption Outpaced Security Boundaries - February 4, 2026</title>
+      <link>https://www.cyera.com/research/the-openclaw-security-saga-how-ai-adoption-outpaced-security-boundaries</link>
+      <guid isPermaLink="true">https://www.cyera.com/research/the-openclaw-security-saga-how-ai-adoption-outpaced-security-boundaries</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Giskard - OpenClaw security vulnerabilities include data leakage and prompt injection risks - February 4, 2026</title>
@@ -2538,6 +2587,13 @@
       <title>Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026</title>
       <link>https://mashable.com/article/clawdbot-ai-security-risks</link>
       <guid isPermaLink="true">https://mashable.com/article/clawdbot-ai-security-risks</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Low Level - openclaw security situation is insane - January 27, 2026</title>
+      <link>https://www.youtube.com/watch?v=kSno1-xOjwI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kSno1-xOjwI</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
