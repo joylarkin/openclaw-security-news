@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 08:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 09:21:25 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026</title>
@@ -2003,6 +2003,13 @@
       <category>Vendor Advisories</category>
     </item>
     <item>
+      <title>Security Boulevard - OpenClaw went viral. So did its security vulnerabilities. - February 11, 2026</title>
+      <link>https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</link>
+      <guid isPermaLink="true">https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>Help Net Security - OpenClaw Scanner: Open-source tool detects autonomous AI agents - February 11, 2026</title>
       <link>https://www.helpnetsecurity.com/2026/02/12/openclaw-scanner-open-source-tool-detects-autonomous-ai-agents/</link>
       <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/02/12/openclaw-scanner-open-source-tool-detects-autonomous-ai-agents/</guid>
@@ -2013,13 +2020,6 @@
       <title>CSO Online - What CISOs need to know about the OpenClaw security nightmare - February 11, 2026</title>
       <link>https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html</link>
       <guid isPermaLink="true">https://www.csoonline.com/article/4129867/what-cisos-need-to-know-about-clawdbot-i-mean-moltbot-i-mean-openclaw.html</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>Security Boulevard - OpenClaw went viral. So did its security vulnerabilities. - February 11, 2026</title>
-      <link>https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</link>
-      <guid isPermaLink="true">https://securityboulevard.com/2026/02/openclaw-went-viral-so-did-its-security-vulnerabilities/</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -2304,6 +2304,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026</title>
+      <link>https://www.youtube.com/watch?v=F0QCrxwwSg0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=F0QCrxwwSg0</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026</title>
       <link>https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</link>
       <guid isPermaLink="true">https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare</guid>
@@ -2314,13 +2321,6 @@
       <title>Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026</title>
       <link>https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress</guid>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
-      <title>IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026</title>
-      <link>https://www.youtube.com/watch?v=F0QCrxwwSg0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=F0QCrxwwSg0</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
