@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 18:41:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:02:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026</title>
@@ -15,11 +15,25 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>HackRead - 45,000 Attacks, 5,300+ Backdoors Tied to China-Linked Cybercrime Operation - May 1, 2026</title>
+      <link>https://hackread.com/45k-attacks-53k-backdoor-china-cybercrime-operation/</link>
+      <guid isPermaLink="true">https://hackread.com/45k-attacks-53k-backdoor-china-cybercrime-operation/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>SecurityWeek - Hugging Face, ClawHub Abused for Malware Distribution - May 1, 2026</title>
       <link>https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/</link>
       <guid isPermaLink="true">https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>SOCRadar Threat Research Team - Chinese Cybercrime Infrastructure Detected: Automated Exploitation &amp; Harvesting Infrastructure - April 30, 2026</title>
+      <link>https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/</link>
+      <guid isPermaLink="true">https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Acronis Threat Research Unit - Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw - April 30, 2026</title>
