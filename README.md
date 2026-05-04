@@ -40,13 +40,6 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
-### 2025-05-04
-- [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
-
-### 2025-05-03
-
-### 2025-05-02
-
 ### 2026-05-01
 - [CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026](https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html)
 - [HackRead - 45,000 Attacks, 5,300+ Backdoors Tied to China-Linked Cybercrime Operation - May 1, 2026](https://hackread.com/45k-attacks-53k-backdoor-china-cybercrime-operation/)
@@ -520,6 +513,9 @@ Updated twice daily.
 
 ### 2026-01-26
 - [Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026](https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/)
+
+### 2025-05-04
+- [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
 
 <!-- HEADLINES_END -->
 
