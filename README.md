@@ -49,6 +49,7 @@ Updated twice daily.
 
 ### 2026-05-01
 - [CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026](https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html)
+- [HackRead - 45,000 Attacks, 5,300+ Backdoors Tied to China-Linked Cybercrime Operation - May 1, 2026](https://hackread.com/45k-attacks-53k-backdoor-china-cybercrime-operation/)
 - [SecurityWeek - Hugging Face, ClawHub Abused for Malware Distribution - May 1, 2026](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 
 ### 2026-04-29
@@ -526,6 +527,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [SOCRadar Threat Research Team - Chinese Cybercrime Infrastructure Detected: Automated Exploitation & Harvesting Infrastructure - April 30, 2026](https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/)
 * [Acronis Threat Research Unit - Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw - April 30, 2026](https://www.acronis.com/en/tru/posts/poisoning-the-well-ai-supply-chain-attacks-on-hugging-face-and-openclaw/)
 * [Okta Threat Intelligence - Phishing the agent: Why AI guardrails aren’t enough - April 28, 2026](https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/)
 * [Qualys - Anatomy of an Autonomous AI Agent Risk: How Qualys ETM Connects the Dots on OpenClaw - April 13, 2026](https://blog.qualys.com/product-tech/2026/04/13/anatomy-autonomous-ai-agent-risk-qualys-etm-openclaw)
