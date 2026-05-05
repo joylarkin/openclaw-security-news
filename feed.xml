@@ -5,8 +5,22 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 19:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 03:34:54 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026</title>
+      <link>https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/</link>
+      <guid isPermaLink="true">https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026</title>
+      <link>https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026</title>
       <link>https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html</link>
@@ -2626,13 +2640,6 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
-      <title>The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026</title>
-      <link>https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents</guid>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
-      <category>OpenClaw Headlines</category>
-    </item>
-    <item>
       <title>NVD National Vulnerability Database - Search for OpenClaw</title>
       <link>https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records</link>
       <guid isPermaLink="true">https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records</guid>
@@ -2661,6 +2668,12 @@
       <link>https://cve.cert.hr/?vendor=openclaw</link>
       <guid isPermaLink="true">https://cve.cert.hr/?vendor=openclaw</guid>
       <category>Government Warnings</category>
+    </item>
+    <item>
+      <title>Day Since Last OpenClaw CVE Tracker</title>
+      <link>https://days-since-openclaw-cve.com</link>
+      <guid isPermaLink="true">https://days-since-openclaw-cve.com</guid>
+      <category>Observability</category>
     </item>
     <item>
       <title>OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness</title>
