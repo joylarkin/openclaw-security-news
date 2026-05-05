@@ -29,6 +29,7 @@ Updated twice daily.
 ---
 
 ## OpenClaw Observability
+- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
 - [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
@@ -39,6 +40,14 @@ Updated twice daily.
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-05-04
+- [Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026](https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/)
+- [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
+
+### 2026-05-03
+
+### 2026-05-02
 
 ### 2026-05-01
 - [CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026](https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html)
@@ -73,6 +82,7 @@ Updated twice daily.
 
 ### 2026-04-21
 - [Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026](https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately)
+- [TechRadar Pro - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 21, 2026](https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems)
 
 ### 2026-04-20
 - [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/)
