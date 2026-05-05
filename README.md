@@ -45,10 +45,6 @@ Updated twice daily.
 - [Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026](https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/)
 - [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
 
-### 2026-05-03
-
-### 2026-05-02
-
 ### 2026-05-01
 - [CSO Online - AI agents can bypass guardrails and put credentials at risk, Okta study finds - May 1, 2026](https://www.csoonline.com/article/4166133/ai-agents-can-bypass-guardrails-and-put-credentials-at-risk-okta-study-finds.html)
 - [HackRead - 45,000 Attacks, 5,300+ Backdoors Tied to China-Linked Cybercrime Operation - May 1, 2026](https://hackread.com/45k-attacks-53k-backdoor-china-cybercrime-operation/)
@@ -82,7 +78,6 @@ Updated twice daily.
 
 ### 2026-04-21
 - [Centre for Cybersecurity Belgium - Warning: Privilege Escalation in OpenClaw, Patch Immediately! - April 21, 2026](https://ccb.belgium.be/advisories/warning-privilege-escalation-openclaw-patch-immediately)
-- [TechRadar Pro - 'The math is simple': OpenClaw 'Trojan Horse' AI agents give hackers full control of 28,000+ systems - April 21, 2026](https://www.techradar.com/pro/security/the-math-is-simple-openclaw-trojan-horse-ai-agents-give-hackers-full-control-of-28-000-systems)
 
 ### 2026-04-20
 - [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/)
@@ -523,9 +518,6 @@ Updated twice daily.
 
 ### 2026-01-26
 - [Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026](https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/)
-
-### 2025-05-04
-- [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
 
 <!-- HEADLINES_END -->
 
