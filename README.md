@@ -72,6 +72,10 @@ Updated twice daily.
 - [TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026](https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily)
 - [CyberPress - Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks - April 27, 2026](https://cyberpress.org/multiple-openclaw-vulnerabilities/)
 
+### 2026-04-26
+
+### 2026-04-25
+
 ### 2026-04-24
 - [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html)
 
