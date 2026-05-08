@@ -41,6 +41,9 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-07
+- [Pypi.org - agentsec-eval added to PyPI - May 7, 2026](https://pypi.org/project/agentsec-eval/)
+
 ### 2026-05-04
 - [Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026](https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/)
 - [The Information - SAP Moves to Block OpenClaw and Other Unauthorized AI Agents - May 4, 2026](https://www.theinformation.com/articles/sap-moves-block-openclaw-unauthorized-ai-agents)
