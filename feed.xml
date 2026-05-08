@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 16:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:22:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Voice of Emirates (UAE) - The “OpenClaw” Threat: Nemotron Labs Warns of New Class of Autonomous AI Exploits - May 8, 2026</title>
@@ -22,10 +22,31 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>flyingpenguin - OpenClaw is Cooked: 433 CVEs Patched by Agents That Can’t Fix What’s Broken - May 7, 2026</title>
+      <link>https://www.flyingpenguin.com/openclaw-is-cooked-433-cves-patched-by-agents-that-cant-fix-whats-broken/</link>
+      <guid isPermaLink="true">https://www.flyingpenguin.com/openclaw-is-cooked-433-cves-patched-by-agents-that-cant-fix-whats-broken/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>Security Brief UK -  Malicious OpenClaw skill spreads Remcos RAT &amp; GhostLoader - May 7, 2026</title>
       <link>https://securitybrief.co.uk/story/malicious-openclaw-skill-spreads-remcos-rat-ghostloader</link>
       <guid isPermaLink="true">https://securitybrief.co.uk/story/malicious-openclaw-skill-spreads-remcos-rat-ghostloader</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>VentureBeat - One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it - May 5, 2026</title>
+      <link>https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner</link>
+      <guid isPermaLink="true">https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>MEXC - OpenClaw Faces Stability Issues Amid Plugin Overhaul - May 5, 2026</title>
+      <link>https://www.mexc.co/news/1073056</link>
+      <guid isPermaLink="true">https://www.mexc.co/news/1073056</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
