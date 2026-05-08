@@ -29,10 +29,10 @@ Updated twice daily.
 ---
 
 ## OpenClaw Observability
-- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥 
-- [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
-- [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
+- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
+- [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
+- [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
 
 
 ---
@@ -595,6 +595,7 @@ Updated twice daily.
 * [Xage Security - From Viral to Vulnerable: What the OpenClaw Saga Tells Us About Agentic AI Security - February 4, 2026](https://xage.com/blog/from-viral-to-vulnerable-what-the-openclaw-saga-tells-us-about-agentic-ai-security/)
 * [Snyk - Inside the 'clawdhub' Malicious Campaign: AI Agent Skills Drop Reverse Shells on OpenClaw Marketplace - February 4, 2026](https://snyk.io/articles/clawdhub-malicious-campaign-ai-agent-skills/)
 * [CrowdStrike - What Security Teams Need to Know About OpenClaw, the AI Super Agent - February 4, 2026](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/)
+* [SANS Technology Institute - Detecting and Monitoring OpenClaw (clawdbot, moltbot) - February 3, 2026](https://isc.sans.edu/diary/32678)
 * [SecurityScorecard - What Are Moltbot and Moltbook and What Happens When Agentic AI Assistants Scale Without Security - February 3, 2026](https://securityscorecard.com/blog/what-are-moltbot-and-moltbook-and-what-happens-when-agentic-ai-assistants-scale-without-security/)
 * [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
 * [Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
