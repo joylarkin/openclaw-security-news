@@ -41,8 +41,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-08
+- [Voice of Emirates (UAE) - The “OpenClaw” Threat: Nemotron Labs Warns of New Class of Autonomous AI Exploits - May 8, 2026](https://www.voiceofemirates.com/en/science-and-tech/ai/2026/05/08/the-openclaw-threat-nemotron-labs-warns-of-new-class-of-autonomous-ai-exploits/)
+
 ### 2026-05-07
-- [Pypi.org - agentsec-eval added to PyPI - May 7, 2026](https://pypi.org/project/agentsec-eval/)
+- [Terra Security - We Asked OpenClaw How to Hack It. It Gave Us the Blueprint - May 7, 2026](https://www.terra.security/blog/openclaw-vulnerability-research)
+- [Security Brief UK -  Malicious OpenClaw skill spreads Remcos RAT & GhostLoader - May 7, 2026](https://securitybrief.co.uk/story/malicious-openclaw-skill-spreads-remcos-rat-ghostloader)
 
 ### 2026-05-04
 - [Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026](https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/)
@@ -528,6 +532,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Zscaler - Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader - May 5, 2026](https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader)
 * [SOCRadar Threat Research Team - Chinese Cybercrime Infrastructure Detected: Automated Exploitation & Harvesting Infrastructure - April 30, 2026](https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/)
 * [Acronis Threat Research Unit - Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw - April 30, 2026](https://www.acronis.com/en/tru/posts/poisoning-the-well-ai-supply-chain-attacks-on-hugging-face-and-openclaw/)
 * [Okta Threat Intelligence - Phishing the agent: Why AI guardrails aren’t enough - April 28, 2026](https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/)
