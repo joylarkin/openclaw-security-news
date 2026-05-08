@@ -29,7 +29,7 @@ Updated twice daily.
 ---
 
 ## OpenClaw Observability
-- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)
+- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥 
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
 - [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
@@ -46,7 +46,12 @@ Updated twice daily.
 
 ### 2026-05-07
 - [Terra Security - We Asked OpenClaw How to Hack It. It Gave Us the Blueprint - May 7, 2026](https://www.terra.security/blog/openclaw-vulnerability-research)
+- [flyingpenguin - OpenClaw is Cooked: 433 CVEs Patched by Agents That Can’t Fix What’s Broken - May 7, 2026](https://www.flyingpenguin.com/openclaw-is-cooked-433-cves-patched-by-agents-that-cant-fix-whats-broken/)
 - [Security Brief UK -  Malicious OpenClaw skill spreads Remcos RAT & GhostLoader - May 7, 2026](https://securitybrief.co.uk/story/malicious-openclaw-skill-spreads-remcos-rat-ghostloader)
+
+### 2026-05-05
+- [VentureBeat - One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it - May 5, 2026](https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner)
+- [MEXC - OpenClaw Faces Stability Issues Amid Plugin Overhaul - May 5, 2026](https://www.mexc.co/news/1073056)
 
 ### 2026-05-04
 - [Federal News Network - Mitigating risk from emerging agentic AI in federal environments - May 4, 2026](https://federalnewsnetwork.com/commentary/2026/05/mitigating-risk-from-emerging-agentic-ai-in-federal-environments/)
@@ -66,10 +71,6 @@ Updated twice daily.
 - [Corporate Compliance Insights - OpenClaw Reveals Hidden Security Risks of Agentic AI - April 27, 2026](https://www.corporatecomplianceinsights.com/openclaw-reveals-hidden-risks-agentic-ai/)
 - [TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026](https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily)
 - [CyberPress - Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks - April 27, 2026](https://cyberpress.org/multiple-openclaw-vulnerabilities/)
-
-### 2026-04-26
-
-### 2026-04-25
 
 ### 2026-04-24
 - [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html)
