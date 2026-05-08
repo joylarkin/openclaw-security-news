@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 09:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:48:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Pypi.org - agentsec-eval added to PyPI - May 7, 2026</title>
