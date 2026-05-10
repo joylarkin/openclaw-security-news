@@ -29,7 +29,7 @@ Updated twice daily.
 ---
 
 ## OpenClaw Observability
-- [Day Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥
+- [Days Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
 - [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
@@ -604,6 +604,7 @@ Updated twice daily.
 * [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities)
 * [Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys)
 * [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/)
+* [ToxSec - OpenClaw Defaults Ship Insecure and Shodan Already Found Them - January 29, 2026](https://www.toxsec.com/p/openclaw-is-a-wildly-insecure)
 * [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/)
 * [GitGuardian - OpenClaw (Moltbot) Personal Assistant Goes Viral – And So Do Your Secrets - January 29, 2026](https://blog.gitguardian.com/moltbot-personal-assistant-goes-viral-and-so-do-your-secrets/)
 * [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare) * [Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026](https://ethiack.com/news/blog/one-click-rce-openclaw)
