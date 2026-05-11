@@ -5,12 +5,19 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 19:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:24:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026</title>
       <link>https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/</link>
       <guid isPermaLink="true">https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>CNBC - Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits - May 11, 2026</title>
+      <link>https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
