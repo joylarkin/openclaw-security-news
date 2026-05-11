@@ -42,7 +42,9 @@ Updated twice daily.
 <!-- HEADLINES_START -->
 
 ### 2026-05-11
+
 - [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/)
+- [CNBC - Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits - May 11, 2026]https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)
 - [SC Media - What OpenClaw revealed about the agent security model - May 11, 2026](https://www.scworld.com/perspective/what-openclaw-revealed-about-the-agent-security-model)
 - [QA Financial - OpenClaw panic forces Chinese banks into new AI governance and testing phase - May 11, 2026](https://qa-financial.com/openclaw-panic-forces-chinese-banks-into-new-ai-governance-and-testing-phase/)
 - [The Telegraph (UK) - AI ‘agents of chaos’ run riot inside companies - May 11, 2026](https://www.telegraph.co.uk/business/2026/05/11/ai-agents-of-chaos-run-riot-inside-companies/)
@@ -536,6 +538,7 @@ Updated twice daily.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Google Threat Intelligence - GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access - May 11, 2026](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/)
 * [Zscaler - Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader - May 5, 2026](https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader)
 * [SOCRadar Threat Research Team - Chinese Cybercrime Infrastructure Detected: Automated Exploitation & Harvesting Infrastructure - April 30, 2026](https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/)
 * [Acronis Threat Research Unit - Poisoning the well: AI supply chain attacks on Hugging Face and OpenClaw - April 30, 2026](https://www.acronis.com/en/tru/posts/poisoning-the-well-ai-supply-chain-attacks-on-hugging-face-and-openclaw/)
