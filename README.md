@@ -44,7 +44,7 @@ Updated twice daily.
 ### 2026-05-11
 
 - [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/)
-- [CNBC - Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits - May 11, 2026]https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)
+- [CNBC - Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits - May 11, 2026](https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)
 - [SC Media - What OpenClaw revealed about the agent security model - May 11, 2026](https://www.scworld.com/perspective/what-openclaw-revealed-about-the-agent-security-model)
 - [QA Financial - OpenClaw panic forces Chinese banks into new AI governance and testing phase - May 11, 2026](https://qa-financial.com/openclaw-panic-forces-chinese-banks-into-new-ai-governance-and-testing-phase/)
 - [The Telegraph (UK) - AI ‘agents of chaos’ run riot inside companies - May 11, 2026](https://www.telegraph.co.uk/business/2026/05/11/ai-agents-of-chaos-run-riot-inside-companies/)
