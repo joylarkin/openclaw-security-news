@@ -41,6 +41,12 @@ Updated twice daily.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-11
+- [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/)
+- [SC Media - What OpenClaw revealed about the agent security model - May 11, 2026](https://www.scworld.com/perspective/what-openclaw-revealed-about-the-agent-security-model)
+- [QA Financial - OpenClaw panic forces Chinese banks into new AI governance and testing phase - May 11, 2026](https://qa-financial.com/openclaw-panic-forces-chinese-banks-into-new-ai-governance-and-testing-phase/)
+- [The Telegraph (UK) - AI ‘agents of chaos’ run riot inside companies - May 11, 2026](https://www.telegraph.co.uk/business/2026/05/11/ai-agents-of-chaos-run-riot-inside-companies/)
+
 ### 2026-05-08
 - [Voice of Emirates (UAE) - The “OpenClaw” Threat: Nemotron Labs Warns of New Class of Autonomous AI Exploits - May 8, 2026](https://www.voiceofemirates.com/en/science-and-tech/ai/2026/05/08/the-openclaw-threat-nemotron-labs-warns-of-new-class-of-autonomous-ai-exploits/)
 
