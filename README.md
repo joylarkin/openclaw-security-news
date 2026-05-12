@@ -516,6 +516,8 @@ Updated twice daily.
 - [The Decoder - OpenClaw (formerly Clawdbot) and Moltbook let attackers walk through the front door - February 1, 2026](https://the-decoder.com/openclaw-formerly-clawdbot-and-moltbook-let-attackers-walk-through-the-front-door/)
 - [Tom's Hardware - Malicious OpenClaw 'skill' targets crypto users on ClawHub — 14 malicious skills were uploaded to ClawHub last month - February 1, 2026](https://www.tomshardware.com/tech-industry/openai-hires-genius-openclaw-creator-but-popular-ai-assistant-will-remain-open-source-sam-altman-says-creator-will-work-on-smart-agents-in-new-role)
 
+### 2026-01-31
+
 ### 2026-01-30
 - [Angles of Attack: The AI Security Intelligence Brief - This Is Apparently The Stupidest Timeline, So I Guess We're Talking About Moltbook Now - February 1, 2026](https://disesdi.substack.com/p/this-is-apparently-the-stupidest)
 - [Dark Reading - OpenClaw AI Runs Wild in Business Environments - January 30, 2026](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
@@ -526,6 +528,8 @@ Updated twice daily.
 - [Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026](https://www.gartner.com/en/documents/7381830)
 - [Inc - OpenClaw Can Run Your Whole Computer—and That’s Exactly Why Security Experts Are Panicking - January 29, 2026](https://www.inc.com/ben-sherry/the-tech-world-loves-this-powerful-ai-agent-but-its-also-a-security-nightmare/91294337)
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
+
+### 2026-01-28
 
 ### 2026-01-27
 - [Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026](https://mashable.com/article/clawdbot-ai-security-risks)
