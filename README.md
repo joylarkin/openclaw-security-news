@@ -19,6 +19,7 @@ Updated twice daily.
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search)
 - [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw)
+- [Singapore Infocomm Media Development Authority (IMDA) - May 14, 2026](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/openclaw-case-study.pdf)
 - [RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026](https://www.rti.org.tw/en/news?uid=3&pid=197858)
 - [Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026](https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform)
 - [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml)
@@ -40,6 +41,11 @@ Updated twice daily.
 ## OpenClaw Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-05-14
+- [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda)
+- [Xinhua (CN) - China accelerates AI agent governance amid emerging security risks - May 14, 2026](https://www.bignewsnetwork.com/news/279050568/china-accelerates-ai-agent-governance-amid-emerging-security-risks)
+
 
 ### 2026-05-11
 - [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/)
