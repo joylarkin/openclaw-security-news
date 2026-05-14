@@ -1,12 +1,6 @@
 name: Generate RSS Feed
 
 on:
-  schedule:
-    # Just after midnight PT.
-    # PST (UTC-8): 00:05 AM PST = 08:05 AM UTC
-    # PDT (UTC-7): runs at 01:05 AM PDT during daylight saving
-    - cron: '5 8 * * *'
-
   push:
     branches: [main]
     paths:
