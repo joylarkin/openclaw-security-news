@@ -46,7 +46,6 @@ Updated twice daily.
 - [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda)
 - [Xinhua (CN) - China accelerates AI agent governance amid emerging security risks - May 14, 2026](https://www.bignewsnetwork.com/news/279050568/china-accelerates-ai-agent-governance-amid-emerging-security-risks)
 
-
 ### 2026-05-11
 - [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/)
 - [CNBC - Google's TIG says it has likely thwarted efforts to use AI for a “mass exploitation event” and warns that tools like OpenClaw are being used to find exploits - May 11, 2026](https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html)
