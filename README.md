@@ -45,7 +45,6 @@ Updated regularly.
 
 ### 2026-05-15
 - [Cybersecurity News - OpenClaw Chain Vulnerabilities Expose 245,000 Public AI Agent Servers to Attack - May 15, 2026](https://cybersecuritynews.com/openclaw-chain-vulnerabilities/)
-- 
 
 ### 2026-05-14
 - [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda)
