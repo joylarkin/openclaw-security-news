@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 19:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:22:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026</title>
