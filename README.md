@@ -43,6 +43,10 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-15
+- [Cybersecurity News - OpenClaw Chain Vulnerabilities Expose 245,000 Public AI Agent Servers to Attack - May 15, 2026](https://cybersecuritynews.com/openclaw-chain-vulnerabilities/)
+- 
+
 ### 2026-05-14
 - [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda)
 - [Xinhua (CN) - China accelerates AI agent governance amid emerging security risks - May 14, 2026](https://www.bignewsnetwork.com/news/279050568/china-accelerates-ai-agent-governance-amid-emerging-security-risks)
@@ -550,6 +554,7 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories)
+* [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw)
 * [Google Threat Intelligence - GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access - May 11, 2026](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/)
 * [Zscaler - Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader - May 5, 2026](https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader)
 * [SOCRadar Threat Research Team - Chinese Cybercrime Infrastructure Detected: Automated Exploitation & Harvesting Infrastructure - April 30, 2026](https://socradar.io/blog/chinese-cybercrime-exploitation-harvesting/)
