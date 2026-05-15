@@ -88,6 +88,10 @@ Updated regularly.
 - [TechRadar Pro - Shadow AI and agents like OpenClaw are hijacking corporate data too easily - April 27, 2026](https://www.techradar.com/pro/shadow-ai-and-agents-like-openclaw-are-hijacking-corporate-data-too-easily)
 - [CyberPress - Multiple OpenClaw Vulnerabilities Enable Policy Bypass and Host Override Attacks - April 27, 2026](https://cyberpress.org/multiple-openclaw-vulnerabilities/)
 
+### 2026-04-26
+
+### 2026-04-25
+
 ### 2026-04-24
 - [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html)
 
@@ -533,6 +537,8 @@ Updated regularly.
 - [Gartner - OpenClaw (Formerly Moltbot, Clawdbot): Agentic Productivity Comes With Unacceptable Cybersecurity Risk - January 29, 2026](https://www.gartner.com/en/documents/7381830)
 - [Inc - OpenClaw Can Run Your Whole Computer—and That’s Exactly Why Security Experts Are Panicking - January 29, 2026](https://www.inc.com/ben-sherry/the-tech-world-loves-this-powerful-ai-agent-but-its-also-a-security-nightmare/91294337)
 - [IBM - OpenClaw, Moltbook and the future of AI agents - January 29, 2026](https://www.ibm.com/think/news/clawdbot-ai-agent-testing-limits-vertical-integration)
+
+### 2026-01-28
 
 ### 2026-01-27
 - [Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026](https://mashable.com/article/clawdbot-ai-security-risks)
