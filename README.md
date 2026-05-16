@@ -32,6 +32,7 @@ Updated regularly.
 
 ## OpenClaw Observability
 - [Days Since Last OpenClaw CVE Tracker](https://days-since-openclaw-cve.com)💥
+- [🛡️ OpenClaw CVE & Security Advisory Tracker](https://github.com/jgamblin/OpenClawCVEs)
 - [DECLAWED - A live threat intelligence dashboard built by SecurityScorecard's STRIKE Team providing visibility into the global exposure of OpenClaw AI agent control panels](https://declawed.io/)
 - [AIPwn - OpenClaw Security Watchboard](https://aipwn.org/openclaw)
 - [OpenClaw Exposure Watchboard - This page lists publicly reachable active OpenClaw instances for defensive awareness](https://openclaw.allegro.earth/)
