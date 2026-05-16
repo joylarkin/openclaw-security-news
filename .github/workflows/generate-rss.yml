@@ -21,6 +21,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Strip empty date headers from README
+        run: python scripts/strip_empty_dates.py
+
       - name: Generate RSS feed
         run: python scripts/generate_feed.py
 
@@ -28,9 +31,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
+          git add README.md feed.xml
           if git diff --staged --quiet; then
-            echo "No changes to feed.xml"
+            echo "No changes to commit"
           else
             git commit -m "chore: update RSS feed $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
