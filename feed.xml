@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 05:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 05:38:23 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cybersecurity News - OpenClaw Chain Vulnerabilities Expose 245,000 Public AI Agent Servers to Attack - May 15, 2026</title>
@@ -20,6 +20,13 @@
       <guid isPermaLink="true">https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <category>Vendor Advisories</category>
+    </item>
+    <item>
+      <title>Entrepreneur Magazine - Why Executives Are Suddenly Very Nervous About Autonomous AI - May 14, 2026</title>
+      <link>https://www.entrepreneur.com/science-technology/why-executives-are-suddenly-very-nervous-about-autonomous-ai/504117</link>
+      <guid isPermaLink="true">https://www.entrepreneur.com/science-technology/why-executives-are-suddenly-very-nervous-about-autonomous-ai/504117</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
     </item>
     <item>
       <title>The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026</title>
