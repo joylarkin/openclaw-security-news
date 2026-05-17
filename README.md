@@ -49,6 +49,7 @@ Updated regularly.
 - [Cybersecurity News - OpenClaw Chain Vulnerabilities Expose 245,000 Public AI Agent Servers to Attack - May 15, 2026](https://cybersecuritynews.com/openclaw-chain-vulnerabilities/)
 
 ### 2026-05-14
+- [Entrepreneur Magazine - Why Executives Are Suddenly Very Nervous About Autonomous AI - May 14, 2026](https://www.entrepreneur.com/science-technology/why-executives-are-suddenly-very-nervous-about-autonomous-ai/504117)
 - [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda)
 - [Xinhua (CN) - China accelerates AI agent governance amid emerging security risks - May 14, 2026](https://www.bignewsnetwork.com/news/279050568/china-accelerates-ai-agent-governance-amid-emerging-security-risks)
 
