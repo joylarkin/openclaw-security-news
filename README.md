@@ -41,7 +41,7 @@ Updated regularly.
 
 ---
 
-## OpenClaw Headlines 
+## OpenClaw Security Headlines 
 
 <!-- HEADLINES_START -->
 
