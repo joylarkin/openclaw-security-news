@@ -45,6 +45,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-19
+- [TechTalks - How prompt injection broke Nvidia's sandboxed OpenClaw agent - May 19, 2026](https://bdtechtalks.substack.com/p/how-prompt-injection-broke-nvidias)
+
 ### 2026-05-18
 - [TrendingTopics EU - OpenClaw Unveils Five-Point Security Plan, But Won’t Promise a “Risk-Free AI Agent” - May 18, 2026](https://www.trendingtopics.eu/openclaw-unveils-five-point-security-plan-but-wont-promise-a-risk-free-ai-agent/)
 - [FINAi News - FIs wary of OpenClaw security risks - May 18, 2026](https://finainews.com/risk-security/fis-wary-of-openclaw-security-risks/)
