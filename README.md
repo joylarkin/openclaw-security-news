@@ -47,6 +47,7 @@ Updated regularly.
 
 ### 2026-05-18
 - [TrendingTopics EU - OpenClaw Unveils Five-Point Security Plan, But Won’t Promise a “Risk-Free AI Agent” - May 18, 2026](https://www.trendingtopics.eu/openclaw-unveils-five-point-security-plan-but-wont-promise-a-risk-free-ai-agent/)
+- [FINAi News - FIs wary of OpenClaw security risks - May 18, 2026](https://finainews.com/risk-security/fis-wary-of-openclaw-security-risks/)
 - [SecurityWeek - ‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery - May 18, 2026](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
 - [SecNews (GR) - Claw Chain: OpenClaw vulnerabilities allow complete system compromise - May 18, 2026](https://www.secnews.gr/en/709489/eupatheies-openclaw-claw-chain-parabiasi/)
 
@@ -388,6 +389,7 @@ Updated regularly.
 - [Mint - OpenClaw: Did OpenAI just acquire a powerful new tool—or a security nightmare? - February 25, 2026](https://www.livemint.com/opinion/online-views/openclaw-openai-security-nightmare-artificial-intelligence-sam-altman-technology-ai-11771934381262.html)
 
 ### 2026-02-24
+- [Financial Advisor Magazine - Advisors Beware: Open Claw Is Creating A Wave Of Security Breaches - February 24, 2026](https://www.fa-mag.com/news/beware-of-the--claw-85989.html)
 - [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/)
 - [Fast Company - 'This should terrify you': Meta Superintelligence safety director lost control of her AI agent—it deleted her emails - February 24, 2026](https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails)
 - [Axios - The Bot Population Bomb: OpenClaw is only the Beginning - February 24, 2026](https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown)
