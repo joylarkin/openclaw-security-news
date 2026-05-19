@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2026 05:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:17:02 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>TrendingTopics EU - OpenClaw Unveils Five-Point Security Plan, But Won’t Promise a “Risk-Free AI Agent” - May 18, 2026</title>
