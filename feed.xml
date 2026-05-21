@@ -5,8 +5,22 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 20:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:23:34 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pypi.org - openclaw-agent added to PyPI - May 20, 2026</title>
+      <link>https://pypi.org/project/openclaw-agent/</link>
+      <guid isPermaLink="true">https://pypi.org/project/openclaw-agent/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Pypi.org - openclaw-agent 1.0.3 - May 20, 2026</title>
+      <link>https://pypi.org/project/openclaw-agent/1.0.3/</link>
+      <guid isPermaLink="true">https://pypi.org/project/openclaw-agent/1.0.3/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>TechTalks - How prompt injection broke Nvidia's sandboxed OpenClaw agent - May 19, 2026</title>
       <link>https://bdtechtalks.substack.com/p/how-prompt-injection-broke-nvidias</link>
