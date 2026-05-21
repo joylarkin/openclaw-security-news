@@ -46,8 +46,8 @@ Updated regularly.
 <!-- HEADLINES_START -->
 
 ### 2026-05-20
-- [Pypi.org - openclaw-agent added to PyPI - May 20, 2026](https://pypi.org/project/openclaw-agent/)
-- [Pypi.org - openclaw-agent 1.0.3 - May 20, 2026](https://pypi.org/project/openclaw-agent/1.0.3/)
+- [GQ Magazine - What Happened When I Cloned Myself With OpenClaw AI - May 21, 2026](https://www.gq.com/story/what-happened-when-i-cloned-myself-with-openclaw-ai)
+- [CIO Magazine - The dark data problem hiding inside your AI agents - May 21, 2026](https://www.cio.com/article/4174915/the-dark-data-problem-hiding-inside-your-ai-agents.html)
 
 ### 2026-05-19
 - [TechTalks - How prompt injection broke Nvidia's sandboxed OpenClaw agent - May 19, 2026](https://bdtechtalks.substack.com/p/how-prompt-injection-broke-nvidias)
