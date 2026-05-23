@@ -16,13 +16,13 @@ Updated regularly.
 ---
 
 ## Government Warnings About OpenClaw
-- [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&resultType=records&utm_source=openclaw-security-news)
-- [CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424&utm_source=openclaw-security-news)
-- [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid&utm_source=openclaw-security-news)
+- [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&resultType=records?utm_source=openclaw-security-news)
+- [CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424?utm_source=openclaw-security-news)
+- [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid?utm_source=openclaw-security-news)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search?utm_source=openclaw-security-news)
-- [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw&utm_source=openclaw-security-news)
+- [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news)
 - [Singapore Infocomm Media Development Authority (IMDA) - What is OpenClaw and what are the dangers associated with it? - May 14, 2026](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/openclaw-case-study.pdf?utm_source=openclaw-security-news)
-- [RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026](https://www.rti.org.tw/en/news?uid=3&pid=197858&utm_source=openclaw-security-news)
+- [RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026](https://www.rti.org.tw/en/news?uid=3&pid=197858?utm_source=openclaw-security-news)
 - [Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026](https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform?utm_source=openclaw-security-news)
 - [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml?utm_source=openclaw-security-news)
 - [autoriteitpersoonsgegevens.nl - The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, warns of major security risks with AI agents like OpenClaw - February 12, 2026](https://www.autoriteitpersoonsgegevens.nl/en/current/ap-warns-of-major-security-risks-with-ai-agents-like-openclaw?utm_source=openclaw-security-news)
@@ -96,7 +96,7 @@ Updated regularly.
 
 ### 2026-04-29
 - [The Register - 30 ClawHub skills secretly turn AI agents into a crypto swarm - April 29, 2026](https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/?utm_source=openclaw-security-news)
-- [Motasem Hamdan - OpenClaw AI Agent Just Got Hacked - April 29, 2026](https://www.youtube.com/watch?v=Vu6qQ_KzrOQ&utm_source=openclaw-security-news)
+- [Motasem Hamdan - OpenClaw AI Agent Just Got Hacked - April 29, 2026](https://www.youtube.com/watch?v=Vu6qQ_KzrOQ?utm_source=openclaw-security-news)
 - [Lao Dong (VN) - OpenClaw and business security problems - April 29, 2026](https://news.laodong.vn/cong-nghe/openclaw-va-bai-toan-bao-mat-doanh-nghiep-1693566.ldo?utm_source=openclaw-security-news)
 
 ### 2026-04-27
@@ -336,7 +336,7 @@ Updated regularly.
 
 ### 2026-03-08
 - [Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026](https://research.jfrog.com/post/ghostclaw-unmasked/?utm_source=openclaw-security-news)
-- [Xinhua (CN) - AI "cultivating lobster" became popular, official tips → - March 8, 2026](https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce&utm_source=openclaw-security-news)
+- [Xinhua (CN) - AI "cultivating lobster" became popular, official tips → - March 8, 2026](https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce?utm_source=openclaw-security-news)
 - [Binance News - China Warns of Security Risks in OpenClaw AI Agent - March 8, 2026](https://www.binance.com/en-IN/square/post/03-08-2026-china-warns-of-security-risks-in-openclaw-ai-agent-299254833994497?utm_source=openclaw-security-news)
 - [Krebs on Security - How AI Assistants are Moving the Security Goalposts - March 9,2026](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/?utm_source=openclaw-security-news)
 
@@ -359,7 +359,7 @@ Updated regularly.
 
 ### 2026-03-03
 - [The New Stack - OpenClaw rocks to GitHub's most-starred status, but is it safe? - March 3, 2026](https://thenewstack.io/openclaw-github-stars-security/?utm_source=openclaw-security-news)
-- [Techstrong.tv - OpenClaw Risks, AI-Powered Cyberattacks & The Future of Junior Devs | TSG Ep. 1031 - March 3, 2026](https://www.youtube.com/watch?v=jJLBbDpIXWU&utm_source=openclaw-security-news)
+- [Techstrong.tv - OpenClaw Risks, AI-Powered Cyberattacks & The Future of Junior Devs | TSG Ep. 1031 - March 3, 2026](https://www.youtube.com/watch?v=jJLBbDpIXWU?utm_source=openclaw-security-news)
 - [MasterCard - Before the music stops: OpenClaw and the growing need for AI security standards - March 3, 2026](https://www.mastercard.com/global/en/news-and-trends/stories/2026/openclaw-ai-security-standards.html?utm_source=openclaw-security-news)
 - [36Kr - I advise you not to blindly follow the trend of this wave of OpenClaw - March 3, 2026](https://eu.36kr.com/en/p/3706864492884353?utm_source=openclaw-security-news)
 - [Global Times (CN) - Chinese authorities warn against misuse of OpenClaw amid rising security risks of unauthorized information leaks; expert urges users to strictly manage access - March 3, 2026](https://www.globaltimes.cn/page/202603/1356182.shtml?utm_source=openclaw-security-news)
@@ -377,7 +377,7 @@ Updated regularly.
 - [Peter Diamandis MOONSHOTS - OpenClaw Security Fears - February 28, 2026](https://www.youtube.com/shorts/rPyaV1CqIKk?utm_source=openclaw-security-news)
 
 ### 2026-02-27
-- [Vasilij Nevlev | AiGentic Lab - 7 Reasons Why OpenClaw Is Banned by Enterprise Security Teams - February 27, 2026](https://www.youtube.com/watch?v=EHyZNT5knAk&utm_source=openclaw-security-news)
+- [Vasilij Nevlev | AiGentic Lab - 7 Reasons Why OpenClaw Is Banned by Enterprise Security Teams - February 27, 2026](https://www.youtube.com/watch?v=EHyZNT5knAk?utm_source=openclaw-security-news)
 - [ZDNet - Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact - February 27 2026](https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/?utm_source=openclaw-security-news)
 - [HackRead - ClawJacked Vulnerability in OpenClaw Lets Websites Hijack AI Agents - February 27, 2026](https://hackread.com/openclaw-vulnerability-openclaw-hijack-ai-agents/?utm_source=openclaw-security-news)
 - [SecurityBrief - OpenClaw AI assistant surge sparks major security fears - February 27, 2026](https://securitybrief.com.au/story/openclaw-ai-assistant-surge-sparks-major-security-fears?utm_source=openclaw-security-news)
@@ -511,7 +511,7 @@ Updated regularly.
 ### 2026-02-04
 - [XDA - Please stop using OpenClaw, formerly known as Moltbot, formerly known as Clawdbot - February 4, 2026](https://www.xda-developers.com/please-stop-using-openclaw/?utm_source=openclaw-security-news)
 - [Security Boulevard - The ‘Absolute Nightmare’ in Your DMs: OpenClaw Marries Extreme Utility with ‘Unacceptable’ Risk - February 4, 2026](https://securityboulevard.com/2026/02/the-absolute-nightmare-in-your-dms-openclaw-marries-extreme-utility-with-unacceptable-risk/?utm_source=openclaw-security-news)
-- [IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026](https://www.youtube.com/watch?v=F0QCrxwwSg0&utm_source=openclaw-security-news)
+- [IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026](https://www.youtube.com/watch?v=F0QCrxwwSg0?utm_source=openclaw-security-news)
 - [The Verge - OpenClaw's AI 'skill' extensions are a security nightmare - February 4, 2026](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare?utm_source=openclaw-security-news)
 - [Bloomberg - AI Agent Goes Rogue, Spamming OpenClaw User With 500 Messages - February 4, 2026](https://www.bloomberg.com/news/articles/2026-02-04/openclaw-s-an-ai-sensation-but-its-security-a-work-in-progress?utm_source=openclaw-security-news)
 - [SECURITY.COM - The Rise of OpenClaw - February 4, 2026](https://www.security.com/expert-perspectives/rise-openclaw?utm_source=openclaw-security-news)
@@ -551,7 +551,7 @@ Updated regularly.
 
 ### 2026-01-27
 - [Mashable - Clawdbot AI security risks you need to know before trying it - January 27, 2026](https://mashable.com/article/clawdbot-ai-security-risks?utm_source=openclaw-security-news)
-- [Low Level - openclaw security situation is insane - January 27, 2026](https://www.youtube.com/watch?v=kSno1-xOjwI&utm_source=openclaw-security-news)
+- [Low Level - openclaw security situation is insane - January 27, 2026](https://www.youtube.com/watch?v=kSno1-xOjwI?utm_source=openclaw-security-news)
 
 ### 2026-01-26
 - [Forrester - Ready For OpenClaw To Pry Into Your Environment And Grip Your Data - January 26, 2026](https://www.forrester.com/blogs/ready-for-openclaw-to-pry-into-your-environment-and-grip-your-data/?utm_source=openclaw-security-news)
