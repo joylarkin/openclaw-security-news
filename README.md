@@ -16,7 +16,7 @@ Updated regularly.
 ---
 
 ## Government Warnings About OpenClaw
-- [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search?utm_source=openclaw-security-news#/nvd/home?keyword=openclaw&resultType=records)
+- [NVD National Vulnerability Database - Search for OpenClaw](https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&resultType=records&utm_source=openclaw-security-news)
 - [CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424&utm_source=openclaw-security-news)
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid&utm_source=openclaw-security-news)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search?utm_source=openclaw-security-news)
@@ -400,7 +400,7 @@ Updated regularly.
 - [Gigazine - Following the huge success of OpenClaw, more AI agents like 'Claw' have appeared one after another, but OpenAI co-founder expressed concerns about OpenClaw's security - February 24, 2026](https://gigazine.net/gsc_news/en/20260224-claw-ai-agent-layer/?utm_source=openclaw-security-news)
 - [Fast Company - 'This should terrify you': Meta Superintelligence safety director lost control of her AI agent—it deleted her emails - February 24, 2026](https://www.fastcompany.com/91497841/meta-superintelligence-lab-ai-safety-alignment-director-lost-control-of-agent-deleted-her-emails?utm_source=openclaw-security-news)
 - [Axios - The Bot Population Bomb: OpenClaw is only the Beginning - February 24, 2026](https://www.axios.com/2026/02/24/agents-openclaw-moltbook-gastown?utm_source=openclaw-security-news)
-- [Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html?utm_source=openclaw-security-news#20260225_openclaw)
+- [Ryukoku.ac.jp - OpenClaw 拷 CVE-2026-25253 膈 various - February 24, 2026](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260225_openclaw?utm_source=openclaw-security-news)
 
 ### 2026-02-23
 - [Cybernews - Microsoft: ‘OpenClaw unsuited to run on standard personal or enterprise workstation’ - February 23, 2026](https://cybernews.com/security/microsoft-openclaw-unsuited-run-standard-personal-enterprise-workstation/?utm_source=openclaw-security-news)
