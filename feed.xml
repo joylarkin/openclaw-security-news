@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2026 23:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 23:44:21 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>GQ Magazine - What Happened When I Cloned Myself With OpenClaw AI - May 21, 2026</title>
@@ -247,8 +247,8 @@
     </item>
     <item>
       <title>Motasem Hamdan - OpenClaw AI Agent Just Got Hacked - April 29, 2026</title>
-      <link>https://www.youtube.com/watch?v=Vu6qQ_KzrOQ&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Vu6qQ_KzrOQ&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.youtube.com/watch?v=Vu6qQ_KzrOQ?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Vu6qQ_KzrOQ?utm_source=openclaw-security-news</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1017,8 +1017,8 @@
     </item>
     <item>
       <title>RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026</title>
-      <link>https://www.rti.org.tw/en/news?uid=3&amp;pid=197858&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.rti.org.tw/en/news?uid=3&amp;pid=197858&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.rti.org.tw/en/news?uid=3&amp;pid=197858?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.rti.org.tw/en/news?uid=3&amp;pid=197858?utm_source=openclaw-security-news</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <category>Government Warnings</category>
     </item>
@@ -1437,8 +1437,8 @@
     </item>
     <item>
       <title>Xinhua (CN) - AI &quot;cultivating lobster&quot; became popular, official tips → - March 8, 2026</title>
-      <link>https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce&amp;utm_source=openclaw-security-news</guid>
+      <link>https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce?utm_source=openclaw-security-news</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1584,8 +1584,8 @@
     </item>
     <item>
       <title>Techstrong.tv - OpenClaw Risks, AI-Powered Cyberattacks &amp; The Future of Junior Devs | TSG Ep. 1031 - March 3, 2026</title>
-      <link>https://www.youtube.com/watch?v=jJLBbDpIXWU&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=jJLBbDpIXWU&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.youtube.com/watch?v=jJLBbDpIXWU?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jJLBbDpIXWU?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -1654,8 +1654,8 @@
     </item>
     <item>
       <title>Vasilij Nevlev | AiGentic Lab - 7 Reasons Why OpenClaw Is Banned by Enterprise Security Teams - February 27, 2026</title>
-      <link>https://www.youtube.com/watch?v=EHyZNT5knAk&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=EHyZNT5knAk&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.youtube.com/watch?v=EHyZNT5knAk?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EHyZNT5knAk?utm_source=openclaw-security-news</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -2529,8 +2529,8 @@
     </item>
     <item>
       <title>IBM Think Podcast - What cybersecurity pros need to know about OpenClaw and Moltbook - February 4, 2026</title>
-      <link>https://www.youtube.com/watch?v=F0QCrxwwSg0&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=F0QCrxwwSg0&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.youtube.com/watch?v=F0QCrxwwSg0?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=F0QCrxwwSg0?utm_source=openclaw-security-news</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -2844,8 +2844,8 @@
     </item>
     <item>
       <title>Low Level - openclaw security situation is insane - January 27, 2026</title>
-      <link>https://www.youtube.com/watch?v=kSno1-xOjwI&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=kSno1-xOjwI&amp;utm_source=openclaw-security-news</guid>
+      <link>https://www.youtube.com/watch?v=kSno1-xOjwI?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kSno1-xOjwI?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -2858,20 +2858,20 @@
     </item>
     <item>
       <title>NVD National Vulnerability Database - Search for OpenClaw</title>
-      <link>https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records&amp;utm_source=openclaw-security-news</guid>
+      <link>https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://nvd.nist.gov/vuln/search#/nvd/home?keyword=openclaw&amp;resultType=records?utm_source=openclaw-security-news</guid>
       <category>Government Warnings</category>
     </item>
     <item>
       <title>CERT BUND Germany - WID-SEC-2026-0424 OpenClaw: Mehrere Schwachstellen</title>
-      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424&amp;utm_source=openclaw-security-news</guid>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0424?utm_source=openclaw-security-news</guid>
       <category>Government Warnings</category>
     </item>
     <item>
       <title>CERT BUND Germany - Search for OpenClaw Advisories</title>
-      <link>https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid&amp;utm_source=openclaw-security-news</guid>
+      <link>https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&amp;category=securityAdvisory&amp;moduleForNavigation=wid?utm_source=openclaw-security-news</guid>
       <category>Government Warnings</category>
     </item>
     <item>
@@ -2882,8 +2882,8 @@
     </item>
     <item>
       <title>CERT CVE Croatia - Proizvođač: openclaw</title>
-      <link>https://cve.cert.hr/?vendor=openclaw&amp;utm_source=openclaw-security-news</link>
-      <guid isPermaLink="true">https://cve.cert.hr/?vendor=openclaw&amp;utm_source=openclaw-security-news</guid>
+      <link>https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news</guid>
       <category>Government Warnings</category>
     </item>
     <item>
