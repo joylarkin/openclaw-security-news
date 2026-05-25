@@ -21,6 +21,7 @@ Updated regularly.
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid?utm_source=openclaw-security-news)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search?utm_source=openclaw-security-news)
 - [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news)
+- [Financial Services Authority, Sultanate of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://fsa.gov.om/home/SearchNews/1?newsId=10769&year=2026?utm_source=openclaw-security-news) 
 - [Singapore Infocomm Media Development Authority (IMDA) - What is OpenClaw and what are the dangers associated with it? - May 14, 2026](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/openclaw-case-study.pdf?utm_source=openclaw-security-news)
 - [RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026](https://www.rti.org.tw/en/news?uid=3&pid=197858?utm_source=openclaw-security-news)
 - [Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026](https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform?utm_source=openclaw-security-news)
@@ -44,6 +45,12 @@ Updated regularly.
 ## OpenClaw Security Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-05-25
+- [The Times of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://timesofoman.com/article/172235-fsa-identifies-three-critical-security-flaws-in-openclaw?utm_source=openclaw-security-news)
+
+### 2026-05-23
+- [TNGlobal - No ‘OpenClaw strategy’ for Agoda for the moment due to security risks, says CTO - May 23, 2026](https://technode.global/2026/05/23/no-openclaw-strategy-for-agoda-for-the-moment-due-to-security-risks-says-cto/?utm_source=openclaw-security-news)
 
 ### 2026-05-20
 - [GQ Magazine - What Happened When I Cloned Myself With OpenClaw AI - May 21, 2026](https://www.gq.com/story/what-happened-when-i-cloned-myself-with-openclaw-ai?utm_source=openclaw-security-news)
@@ -562,6 +569,7 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories?utm_source=openclaw-security-news)
+* [OX Security - The @antv Ecosystem Was Compromised with Shai-Hulud Malware, 300+ Packages Affected - May 19, 2026](https://www.ox.security/blog/the-antv-ecosystem-was-compromised-with-shai-hulud-malware-300-packages-affected/?utm_source=openclaw-security-news)
 * [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw?utm_source=openclaw-security-news)
 * [Google Threat Intelligence - GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access - May 11, 2026](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/?utm_source=openclaw-security-news)
 * [Zscaler - Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader - May 5, 2026](https://www.zscaler.com/blogs/security-research/malicious-openclaw-skill-distributes-remcos-rat-and-ghostloader?utm_source=openclaw-security-news)
