@@ -46,6 +46,12 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-05-27
+- [SecurityWeek - Raising the Cybersecurity Stakes: Ante up for the Agentic Era - May 27, 2026](https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/?utm_source=openclaw-security-news)
+
+### 2026-05-26 
+- [DarkReading - For Enterprises, Security Remains Agentic AI's Biggest Challenge - May 26, 2026](https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge?utm_source=openclaw-security-news)
+
 ### 2026-05-25
 - [The Times of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://timesofoman.com/article/172235-fsa-identifies-three-critical-security-flaws-in-openclaw?utm_source=openclaw-security-news)
 
