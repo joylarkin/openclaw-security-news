@@ -46,6 +46,10 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-06-03 
+- [Trail of Bits - The sorry state of skill distribution - June 3, 2026](https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/?utm_source=openclaw-security-news)
+- [Cyber Security News - Five OpenClaw 0-Days let Attackers to Hijack Trusted AI Agent Access - June 3, 2026](https://cybersecuritynews.com/five-openclaw-0-days/?utm_source=openclaw-security-news)
+
 ### 2026-05-27
 - [SecurityWeek - Raising the Cybersecurity Stakes: Ante up for the Agentic Era - May 27, 2026](https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/?utm_source=openclaw-security-news)
 
