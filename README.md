@@ -46,6 +46,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-06-04
+- [gbhackers - ClawHub, Cisco, and Vercel Skill Detection Tools Evaded by Malicious Uploads - June 4, 2026](https://gbhackers.com/clawhub-cisco-and-vercel-skill-detection-tools-evaded-by-malicious-uploads/?utm_source=openclaw-security-news)
+
 ### 2026-06-03 
 - [Trail of Bits - The sorry state of skill distribution - June 3, 2026](https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/?utm_source=openclaw-security-news)
 - [Cyber Security News - Five OpenClaw 0-Days let Attackers to Hijack Trusted AI Agent Access - June 3, 2026](https://cybersecuritynews.com/five-openclaw-0-days/?utm_source=openclaw-security-news)
