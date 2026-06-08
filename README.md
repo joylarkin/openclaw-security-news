@@ -46,7 +46,11 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-06-06
+- [Let's Data Science - OpenClaw Code Reuse Exposes AI Agent Accountability Problem - June 6, 2026](https://letsdatascience.com/news/openclaw-code-reuse-exposes-ai-agent-accountability-problem-49cf9a0b?utm_source=openclaw-security-news)
+
 ### 2026-06-04
+- [cybernews - Researcher easily finds five OpenClaw zero-days just as Microsoft expands its use of platform - June 4, 2026](https://cybernews.com/security/openclaw-zero-days-research-microsoft/?utm_source=openclaw-security-news)
 - [gbhackers - ClawHub, Cisco, and Vercel Skill Detection Tools Evaded by Malicious Uploads - June 4, 2026](https://gbhackers.com/clawhub-cisco-and-vercel-skill-detection-tools-evaded-by-malicious-uploads/?utm_source=openclaw-security-news)
 
 ### 2026-06-03 
@@ -54,6 +58,7 @@ Updated regularly.
 - [Cyber Security News - Five OpenClaw 0-Days let Attackers to Hijack Trusted AI Agent Access - June 3, 2026](https://cybersecuritynews.com/five-openclaw-0-days/?utm_source=openclaw-security-news)
 
 ### 2026-05-27
+- [InfoSec Write-ups - One Agent, Five Zero-Days: Turning Past CVEs Into SAST Rules - May 27, 2026](https://infosecwriteups.com/one-agent-five-zero-days-turning-past-cves-into-sast-rules-650c32b20032?utm_source=openclaw-security-news)
 - [SecurityWeek - Raising the Cybersecurity Stakes: Ante up for the Agentic Era - May 27, 2026](https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/?utm_source=openclaw-security-news)
 
 ### 2026-05-26 
@@ -583,6 +588,7 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories?utm_source=openclaw-security-news)
+* [TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - June 2, 2026](https://www.trendmicro.com/pt_br/research/26/b/what-openclaw-reveals-about-agentic-assistants.html?utm_source=openclaw-security-news)
 * [OX Security - The @antv Ecosystem Was Compromised with Shai-Hulud Malware, 300+ Packages Affected - May 19, 2026](https://www.ox.security/blog/the-antv-ecosystem-was-compromised-with-shai-hulud-malware-300-packages-affected/?utm_source=openclaw-security-news)
 * [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw?utm_source=openclaw-security-news)
 * [Google Threat Intelligence - GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access - May 11, 2026](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/?utm_source=openclaw-security-news)
