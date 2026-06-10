@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:46:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Let's Data Science - OpenClaw Code Reuse Exposes AI Agent Accountability Problem - June 6, 2026</title>
