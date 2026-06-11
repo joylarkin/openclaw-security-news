@@ -46,6 +46,12 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-06-10 
+- [SecurityBoulevard - Compromise OpenClaw with Prompt Injections in Message Objects - June 10, 2026](https://securityboulevard.com/2026/06/compromise-openclaw-with-prompt-injections-in-message-objects/?utm_source=openclaw-security-news)
+
+### 2026-06-09
+- [TechRadar - OpenClaw AI agent tricked into phishing attacks, with user data compromised - June 9, 2026](https://www.techradar.com/pro/security/openclaw-ai-agent-tricked-into-phishing-attacks-with-user-data-compromised/?utm_source=openclaw-security-news)
+
 ### 2026-06-06
 - [Let's Data Science - OpenClaw Code Reuse Exposes AI Agent Accountability Problem - June 6, 2026](https://letsdatascience.com/news/openclaw-code-reuse-exposes-ai-agent-accountability-problem-49cf9a0b?utm_source=openclaw-security-news)
 
@@ -588,6 +594,8 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories?utm_source=openclaw-security-news)
+* [Imperva - Compromise OpenClaw with Prompt Injections in Message Objects - June 10, 2026](https://www.imperva.com/blog/compromise-openclaw-with-prompt-injections-in-message-objects/?utm_source=openclaw-security-news)
+* [Varonis - Phishing for Lobsters: How We Tricked OpenClaw into Spilling Secrets - June 9, 2026](https://www.varonis.com/blog/openclaw-phishing?utm_source=openclaw-security-news)
 * [TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - June 2, 2026](https://www.trendmicro.com/pt_br/research/26/b/what-openclaw-reveals-about-agentic-assistants.html?utm_source=openclaw-security-news)
 * [OX Security - The @antv Ecosystem Was Compromised with Shai-Hulud Malware, 300+ Packages Affected - May 19, 2026](https://www.ox.security/blog/the-antv-ecosystem-was-compromised-with-shai-hulud-malware-300-packages-affected/?utm_source=openclaw-security-news)
 * [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw?utm_source=openclaw-security-news)
