@@ -46,6 +46,12 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-06-22
+- [Help Net Security - 23 ClawHub plugins squatting official scopes expose AI registry security gaps - June 22, 2026](https://www.helpnetsecurity.com/2026/06/22/clawhub-code-executing-plugins-video/?utm_source=openclaw-security-news)
+
+### 2026-06-18
+- [Cybersecurity Insiders - Why Autonomous Agents Are the Enterprise Security Problem CISOs Weren’t Ready For - June 18,2026](https://www.cybersecurity-insiders.com/why-autonomous-agents-are-the-enterprise-security-problem-cisos-werent-ready-for/?utm_source=openclaw-security-news)
+
 ### 2026-06-17
 - [TechTarget - The OpenClaw security risks every CISO needs to know - June 17, 2026](https://www.techtarget.com/searchsecurity/tip/The-OpenClaw-security-risks-every-CISO-needs-to-know?utm_source=openclaw-security-news)
 
