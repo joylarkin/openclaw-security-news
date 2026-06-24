@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:13:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Help Net Security - 23 ClawHub plugins squatting official scopes expose AI registry security gaps - June 22, 2026</title>
