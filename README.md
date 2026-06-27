@@ -45,6 +45,13 @@ Updated regularly.
 ## OpenClaw Security Headlines 
 
 <!-- HEADLINES_START -->
+### 2026-06-24
+- [Dark Reading - More Malicious OpenClaw Skills Threaten AI Supply Chain - June 24, 2026](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain?utm_source=openclaw-security-news)
+- [TechRadar PRO - Multiple malicious OpenClaw skills found online - including two macOS infostealers - June 24, 2026](https://www.techradar.com/pro/security/multiple-malicious-openclaw-skills-found-online-including-two-macos-infostealers?utm_source=openclaw-security-news)
+- [Norfolk Daily News - AI Agents Still Can’t Block Prompt Injection – and Tens of Thousands of OpenClaw Setups Are Wide Open, Claw Crew Warns - June 24, 2026](https://norfolkdailynews.com/online_features/press_releases/ai-agents-still-can-t-block-prompt-injection-and-tens-of-thousands-of-openclaw-setups/article_8d65bdf4-c5a2-5051-877b-bb5d8c7744cb.html?utm_source=openclaw-security-news)
+
+### 2026-06-23
+- [Cybersecurity Insiders - OpenClaw Security Risks Exposed as 31,674 Instances Spread in 12 Days - June 23, 2026](https://www.cybersecurity-insiders.com/openclaw-security-risks-enterprise-ai-agent/?utm_source=openclaw-security-news)
 
 ### 2026-06-22
 - [Help Net Security - 23 ClawHub plugins squatting official scopes expose AI registry security gaps - June 22, 2026](https://www.helpnetsecurity.com/2026/06/22/clawhub-code-executing-plugins-video/?utm_source=openclaw-security-news)
@@ -628,7 +635,7 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories?utm_source=openclaw-security-news)
-* [AhnLab (KR) - OpenClaw 사태로 본 AI 프로젝트 보안 리스크 - 2026](https://www.ahnlab.com/ko/contents/content-center/36097?utm_source=openclaw-security-news)
+* [Unit 42 Palo Alto Networks - OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat - June 23, 2026](https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/?utm_source=openclaw-security-news)
 * [Imperva - Compromise OpenClaw with Prompt Injections in Message Objects - June 10, 2026](https://www.imperva.com/blog/compromise-openclaw-with-prompt-injections-in-message-objects/?utm_source=openclaw-security-news)
 * [Varonis - Phishing for Lobsters: How We Tricked OpenClaw into Spilling Secrets - June 9, 2026](https://www.varonis.com/blog/openclaw-phishing?utm_source=openclaw-security-news)
 * [TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - June 2, 2026](https://www.trendmicro.com/pt_br/research/26/b/what-openclaw-reveals-about-agentic-assistants.html?utm_source=openclaw-security-news)
@@ -707,6 +714,7 @@ Updated regularly.
 * [SecurityScorecard - What Are Moltbot and Moltbook and What Happens When Agentic AI Assistants Scale Without Security - February 3, 2026](https://securityscorecard.com/blog/what-are-moltbot-and-moltbook-and-what-happens-when-agentic-ai-assistants-scale-without-security/?utm_source=openclaw-security-news)
 * [Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026](https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities?utm_source=openclaw-security-news)
 * [SocRadar - CVE-2026-25253: 1-Click RCE in OpenClaw Through Auth Token Exfiltration - February 2, 2026](https://socradar.io/blog/cve-2026-25253-rce-openclaw-auth-token/?utm_source=openclaw-security-news)
+* [AhnLab (KR) - OpenClaw 사태로 본 AI 프로젝트 보안 리스크 - February 2, 2026](https://www.ahnlab.com/ko/contents/content-center/36097?utm_source=openclaw-security-news)
 * [Depthfirst - 1-Click RCE To Steal Your OpenClaw Data and Keys (CVE-2026-25253) - February 1, 2026](https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys?utm_source=openclaw-security-news)
 * [Censys - OpenClaw in the Wild: Mapping the Public Exposure of a Viral AI Assistant - January 31, 2026](https://censys.com/openclaw-in-the-wild/?utm_source=openclaw-security-news)
 * [ToxSec - OpenClaw Defaults Ship Insecure and Shodan Already Found Them - January 29, 2026](https://www.toxsec.com/p/openclaw-is-a-wildly-insecure?utm_source=openclaw-security-news)
