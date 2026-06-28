@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 10:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:32:29 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Dark Reading - More Malicious OpenClaw Skills Threaten AI Supply Chain - June 24, 2026</title>
