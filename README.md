@@ -45,6 +45,13 @@ Updated regularly.
 ## OpenClaw Security Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-06-30
+- [Android Headlines - OpenClaw Launches Mobile Apps for Android and iOS, but Users Label It a Buggy Mess - June 30,2026](https://www.androidheadlines.com/2026/06/openclaw-ai-agent-mobile-app-launch-bugs.html?utm_source=openclaw-security-news)
+- [TechRound - Users Can Now Access OpenClaw Through Apple’s App Store – Are There Risks? - June 30, 2026](https://techround.co.uk/news/users-access-openclaw-through-apple-app-store-risks/?utm_source=openclaw-security-news)
+- [Softonic - OpenClaw’s first mobile apps are now live: early users hit problems - June 30, 2026](https://en.softonic.com/articles/openclaws-first-mobile-apps-are-now-live-early-users-hit-problems?utm_source=openclaw-security-news)
+
+
 ### 2026-06-24
 - [Dark Reading - More Malicious OpenClaw Skills Threaten AI Supply Chain - June 24, 2026](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain?utm_source=openclaw-security-news)
 - [TechRadar PRO - Multiple malicious OpenClaw skills found online - including two macOS infostealers - June 24, 2026](https://www.techradar.com/pro/security/multiple-malicious-openclaw-skills-found-online-including-two-macos-infostealers?utm_source=openclaw-security-news)
@@ -80,6 +87,7 @@ Updated regularly.
 - [Let's Data Science - OpenClaw Code Reuse Exposes AI Agent Accountability Problem - June 6, 2026](https://letsdatascience.com/news/openclaw-code-reuse-exposes-ai-agent-accountability-problem-49cf9a0b?utm_source=openclaw-security-news)
 
 ### 2026-06-04
+- [IBM Technology - OpenClaw Security Risks: 6 Dangers of Autonomous AI Agents - June 4, 2026](https://www.youtube.com/watch?v=7qZH3D7u-z8/?utm_source=openclaw-security-news)
 - [cybernews - Researcher easily finds five OpenClaw zero-days just as Microsoft expands its use of platform - June 4, 2026](https://cybernews.com/security/openclaw-zero-days-research-microsoft/?utm_source=openclaw-security-news)
 - [gbhackers - ClawHub, Cisco, and Vercel Skill Detection Tools Evaded by Malicious Uploads - June 4, 2026](https://gbhackers.com/clawhub-cisco-and-vercel-skill-detection-tools-evaded-by-malicious-uploads/?utm_source=openclaw-security-news)
 
@@ -638,6 +646,7 @@ Updated regularly.
 * [Unit 42 Palo Alto Networks - OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat - June 23, 2026](https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/?utm_source=openclaw-security-news)
 * [Imperva - Compromise OpenClaw with Prompt Injections in Message Objects - June 10, 2026](https://www.imperva.com/blog/compromise-openclaw-with-prompt-injections-in-message-objects/?utm_source=openclaw-security-news)
 * [Varonis - Phishing for Lobsters: How We Tricked OpenClaw into Spilling Secrets - June 9, 2026](https://www.varonis.com/blog/openclaw-phishing?utm_source=openclaw-security-news)
+* [Backslash - Don't Let the Lobster Fool You: OpenClaw Security Risks Explained - June 4, 2026](https://www.backslash.security/blog/openclaw-security-risks-explained?utm_source=openclaw-security-news)
 * [TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - June 2, 2026](https://www.trendmicro.com/pt_br/research/26/b/what-openclaw-reveals-about-agentic-assistants.html?utm_source=openclaw-security-news)
 * [OX Security - The @antv Ecosystem Was Compromised with Shai-Hulud Malware, 300+ Packages Affected - May 19, 2026](https://www.ox.security/blog/the-antv-ecosystem-was-compromised-with-shai-hulud-malware-300-packages-affected/?utm_source=openclaw-security-news)
 * [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw?utm_source=openclaw-security-news)
