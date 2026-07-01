@@ -46,6 +46,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-07-01
+- [PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 2026](https://www.pcquest.com/security-products/openclaw-skill-store-breach-puts-agent-permissions-under-the-microscope-12122415/?utm_source=openclaw-security-news)
+
 ### 2026-06-30
 - [Android Headlines - OpenClaw Launches Mobile Apps for Android and iOS, but Users Label It a Buggy Mess - June 30,2026](https://www.androidheadlines.com/2026/06/openclaw-ai-agent-mobile-app-launch-bugs.html?utm_source=openclaw-security-news)
 - [TechRound - Users Can Now Access OpenClaw Through Apple’s App Store – Are There Risks? - June 30, 2026](https://techround.co.uk/news/users-access-openclaw-through-apple-app-store-risks/?utm_source=openclaw-security-news)
