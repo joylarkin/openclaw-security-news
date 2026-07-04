@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 20:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:44:59 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 1. 2026</title>
@@ -692,6 +692,13 @@
       <guid isPermaLink="true">https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities?utm_source=openclaw-security-news</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>SentinelOne - CVE Vulnerability Database Vulnerability Database/CVE-2026-41301 CVE-2026-41301: OpenClaw Auth Bypass Vulnerability - April 23, 2026</title>
+      <link>https://www.sentinelone.com/vulnerability-database/cve-2026-41301/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.sentinelone.com/vulnerability-database/cve-2026-41301/?utm_source=openclaw-security-news</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>Forbes - Problems With OpenClaw? You’re Not Alone - April 22, 2026</title>
@@ -1891,6 +1898,13 @@
       <category>Vendor Advisories</category>
     </item>
     <item>
+      <title>Cato Networks - OpenClaw: Cato Governance Controls and Sector Exposure Insights from the Cato SASE Platform - March 9, 2026</title>
+      <link>https://www.catonetworks.com/blog/openclaw-cato-governance-controls-sector-exposure-insights/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.catonetworks.com/blog/openclaw-cato-governance-controls-sector-exposure-insights/?utm_source=openclaw-security-news</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
       <title>Jfrog Security Research - GhostClaw Unmasked: A Malicious npm Package Impersonating OpenClaw to Steal Everything - March 8, 2026</title>
       <link>https://research.jfrog.com/post/ghostclaw-unmasked/?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://research.jfrog.com/post/ghostclaw-unmasked/?utm_source=openclaw-security-news</guid>
@@ -2393,6 +2407,13 @@
       <guid isPermaLink="true">https://it.slashdot.org/story/26/02/19/223226/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use?utm_source=openclaw-security-news</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Cloud Security Alliance - OpenClaw Threat Model: MAESTRO Framework Analysis - February 20, 2026</title>
+      <link>https://cloudsecurityalliance.org/blog/2026/02/20/openclaw-threat-model-maestro-framework-analysis/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://cloudsecurityalliance.org/blog/2026/02/20/openclaw-threat-model-maestro-framework-analysis/?utm_source=openclaw-security-news</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
     </item>
     <item>
       <title>DarkReading - Supply Chain Attack Secretly Installs OpenClaw for Cline Users - February 19, 2026</title>
@@ -2941,6 +2962,13 @@
       <category>Vendor Advisories</category>
     </item>
     <item>
+      <title>CloudBees - OpenClaw Is a Preview of Why Governance Matters More Than Ever - February 6, 2026</title>
+      <link>https://www.cloudbees.com/blog/openclaw-is-a-preview-of-why-governance-matters-more-than-ever?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.cloudbees.com/blog/openclaw-is-a-preview-of-why-governance-matters-more-than-ever?utm_source=openclaw-security-news</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
       <title>BankInfoSecurity - OpenClaw AI Agent Sparks Global Security Alarm - February 5, 2026</title>
       <link>https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.bankinfosecurity.com/openclaw-ai-agent-sparks-global-security-alarm-a-30686?utm_source=openclaw-security-news</guid>
@@ -3060,6 +3088,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>University of Toronto Information Security - OpenClaw vulnerability notification - February 4, 2026</title>
+      <link>https://security.utoronto.ca/advisories/openclaw-vulnerability-notification/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://security.utoronto.ca/advisories/openclaw-vulnerability-notification/?utm_source=openclaw-security-news</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>SECURITY.COM - The Rise of OpenClaw - February 4, 2026</title>
       <link>https://www.security.com/expert-perspectives/rise-openclaw?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.security.com/expert-perspectives/rise-openclaw?utm_source=openclaw-security-news</guid>
@@ -3165,6 +3200,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>runZero - How to find OpenClaw installations on your network - February 3, 2026</title>
+      <link>https://www.runzero.com/blog/openclaw/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.runzero.com/blog/openclaw/?utm_source=openclaw-security-news</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
       <title>SANS Technology Institute - Detecting and Monitoring OpenClaw (clawdbot, moltbot) - February 3, 2026</title>
       <link>https://isc.sans.edu/diary/32678?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://isc.sans.edu/diary/32678?utm_source=openclaw-security-news</guid>
@@ -3182,6 +3224,13 @@
       <title>Tenable - Clawdbot: How to Mitigate Agentic AI Security Vulnerabilities - February 3, 2026</title>
       <link>https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.tenable.com/blog/agentic-ai-security-how-to-mitigate-clawdbot-moltbot-openclaw-vulnerabilities?utm_source=openclaw-security-news</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
+      <title>Cato Networks - When AI Can Act: Governing OpenClaw - February 3, 2026</title>
+      <link>https://www.catonetworks.com/blog/when-ai-can-act-governing-openclaw/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.catonetworks.com/blog/when-ai-can-act-governing-openclaw/?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
       <category>Vendor Advisories</category>
     </item>
