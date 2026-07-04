@@ -8,6 +8,7 @@ date descending (most recently added first), and writes feed.xml.
 
 import csv
 import re
+import subprocess
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -54,6 +55,30 @@ def parse_date_from_text(text: str):
             return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
         except ValueError:
             continue
+    return None
+
+
+def git_added_date(url: str):
+    """Return the date the URL first appeared in README.md, per git history.
+
+    Used as a pubDate fallback for evergreen links (search pages, trackers)
+    whose titles carry no date. Without a pubDate, RSS readers treat items
+    as brand-new on first fetch and float them above the real headlines.
+    Returns None if git history is unavailable (e.g. shallow clone).
+    """
+    try:
+        out = subprocess.run(
+            ["git", "log", "--reverse", "--format=%aI", "-S", url, "--", "README.md"],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+        first = out.stdout.strip().split("\n")[0].strip()
+        if first:
+            return datetime.fromisoformat(first).astimezone(timezone.utc)
+    except (OSError, ValueError, subprocess.SubprocessError):
+        pass
     return None
 
 
@@ -234,6 +259,9 @@ def build_rss(entries: list) -> str:
 def main():
     blocked = load_blocked_urls(REPO_ROOT / "never_add.csv")
     entries = parse_readme(REPO_ROOT / "README.md", blocked)
+    for entry in entries:
+        if not entry["pub_date"]:
+            entry["pub_date"] = git_added_date(entry["url"])
     sorted_entries = sort_entries(entries)
     xml_content = build_rss(sorted_entries)
 
