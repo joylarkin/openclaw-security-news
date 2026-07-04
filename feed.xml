@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 19:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:24:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 1. 2026</title>
@@ -680,6 +680,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>Silicon.fr - L’ANSSI alerte à son tour sur les dangers d’OpenClaw… - April 24, 2026</title>
+      <link>https://www.silicon.fr/cybersecurite-1371/anssi-openclaw-226895?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.silicon.fr/cybersecurite-1371/anssi-openclaw-226895?utm_source=openclaw-security-news</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>IBM - Agentic AI is growing fast, as are the vulnerabilities - April 23, 2026</title>
       <link>https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities?utm_source=openclaw-security-news</guid>
@@ -729,9 +736,23 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>AISI|AI Security Institute (UK) - What can sandboxed AI agents learn about their evaluation environments? - April 20, 2026</title>
+      <link>https://www.aisi.gov.uk/blog/what-can-sandboxed-ai-agents-learn-about-their-evaluation-environments?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.aisi.gov.uk/blog/what-can-sandboxed-ai-agents-learn-about-their-evaluation-environments?utm_source=openclaw-security-news</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>CNBC - SiIicon Valley’s AI agent hiccups: Wasted tokens and ‘chaotic’ systems - April 19, 2026</title>
       <link>https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html?utm_source=openclaw-security-news</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Leto - IA agentique au bureau : l'ANSSI déconseille formellement tout déploiement en production - April 19,2026</title>
+      <link>https://www.leto.legal/news/anssi-ia-agentique-postes-travail-risques-2026?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.leto.legal/news/anssi-ia-agentique-postes-travail-risques-2026?utm_source=openclaw-security-news</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -778,6 +799,13 @@
       <category>OpenClaw Headlines</category>
     </item>
     <item>
+      <title>BDM (FR) - OpenClaw, Claude Cowork : le CERT-FR met en garde contre les agents IA autonomes - April 15, 2026</title>
+      <link>https://www.blogdumoderateur.com/openclaw-claude-cowork-cert-fr-agents-ia-autonomes/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.blogdumoderateur.com/openclaw-claude-cowork-cert-fr-agents-ia-autonomes/?utm_source=openclaw-security-news</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
       <title>Pune Times Mirror (IN) - Microsoft OpenClaw Copilot AI Sparks Bold Promise, Serious Fears - April 15, 2026</title>
       <link>https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/?utm_source=openclaw-security-news</guid>
@@ -788,6 +816,13 @@
       <title>PCMag - 4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - April 14, 2026</title>
       <link>https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now?utm_source=openclaw-security-news</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>clubic (FR) - Injection de prompt, fuite de données, droits excessifs... le CERT-FR détaille les failles d'OpenClaw - April 14, 2026</title>
+      <link>https://www.clubic.com/actualite-608878-l-anssi-alerte-openclaw-est-bien-trop-risque-sur-votre-poste-de-travail.html?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.clubic.com/actualite-608878-l-anssi-alerte-openclaw-est-bien-trop-risque-sur-votre-poste-de-travail.html?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -811,6 +846,13 @@
       <guid isPermaLink="true">https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare?utm_source=openclaw-security-news</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>CERT-FR / ANSSI (France) - CERTFR-2026-ACT-016 — Vulnérabilités et risques des produits d'automatisation par IA agentique sur les postes de travail - April 13, 2026</title>
+      <link>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-016/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-016/?utm_source=openclaw-security-news</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <category>Government Warnings</category>
     </item>
     <item>
       <title>Qualys - Anatomy of an Autonomous AI Agent Risk: How Qualys ETM Connects the Dots on OpenClaw - April 13, 2026</title>
@@ -1768,6 +1810,13 @@
       <title>South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy?utm_source=openclaw-security-news</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Global Times (CN) - CNCERT issues risk alert on OpenClaw as AI agent goes viral in China - March 19, 2026</title>
+      <link>https://www.globaltimes.cn/page/202603/1356733.shtml?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.globaltimes.cn/page/202603/1356733.shtml?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
@@ -3301,6 +3350,13 @@
       <title>Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026</title>
       <link>https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare?utm_source=openclaw-security-news</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Vendor Advisories</category>
+    </item>
+    <item>
+      <title>Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026</title>
+      <link>https://ethiack.com/news/blog/one-click-rce-openclaw?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://ethiack.com/news/blog/one-click-rce-openclaw?utm_source=openclaw-security-news</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
       <category>Vendor Advisories</category>
     </item>
