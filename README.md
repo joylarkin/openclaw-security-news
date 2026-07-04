@@ -22,7 +22,8 @@ Updated regularly.
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search?utm_source=openclaw-security-news)
 - [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news)
 - [Cyber Security Agency of Singapore - Advisory on Cybersecurity Risks of OpenClaw - May 28, 2026](https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-005/?utm_source=openclaw-security-news)
-- [Financial Services Authority, Sultanate of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://fsa.gov.om/home/SearchNews/1?newsId=10769&year=2026?utm_source=openclaw-security-news) 
+- [Financial Services Authority, Sultanate of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://fsa.gov.om/home/SearchNews/1?newsId=10769&year=2026?utm_source=openclaw-security-news)
+- [CERT-FR / ANSSI (France) - CERTFR-2026-ACT-016 — Vulnérabilités et risques des produits d'automatisation par IA agentique sur les postes de travail - April 13, 2026](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-016/?utm_source=openclaw-security-news)
 - [RTI News (TW) - Taiwan moves to regulate surge in AI-driven crime and security risks - March 18, 2026](https://www.rti.org.tw/en/news?uid=3&pid=197858?utm_source=openclaw-security-news)
 - [Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - OpenClaw’s Rapid Adoption Exposes Skills Supply Chain and Fake Installer Risks in a High-Privilege AI Agent Platform - March 17, 2026](https://www.hkcert.org/blog/openclaw-s-rapid-adoption-exposes-skills-supply-chain-and-fake-installer-risks-in-a-high-privilege-ai-agent-platform?utm_source=openclaw-security-news)
 - [Global Times - China's state news media issues security warning over OpenClaw amid social media frenzy - March 8, 2026](https://www.globaltimes.cn/page/202603/1356590.shtml?utm_source=openclaw-security-news)
@@ -192,6 +193,7 @@ Updated regularly.
 ### 2026-04-24
 - [DigiTimes Asia - OpenClaw's growing pains: innovation outpaces enterprise security - April 24, 2026](https://www.digitimes.com/news/a20260423VL213/niche-security-software-tencent.html?utm_source=openclaw-security-news)
 - [Security Magazine - What Claude and OpenClaw Vulnerabilities Reveal About AI Agents - April 24, 2026](https://www.securitymagazine.com/blogs/14-security-blog/post/102257-what-claude-and-openclaw-vulnerabilities-reveal-about-ai-agents?utm_source=openclaw-security-news)
+- [Silicon.fr - L’ANSSI alerte à son tour sur les dangers d’OpenClaw… - April 24, 2026](https://www.silicon.fr/cybersecurite-1371/anssi-openclaw-226895?utm_source=openclaw-security-news)
 
 ### 2026-04-23
 - [IBM - Agentic AI is growing fast, as are the vulnerabilities - April 23, 2026](https://www.ibm.com/think/x-force/agentic-ai-growing-fast-vulnerabilities?utm_source=openclaw-security-news)
@@ -207,9 +209,11 @@ Updated regularly.
 
 ### 2026-04-20
 - [Cybernews - I asked OpenClaw to analyze stocks, but it failed and killed itself - April 20, 2026](https://cybernews.com/editorial/qwen-powered-openclaw-self-destructs-after-failure/?utm_source=openclaw-security-news)
+- [AISI|AI Security Institute (UK) - What can sandboxed AI agents learn about their evaluation environments? - April 20, 2026](https://www.aisi.gov.uk/blog/what-can-sandboxed-ai-agents-learn-about-their-evaluation-environments?utm_source=openclaw-security-news)
 
 ### 2026-04-19
 - [CNBC - SiIicon Valley’s AI agent hiccups: Wasted tokens and ‘chaotic’ systems - April 19, 2026](https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html?utm_source=openclaw-security-news)
+- [Leto - IA agentique au bureau : l'ANSSI déconseille formellement tout déploiement en production - April 19,2026](https://www.leto.legal/news/anssi-ia-agentique-postes-travail-risques-2026?utm_source=openclaw-security-news)
 
 ### 2026-04-18
 - [AFP/France24/Globally Syndicated - AI 'agent' fever comes with lurking security threats - April 18, 2026](https://www.france24.com/en/live-news/20260419-ai-agent-fever-comes-with-lurking-security-threats?utm_source=openclaw-security-news)
@@ -224,10 +228,12 @@ Updated regularly.
 
 ### 2026-04-15
 - [Twitter - I ran my own analysis which flags fake stars based on spam clustering and account activity - April 15, 2026](https://x.com/___4o____/status/2044382380316578108?utm_source=openclaw-security-news)
+- [BDM (FR) - OpenClaw, Claude Cowork : le CERT-FR met en garde contre les agents IA autonomes - April 15, 2026](https://www.blogdumoderateur.com/openclaw-claude-cowork-cert-fr-agents-ia-autonomes/?utm_source=openclaw-security-news)
 - [Pune Times Mirror (IN) - Microsoft OpenClaw Copilot AI Sparks Bold Promise, Serious Fears - April 15, 2026](https://punemirror.com/technology/ai/microsoft-openclaw-copilot-ai-agents/?utm_source=openclaw-security-news)
 
 ### 2026-04-14
 - [PCMag - 4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - April 14, 2026](https://www.pcmag.com/opinions/4-critical-reasons-openclaw-is-the-most-overhyped-ai-tool-right-now?utm_source=openclaw-security-news)
+- [clubic (FR) - Injection de prompt, fuite de données, droits excessifs... le CERT-FR détaille les failles d'OpenClaw - April 14, 2026](https://www.clubic.com/actualite-608878-l-anssi-alerte-openclaw-est-bien-trop-risque-sur-votre-poste-de-travail.html?utm_source=openclaw-security-news)
 
 ### 2026-04-13
 - [American Banker - AI agents are going rogue. Here's what banks can do about it - April 13, 2026](https://www.americanbanker.com/news/ai-agents-are-going-rogue-heres-what-banks-can-do-about-it?utm_source=openclaw-security-news)
@@ -415,9 +421,11 @@ Updated regularly.
 ### 2026-03-10
 - [Twitter - Quick OpenClaw update: 6.4K open issues / 5.5K open PRs / 230 unresolved security vulnerabilities (+200% MoM) - March 10, 2026](https://x.com/___4o____/status/2031313346692264174?utm_source=openclaw-security-news)
 - [Bloomberg - China Moves to Curb Use of OpenClaw AI for Banks, State Agencies - March 10, 2026](https://www.bloomberg.com/news/articles/2026-03-11/china-moves-to-limit-use-of-openclaw-ai-at-banks-government-agencies?utm_source=openclaw-security-news)
-- [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy?utm_source=openclaw-security-news)  
+- [South China Morning Post - China issues second warning on OpenClaw risks amid adoption frenzy - March 10, 2026](https://www.scmp.com/tech/tech-trends/article/3346138/china-issues-second-warning-openclaw-risks-amid-adoption-frenzy?utm_source=openclaw-security-news)
+- [Global Times (CN) - CNCERT issues risk alert on OpenClaw as AI agent goes viral in China - March 19, 2026](https://www.globaltimes.cn/page/202603/1356733.shtml?utm_source=openclaw-security-news)
 - [PA News - The first victims of OpenClaw have emerged! 4 security basics you must know before installation - March 10, 2026](https://www.panewslab.com/en/articles/019cd75e-ad26-764d-81e7-69f4f665a32d?utm_source=openclaw-security-news)
 - [Cyber Security News - OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - March 10, 2026](https://cybersecuritynews.com/openclaw-advisory-surge-exposes-gap/?utm_source=openclaw-security-news)
+
 
 ### 2026-03-09
 - [South China Morning Post - Chinese local governments offer OpenClaw project subsidies as security questions linger - March 9, 2026](https://www.scmp.com/tech/policy/article/3345986/chinese-local-governments-offer-openclaw-project-subsidies-security-questions-linger?utm_source=openclaw-security-news)
@@ -743,7 +751,8 @@ Updated regularly.
 * [ToxSec - OpenClaw Defaults Ship Insecure and Shodan Already Found Them - January 29, 2026](https://www.toxsec.com/p/openclaw-is-a-wildly-insecure?utm_source=openclaw-security-news)
 * [Palo Alto Networks - OpenClaw formerly Moltbot, Clawdbot May Signal the Next AI Security Crisis - January 29, 2026](https://www.paloaltonetworks.com/blog/network-security/why-moltbot-may-signal-ai-crisis/?utm_source=openclaw-security-news)
 * [GitGuardian - OpenClaw (Moltbot) Personal Assistant Goes Viral – And So Do Your Secrets - January 29, 2026](https://blog.gitguardian.com/moltbot-personal-assistant-goes-viral-and-so-do-your-secrets/?utm_source=openclaw-security-news)
-* [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare?utm_source=openclaw-security-news) * [Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026](https://ethiack.com/news/blog/one-click-rce-openclaw?utm_source=openclaw-security-news)
+* [Cisco Blogs - Personal AI Agents like OpenClaw Are a Security Nightmare - January 28, 2026](https://blogs.cisco.com/security/personal-ai-agents-like-openclaw-are-a-security-nightmare?utm_source=openclaw-security-news)
+* [Ethiack - One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent - January 28, 2026](https://ethiack.com/news/blog/one-click-rce-openclaw?utm_source=openclaw-security-news)
 
 ---
 
