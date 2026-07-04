@@ -47,13 +47,16 @@ Updated regularly.
 <!-- HEADLINES_START -->
 
 ### 2026-07-01
-- [PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 2026](https://www.pcquest.com/security-products/openclaw-skill-store-breach-puts-agent-permissions-under-the-microscope-12122415/?utm_source=openclaw-security-news)
+- [PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 1. 2026](https://www.pcquest.com/security-products/openclaw-skill-store-breach-puts-agent-permissions-under-the-microscope-12122415/?utm_source=openclaw-security-news)
+- [Open Source For U (India) - OpenClaw Skill Store Breach Raises Open Source AI Security Alarm - July 1, 2026](https://www.opensourceforu.com/2026/07/openclaw-skill-store-breach-raises-open-source-ai-security-alarm/?utm_source=openclaw-security-news) 
 
 ### 2026-06-30
 - [Android Headlines - OpenClaw Launches Mobile Apps for Android and iOS, but Users Label It a Buggy Mess - June 30,2026](https://www.androidheadlines.com/2026/06/openclaw-ai-agent-mobile-app-launch-bugs.html?utm_source=openclaw-security-news)
 - [TechRound - Users Can Now Access OpenClaw Through Apple’s App Store – Are There Risks? - June 30, 2026](https://techround.co.uk/news/users-access-openclaw-through-apple-app-store-risks/?utm_source=openclaw-security-news)
 - [Softonic - OpenClaw’s first mobile apps are now live: early users hit problems - June 30, 2026](https://en.softonic.com/articles/openclaws-first-mobile-apps-are-now-live-early-users-hit-problems?utm_source=openclaw-security-news)
 
+### 2026-06-25
+- [Cyber Security News - OpenClaw Skill Marketplace Exposes AI Agents to Supply Chain Malware and Financial Fraud - June 25, 2026](https://cybersecuritynews.com/openclaw-skill-marketplace-exposes-ai-agents/?utm_source=openclaw-security-news)
 
 ### 2026-06-24
 - [Dark Reading - More Malicious OpenClaw Skills Threaten AI Supply Chain - June 24, 2026](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain?utm_source=openclaw-security-news)
@@ -71,6 +74,9 @@ Updated regularly.
 
 ### 2026-06-17
 - [TechTarget - The OpenClaw security risks every CISO needs to know - June 17, 2026](https://www.techtarget.com/searchsecurity/tip/The-OpenClaw-security-risks-every-CISO-needs-to-know?utm_source=openclaw-security-news)
+
+### 2026-06-15
+- [arXiv - Red-Teaming Agent Execution Contexts: Open-World Security Evaluation on OpenClaw - June 15, 2026](https://arxiv.org/pdf/2605.11047?utm_source=openclaw-security-news)
 
 ### 2026-06-11
 - [The Hacker News - New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets - June 11, 2026](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html?utm_source=openclaw-security-news)
@@ -111,6 +117,7 @@ Updated regularly.
 
 ### 2026-05-25
 - [The Times of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://timesofoman.com/article/172235-fsa-identifies-three-critical-security-flaws-in-openclaw?utm_source=openclaw-security-news)
+- [arXiv - Security of OpenClaw Agents: Fundamentals, Threats, and Countermeasures - May 25, 2026](https://arxiv.org/pdf/2605.25435?utm_source=openclaw-security-news)
 
 ### 2026-05-23
 - [TNGlobal - No ‘OpenClaw strategy’ for Agoda for the moment due to security risks, says CTO - May 23, 2026](https://technode.global/2026/05/23/no-openclaw-strategy-for-agoda-for-the-moment-due-to-security-risks-says-cto/?utm_source=openclaw-security-news)
@@ -131,12 +138,14 @@ Updated regularly.
 
 ### 2026-05-15
 - [Cybersecurity News - OpenClaw Chain Vulnerabilities Expose 245,000 Public AI Agent Servers to Attack - May 15, 2026](https://cybersecuritynews.com/openclaw-chain-vulnerabilities/?utm_source=openclaw-security-news)
+- [The Hacker News - Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence - May 15, 2026](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html?utm_source=openclaw-security-news)
 
 ### 2026-05-14
 - [Entrepreneur Magazine - Why Executives Are Suddenly Very Nervous About Autonomous AI - May 14, 2026](https://www.entrepreneur.com/science-technology/why-executives-are-suddenly-very-nervous-about-autonomous-ai/504117?utm_source=openclaw-security-news)
 - [Singapore Infocomm Media Development Authority (IMDA) - What is OpenClaw and what are the dangers associated with it? - May 14, 2026](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/openclaw-case-study.pdf?utm_source=openclaw-security-news)
 - [The Straits Times (SG) - Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - May 14, 2026](https://www.straitstimes.com/singapore/avoid-using-openclaw-in-mission-critical-settings-giving-unrestricted-access-imda?utm_source=openclaw-security-news)
 - [Xinhua (CN) - China accelerates AI agent governance amid emerging security risks - May 14, 2026](https://www.bignewsnetwork.com/news/279050568/china-accelerates-ai-agent-governance-amid-emerging-security-risks?utm_source=openclaw-security-news)
+- [arXiv - Toward Securing AI Agents Like Operating Systems - May 14, 2026](https://arxiv.org/pdf/2605.14932?utm_source=openclaw-security-news)
 
 ### 2026-05-11
 - [TrendingTopics EU - Users Flee as OpenClaw Stumbles Through Its Most Difficult Week Ever - May 11, 2026](https://www.trendingtopics.eu/users-flee-as-openclaw-stumbles-through-its-most-difficult-week-ever/?utm_source=openclaw-security-news)
@@ -144,7 +153,7 @@ Updated regularly.
 - [SC Media - What OpenClaw revealed about the agent security model - May 11, 2026](https://www.scworld.com/perspective/what-openclaw-revealed-about-the-agent-security-model?utm_source=openclaw-security-news)
 - [QA Financial - OpenClaw panic forces Chinese banks into new AI governance and testing phase - May 11, 2026](https://qa-financial.com/openclaw-panic-forces-chinese-banks-into-new-ai-governance-and-testing-phase/?utm_source=openclaw-security-news)
 - [The Telegraph (UK) - AI ‘agents of chaos’ run riot inside companies - May 11, 2026](https://www.telegraph.co.uk/business/2026/05/11/ai-agents-of-chaos-run-riot-inside-companies/?utm_source=openclaw-security-news)
-- [Windows News - Microsoft OpenClaw ClawPilot: Agentic Desktop Assistant vs Enterprise Security - May 11, 2026](https://windowsnews.ai/article/microsoft-openclaw-clawpilot-agentic-desktop-assistant-vs-enterprise-security.416608?utm_source=openclaw-security-news)
+- [arXiv - MATRA: Modeling the Attack Surface of Agentic AI Systems - OpenClaw Case Study - May 11, 2026](https://arxiv.org/pdf/2605.10763?utm_source=openclaw-security-news)
 
 ### 2026-05-08
 - [Voice of Emirates (UAE) - The “OpenClaw” Threat: Nemotron Labs Warns of New Class of Autonomous AI Exploits - May 8, 2026](https://www.voiceofemirates.com/en/science-and-tech/ai/2026/05/08/the-openclaw-threat-nemotron-labs-warns-of-new-class-of-autonomous-ai-exploits/?utm_source=openclaw-security-news)
@@ -256,7 +265,7 @@ Updated regularly.
 - [Startup Fortune - OpenClaw Users Should Assume Compromise, Security Experts Warn - April 3, 2026](https://startupfortune.com/openclaw-users-should-assume-compromise-security-experts-warn/?utm_source=openclaw-security-news)
 - [InfoWorld - Understanding the risks of OpenClaw - April 3, 2026](https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html?utm_source=openclaw-security-news)
 - [XDA Developers - I ran Nvidia's NemoClaw to see if OpenClaw is finally safe, but it still has the same problems - April 6, 2026](https://www.xda-developers.com/ran-nvidia-nemoclaw-openclaw-finally-safe-same-problems/?utm_source=openclaw-security-news)
-- [Open Source For U - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026](https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/?utm_source=openclaw-security-news)
+- [Open Source For U (India) - China’s OpenClaw Gold Rush Turns Into Security Panic - April 3, 2026](https://www.opensourceforu.com/2026/04/chinas-openclaw-gold-rush-turns-into-security-panic/?utm_source=openclaw-security-news)
 - [Korea Startup Post - CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - April 3, 2026](https://www.kspost.biz/en-us/articles/2413?utm_source=openclaw-security-news)
 
 ### 2026-04-02
@@ -653,6 +662,7 @@ Updated regularly.
 * [Backslash - Don't Let the Lobster Fool You: OpenClaw Security Risks Explained - June 4, 2026](https://www.backslash.security/blog/openclaw-security-risks-explained?utm_source=openclaw-security-news)
 * [TrendMicro - Viral AI, Invisible Risks: What OpenClaw Reveals About Agentic Assistants - June 2, 2026](https://www.trendmicro.com/pt_br/research/26/b/what-openclaw-reveals-about-agentic-assistants.html?utm_source=openclaw-security-news)
 * [OX Security - The @antv Ecosystem Was Compromised with Shai-Hulud Malware, 300+ Packages Affected - May 19, 2026](https://www.ox.security/blog/the-antv-ecosystem-was-compromised-with-shai-hulud-malware-300-packages-affected/?utm_source=openclaw-security-news)
+* [Rescana - Claw Chain: Critical OpenClaw Vulnerabilities (CVE-2026-44112, 44113, 44115, 44118) Enable Data Theft, Privilege Escalation, and Persistent Access - May 17, 2026](https://www.rescana.com/post/claw-chain-critical-openclaw-vulnerabilities-cve-2026-44112-44113-44115-44118-enable-data-theft-privilege-escalation-and?utm_source=openclaw-security-news)
 * [Cyera - Claw Chain: Cyera Research Unveil Four Chainable Vulnerabilities in OpenClaw - May 15, 2026](https://www.cyera.com/blog/claw-chain-cyera-research-unveil-four-chainable-vulnerabilities-in-openclaw?utm_source=openclaw-security-news)
 * [Google Threat Intelligence - GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access - May 11, 2026](https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/?utm_source=openclaw-security-news)
 * [Stormshield (FR) - OpenClaw et Claude en 2026 : risques et rétrospectives - May 7, 2026](https://www.stormshield.com/fr/actus/openclaw-claude-risques-et-retrospectives/?utm_source=openclaw-security-news)
