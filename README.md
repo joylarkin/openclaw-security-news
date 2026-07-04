@@ -646,6 +646,7 @@ Updated regularly.
 
 ## OpenClaw Security Vendor Advisories
 * [VulnCheck - Ongoing OpenClaw CVE Advisories](https://www.vulncheck.com/advisories?utm_source=openclaw-security-news)
+* [Kaspersky - OpenClaw: risks for the users and how to mitigate them - July 1, 2026](https://securelist.com/openclaw-security/120484/?utm_source=openclaw-security-news)
 * [Unit 42 Palo Alto Networks - OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat - June 23, 2026](https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/?utm_source=openclaw-security-news)
 * [Imperva - Compromise OpenClaw with Prompt Injections in Message Objects - June 10, 2026](https://www.imperva.com/blog/compromise-openclaw-with-prompt-injections-in-message-objects/?utm_source=openclaw-security-news)
 * [Varonis - Phishing for Lobsters: How We Tricked OpenClaw into Spilling Secrets - June 9, 2026](https://www.varonis.com/blog/openclaw-phishing?utm_source=openclaw-security-news)
