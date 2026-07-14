@@ -5,13 +5,34 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 03:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:35:51 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyber Security Intelligence - AI Models Invent Fake Names Delivering Malicious Code - July 13, 2026</title>
+      <link>https://www.cybersecurityintelligence.com/blog/ai-models-invent-fake-names-delivering-malicious-code-9535.html?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.cybersecurityintelligence.com/blog/ai-models-invent-fake-names-delivering-malicious-code-9535.html?utm_source=openclaw-security-news</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
     <item>
       <title>The Hacker News - Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws - July 10, 2026</title>
       <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html?utm_source=openclaw-security-news</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>Security Week - ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism - July 10, 2026</title>
+      <link>https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/?utm_source=openclaw-security-news</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <category>OpenClaw Headlines</category>
+    </item>
+    <item>
+      <title>arXiv - When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents - July 6, 2026</title>
+      <link>https://arxiv.org/abs/2607.05189v1?utm_source=openclaw-security-news</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.05189v1?utm_source=openclaw-security-news</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <category>OpenClaw Headlines</category>
     </item>
     <item>
