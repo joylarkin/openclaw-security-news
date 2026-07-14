@@ -47,8 +47,15 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-07-13
+- [Cyber Security Intelligence - AI Models Invent Fake Names Delivering Malicious Code - July 13, 2026](https://www.cybersecurityintelligence.com/blog/ai-models-invent-fake-names-delivering-malicious-code-9535.html?utm_source=openclaw-security-news)
+
 ### 2026-07-10
 - [The Hacker News - Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws - July 10, 2026](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html?utm_source=openclaw-security-news)
+- [Security Week - ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism - July 10, 2026](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/?utm_source=openclaw-security-news) 
+
+### 2026-07-06
+- [arXiv - When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents - July 6, 2026](https://arxiv.org/abs/2607.05189v1?utm_source=openclaw-security-news)
 
 ### 2026-07-01
 - [PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 1. 2026](https://www.pcquest.com/security-products/openclaw-skill-store-breach-puts-agent-permissions-under-the-microscope-12122415/?utm_source=openclaw-security-news)
