@@ -47,6 +47,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-07-10
+- [The Hacker News - Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws - July 10, 2026](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html?utm_source=openclaw-security-news)
+
 ### 2026-07-01
 - [PCQuest - OpenClaw skill store breach puts agent permissions under the microscope - July 1. 2026](https://www.pcquest.com/security-products/openclaw-skill-store-breach-puts-agent-permissions-under-the-microscope-12122415/?utm_source=openclaw-security-news)
 - [Open Source For U (India) - OpenClaw Skill Store Breach Raises Open Source AI Security Alarm - July 1, 2026](https://www.opensourceforu.com/2026/07/openclaw-skill-store-breach-raises-open-source-ai-security-alarm/?utm_source=openclaw-security-news) 
