@@ -47,6 +47,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-07-15
+- [Anthropic Alignment Science Blog - Agentic Misalignment in Summer 2026 - July 15, 2026](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/?utm_source=openclaw-security-news)
+
 ### 2026-07-13
 - [Cyber Security Intelligence - AI Models Invent Fake Names Delivering Malicious Code - July 13, 2026](https://www.cybersecurityintelligence.com/blog/ai-models-invent-fake-names-delivering-malicious-code-9535.html?utm_source=openclaw-security-news)
 
