@@ -49,6 +49,7 @@ Updated regularly.
 
 ### 2026-07-15
 - [Anthropic Alignment Science Blog - Agentic Misalignment in Summer 2026 - July 15, 2026](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/?utm_source=openclaw-security-news)
+- [TechRadar Pro - Top AI tools such as OpenClaw and GitHub Copilot can be hijacked to create new massive botnets - July 15, 2026](https://www.msn.com/en-us/news/technology/top-ai-tools-such-as-openclaw-and-github-copilot-can-be-hijacked-to-create-new-massive-botnets/?utm_source=openclaw-security-news)
 
 ### 2026-07-13
 - [Cyber Security Intelligence - AI Models Invent Fake Names Delivering Malicious Code - July 13, 2026](https://www.cybersecurityintelligence.com/blog/ai-models-invent-fake-names-delivering-malicious-code-9535.html?utm_source=openclaw-security-news)
