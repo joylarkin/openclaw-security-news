@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:07:48 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Anthropic Alignment Science Blog - Agentic Misalignment in Summer 2026 - July 15, 2026</title>
