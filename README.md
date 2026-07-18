@@ -21,6 +21,7 @@ Updated regularly.
 - [CERT BUND Germany - Search for OpenClaw Advisories](https://wid.cert-bund.de/portal/search-de/content?searchQuery=openclaw&category=securityAdvisory&moduleForNavigation=wid?utm_source=openclaw-security-news)
 - [Centre for Cybersecurity Belgium - Search for OpenClaw Advisories](https://ccb.belgium.be/search?utm_source=openclaw-security-news)
 - [CERT CVE Croatia - Proizvođač: openclaw](https://cve.cert.hr/?vendor=openclaw?utm_source=openclaw-security-news)
+- [Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) - Modern Software’s Hidden Cost: Managing Risk in the Open-Source Ecosystem - July 17, 2026](https://www.hkcert.org/blog/modern-software-s-hidden-cost-managing-risk-in-the-open-source-ecosystem?utm_source=openclaw-security-news)
 - [Cyber Security Agency of Singapore - Advisory on Cybersecurity Risks of OpenClaw - May 28, 2026](https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-005/?utm_source=openclaw-security-news)
 - [Financial Services Authority, Sultanate of Oman - FSA identifies three critical security flaws in OpenClaw - May 25, 2026](https://fsa.gov.om/home/SearchNews/1?newsId=10769&year=2026?utm_source=openclaw-security-news)
 - [CERT-FR / ANSSI (France) - CERTFR-2026-ACT-016 — Vulnérabilités et risques des produits d'automatisation par IA agentique sur les postes de travail - April 13, 2026](https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-016/?utm_source=openclaw-security-news)
@@ -46,6 +47,9 @@ Updated regularly.
 ## OpenClaw Security Headlines 
 
 <!-- HEADLINES_START -->
+
+### 2026-07-17
+- [SCMP YoungPost - Your Voice: OpenClaw’s security risks, saving golden coin turtles and phone rules (online letters) - July 17, 2026](https://www.youngpostclub.com/yp/share-us/letters-editors/article/3360891/your-voice-openclaws-security-risks-saving-golden-coin-turtles-and-phone-rules-online-letters?utm_source=openclaw-security-news)
 
 ### 2026-07-15
 - [Anthropic Alignment Science Blog - Agentic Misalignment in Summer 2026 - July 15, 2026](https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/?utm_source=openclaw-security-news)
