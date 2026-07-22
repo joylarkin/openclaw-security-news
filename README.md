@@ -48,6 +48,9 @@ Updated regularly.
 
 <!-- HEADLINES_START -->
 
+### 2026-07-20
+- [Security Boulevard - BSidesSF 2026 – From Assistant To Assassin: Weaponizing An OpenClaw Vulnerability To Achieve 1-Click RCE - July 20, 2026](https://securityboulevard.com/2026/07/bsidessf-2026-from-assistant-to-assassin-weaponizing-an-openclaw-vulnerability-to-achieve-1-click-rce/?utm_source=openclaw-security-news)
+
 ### 2026-07-17
 - [SCMP YoungPost - Your Voice: OpenClaw’s security risks, saving golden coin turtles and phone rules (online letters) - July 17, 2026](https://www.youngpostclub.com/yp/share-us/letters-editors/article/3360891/your-voice-openclaws-security-risks-saving-golden-coin-turtles-and-phone-rules-online-letters?utm_source=openclaw-security-news)
 
