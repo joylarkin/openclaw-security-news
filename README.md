@@ -1,5 +1,5 @@
 # 2026 OpenClaw Security News    [![RSS](https://github.com/joylarkin/cleverhack/blob/main/rss2.png?raw=true)](https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml)
- [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main?cache=bust)](https://github.com/joylarkin/openclaw-security-news/commits/main)     
+ [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/joylarkin/openclaw-security-news)  [![Last Commit](https://img.shields.io/github/last-commit/joylarkin/openclaw-security-news/main?cache=bust)](https://github.com/joylarkin/openclaw-security-news/commits/main)     
 
 A collection of global government warnings, security advisories, and news headlines about **OpenClaw Security** for AI builders, developers, and investors.
 Updated regularly.  
