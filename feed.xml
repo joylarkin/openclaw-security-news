@@ -5,7 +5,7 @@
     <link>https://github.com/joylarkin/openclaw-security-news</link>
     <description>Curated security news about OpenClaw vulnerabilities, exploits, and advisories. Updated twice daily.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 14:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:12:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/joylarkin/openclaw-security-news/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Security Boulevard - BSidesSF 2026 – From Assistant To Assassin: Weaponizing An OpenClaw Vulnerability To Achieve 1-Click RCE - July 20, 2026</title>
@@ -1694,7 +1694,7 @@
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Xinhua (CN) - AI &quot;cultivating lobster&quot; became popular, official tips → - March 8, 2026</title>
+      <title>Xinhua (CN) - AI "cultivating lobster" became popular, official tips → - March 8, 2026</title>
       <link>https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://app.xinhuanet.com/news/article.html?articleId=5dd7c78a0d4346780a4f32e67383e8ce?utm_source=openclaw-security-news</guid>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
@@ -2450,7 +2450,7 @@
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Northeastern Global News - Why the OpenClaw AI agent is a &quot;privacy nightmare&quot; - February 10, 2026</title>
+      <title>Northeastern Global News - Why the OpenClaw AI agent is a "privacy nightmare" - February 10, 2026</title>
       <link>https://news.northeastern.edu/2026/02/10/open-claw-ai-assistant/?utm_source=openclaw-security-news</link>
       <guid isPermaLink="true">https://news.northeastern.edu/2026/02/10/open-claw-ai-assistant/?utm_source=openclaw-security-news</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
